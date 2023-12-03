@@ -10,7 +10,13 @@
 {"key": "俊俊","name": "俊俊(v2)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"},      
 {"key":"畅梦","name":"🍋畅梦秒播","type":3,"api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/changmeng.js"},        
 //{"key":"csp_Ddys","name":"⛳低端影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"},
-
+{"key":"玩偶表哥弹幕","name":"玩偶表哥弹幕|4K","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, 
+      "ext": {
+      "token": "http://127.0.0.1:9978/file/TV/ali_token.txt",
+      "cookie": "http://127.0.0.1:9978/file/TV/quark_cookie.txt",
+      "danmu" : true},
+      "jar":"https://already.free.hr/okcaptain/okjar/main/ok1203.png"},
+{"key":"暴風","name":"暴風","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1,"jar":"https://already.free.hr/okcaptain/okjar/main/ok1203.png"},
    
        
 {"key":"玩偶哥哥","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/jingyi251/a/main/a/t.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"},
