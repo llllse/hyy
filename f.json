@@ -17,8 +17,23 @@
       "danmu" : true},
       "jar":"https://already.free.hr/okcaptain/okjar/main/ok1203.png"},
 {"key":"暴風","name":"暴風","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1,"jar":"https://already.free.hr/okcaptain/okjar/main/ok1203.png"},
-   
-       
+ {
+      "key": "csp_WDzy",
+      "name": "💘万达直播室",
+      "type": 1,
+      "api": "http://www.duse.pro//api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "电影直播-放映厅",
+        "电视直播-放映厅",
+        "体育直播-放映厅"
+      ]
+    },  
+
+
+      
 {"key":"玩偶哥哥","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/jingyi251/a/main/a/t.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"},
 {"key":"YGP","name":"🚀叨观荐影┃速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 
