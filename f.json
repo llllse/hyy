@@ -129,7 +129,7 @@
       "api": "csp_Market",
       "searchable": 0,
       "changeable": 0,
-      "ext": "https://fm.t4tv.hz.cz/json/market.json"
+      "ext": "https://fm.t4tv.hz.cz/json/market.json","jar":"https://ghproxy.net/https://raw.githubusercontent.com/jingyi251/CatVodSpider/main/jar/custom_spider.jar"
     }
 ],
 
