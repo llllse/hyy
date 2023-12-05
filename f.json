@@ -31,6 +31,20 @@
         "体育直播-放映厅"
       ]
     },  
+    {
+			"key": "阿里夸克配置",
+			"name": "阿里夸克配置",
+			"type": 3,
+			"api": "csp_Config",
+			"searchable": 0,
+			"changeable": 0,
+			"style": {
+				"type": "rect",
+				"ratio": 1
+			},
+			"ext":"./lib/tokenm.json", 
+          "jar":"https://already.free.hr/okcaptain/okjar/main/ok1203.png"},
+	
 
 
       
