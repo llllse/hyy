@@ -12,7 +12,7 @@
 {"key":"团长资源","name":"团长资源|网盘","type":3,"api":"csp_TZFile", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/lib/tokenm.json$$$null$$$1","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/pg.jar"},
 {"key": "直播转点播","name": "直播转换","type": 3,"api": "https://pan.shangui.cc/f/Z2LIv/zbzdb.js","ext": "https://pan.shangui.cc/f/v6doTk/%E7%9B%B4%E6%92%AD%E4%BB%93.json"},    
 {"key": "xinshijue","name": "新视觉影院","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/jingyi251/a/main/a/xinshijue_open.js"},
-{"key":"Woysc","name":"影视车","type":3,"api":"csp_Woysc","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://www.weixine.net//$$$null$$$1"},
+{"key":"Wobg","name":"影视车","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"./lib/tokenm.json$$$https://www.weixine.net//$$$null$$$1"},
 	{
             "key": "996",
             "name": "996影视",
