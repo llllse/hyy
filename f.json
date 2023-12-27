@@ -42,7 +42,19 @@
         "电视直播-放映厅",
         "体育直播-放映厅"
       ]
-    },  
+    },
+   {
+            "key": "AList",
+            "name": "AList",
+            "type": 3,
+            "api": "csp_AList",
+            "searchable": 1,
+            "changeable": 0,
+            "jar": "./lib/fm.jar",
+            "ext": "./lib/alist.json"
+        },
+
+
     {
 			"key": "阿里夸克配置",
 			"name": "阿里夸克配置",
