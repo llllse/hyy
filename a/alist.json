@@ -1,0 +1,18 @@
+{
+  "vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
+  "drives": [
+
+{
+      "name": "💾Cloud-8",
+      "server": "http://112.227.236.3:5678/"
+    },
+    {
+      "name": "🍁Cloud-9",
+      "server": "http://124.116.233.160:5678/"
+    },
+    {
+      "name": "小雅",
+      "server": "http://175.152.57.102:5678/"
+    }
+  ]
+}
