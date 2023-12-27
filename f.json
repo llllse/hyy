@@ -50,7 +50,7 @@
             "api": "csp_AList",
             "searchable": 1,
             "changeable": 0,
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/CatVodSpider/main/jar/custom_spider.jar",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/fm.jar",
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/alist.json"
         },
 
