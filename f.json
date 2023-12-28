@@ -50,7 +50,7 @@
             "api": "csp_Pan99",
             "searchable": 1,
             "changeable": 0,
-            "ext": "/lib/tokenm.json",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jingyi251/pg/main/lib/tokenm.json",
            "jar": "https://fmjar.caioa.link/jar/custom_spider.jar"
         },
 
