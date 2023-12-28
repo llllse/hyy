@@ -43,7 +43,16 @@
         "体育直播-放映厅"
       ]
     },
-  
+  {
+            "key": "盘99",
+            "name": "盘99",
+            "type": 3,
+            "api": "csp_Pan99",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": "/lib/tokenm.json",
+           "jar": "https://fmjar.caioa.link/jar/custom_spider.jar"
+        },
 
     {
 			"key": "阿里夸克配置",
