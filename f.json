@@ -8,26 +8,16 @@
 {"key":"csp_Xunlei8","name":"🧲迅雷吧","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"},
 {"key": "俊俊","name": "俊俊(v2)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"},      
 {"key":"畅梦","name":"🍋畅梦秒播","type":3,"api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext":"https://agit.ai/guot54/ygbh/raw/branch/master/h/changmeng.js"},        
-//{"key":"csp_Ddys","name":"⛳低端影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"},
-{"key":"团长资源","name":"团长资源|网盘","type":3,"api":"csp_TZFile", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/lib/tokenm.json$$$null$$$1","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/pg.jar"},
-{"key":"PAN99","name":"PAN99|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/lib/tokenm.json$$$https://pan99.xyz$$$2023$$$JINGYI1985","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/pg.jar"},
-{"key":"影视车","name":"影视车|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/lib/tokenm.json$$$https://www.weixine.net/$$$null$$$1","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/pg.jar"},
-	{"key": "直播转点播","name": "直播转换","type": 3,"api": "https://pan.shangui.cc/f/Z2LIv/zbzdb.js","ext": "https://pan.shangui.cc/f/v6doTk/%E7%9B%B4%E6%92%AD%E4%BB%93.json"},    
+{"key":"影视车","name":"影视车|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/lib/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$./lib/wogg.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/pg.jar"},
+{"key":"Wobg","name":"玩偶表哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/pg.jar"},
+{"key":"Pan99","name":"盘99|网盘","type":3,"api":"csp_Pan99","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/lib/tokenm.json$$$https://pan99.xyz$$$null$$$1","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/pg.jar"},
+{"key":"Hdhive","name":"影巢|网盘","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/lib/tokenm.json$$$null$$$1","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/pg.jar"},
+{"key":"Ppxzy","name":"皮皮虾|网盘","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/lib/tokenm.json$$$https://ppxzy.net/$$$null$$$1","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/pg.jar"},
+{"key":"校长影视","name":"校长影视|网盘","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/lib/tokenm.json$$$null$$$1","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/pg.jar"},
+{"key":"团长资源","name":"团长资源|网盘","type":3,"api":"csp_TZFile", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/lib/tokenm.json$$$null$$$1","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/pg.jar"},	
+{"key": "直播转点播","name": "直播转换","type": 3,"api": "https://pan.shangui.cc/f/Z2LIv/zbzdb.js","ext": "https://pan.shangui.cc/f/v6doTk/%E7%9B%B4%E6%92%AD%E4%BB%93.json"},    
 {"key": "xinshijue","name": "新视觉影院","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/jingyi251/a/main/a/xinshijue_open.js"},
-
-	{
-            "key": "996",
-            "name": "996影视",
-            "type": 3,
-            "filterable": 1,
-            "api": "csp_XBPQ",
-            "ext": {
-                "分类url": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14",
-                "筛选": "1"
-            },
-            "jar": "https://123.155123.xyz/HeChengChaXiu.jar"
-        },
+{"key": "996影院","name": "996影院","type": 3,"api": "csp_Cs1369","searchable": 1,"changeable": 1,"jar": "https://123.155123.xyz/HeChengChaXiu.jar"},
 {"key":"暴風","name":"暴風","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1,"jar":"https://already.free.hr/okcaptain/okjar/main/ok1203.png"},
  {
       "key": "csp_WDzy",
@@ -43,30 +33,9 @@
         "体育直播-放映厅"
       ]
     },
-  {
-            "key": "盘99",
-            "name": "盘99",
-            "type": 3,
-            "api": "csp_Pan99",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jingyi251/pg/main/lib/tokenm.json",
-           "jar": "https://fmjar.caioa.link/jar/custom_spider.jar"
-        },
+ 
 
-    {
-			"key": "阿里夸克配置",
-			"name": "阿里夸克配置",
-			"type": 3,
-			"api": "csp_Config",
-			"searchable": 0,
-			"changeable": 0,
-			"style": {
-				"type": "rect",
-				"ratio": 1
-			},
-			"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/lib/tokenm.json", 
-          "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/pg.jar"},
+    {"key": "阿里夸克配置","name": "阿里夸克配置","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"style": {"type": "rect","ratio": 1},"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/lib/tokenm.json",  "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/pg.jar"},
 	
 
 
