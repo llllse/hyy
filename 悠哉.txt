@@ -1,6 +1,6 @@
 央视,#genre#
 
-CCTV2-财经,http://175.22.110.59:9901/tsfile/live/0002_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
+
 CCTV3-综艺,http://175.22.110.59:9901/tsfile/live/0003_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
 CCTV4-国际,http://175.22.110.59:9901/tsfile/live/0004_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
 CCTV5-体育,http://175.22.110.59:9901/tsfile/live/0005_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
@@ -15,7 +15,7 @@ CCTV13-新闻,http://175.22.110.59:9901/tsfile/live/0013_1.m3u8?=TG@YYDSyouzai=k
 CCTV14-少儿,http://175.22.110.59:9901/tsfile/live/0014_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
 CCTV15-音乐,http://175.22.110.59:9901/tsfile/live/0015_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
 
-CCTV-2高清,http://119.114.37.207:9901/tsfile/live/1157_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
+
 CCTV-3高清,http://119.114.37.207:9901/tsfile/live/1002_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
 CCTV-4高清,http://119.114.37.207:9901/tsfile/live/1158_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
 CCTV-5高清,http://119.114.37.207:9901/tsfile/live/1004_1.m3u8?=TG@YYDSyouzai=key=txiptv&playlive=1&authid=0=TG@YYDSyouzai
