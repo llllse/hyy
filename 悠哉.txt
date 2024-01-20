@@ -217,7 +217,20 @@ CGTN Arabic,http://livear.cgtn.com/1000a/prog_index.m3u8
 CGTN Español,http://livees.cgtn.com/500e/prog_index.m3u8
 CGTN France,http://livefr.cgtn.com/1000f/prog_index.m3u8
 
+
 辽宁,#genre#
+辽宁卫视,http://jd.sy012.com:4000/udp/232.0.0.144:9108
+辽宁卫视,http://jd.sy012.com:4000/udp/232.0.0.144:9108
+辽宁都市,http://jd.sy012.com:4000/udp/232.0.0.42:8856
+辽宁影视,http://jd.sy012.com:4000/udp/232.0.0.97:8534
+辽宁体育,http://jd.sy012.com:4000/udp/232.0.0.66:8820
+辽宁经济,http://jd.sy012.com:4000/udp/232.0.0.155:9320
+辽宁北方,http://jd.sy012.com:4000/udp/232.0.0.211:9240
+辽宁生活,http://jd.sy012.com:4000/udp/232.0.0.212:9242
+辽宁青少,http://jd.sy012.com:4000/udp/232.0.0.230:9356
+辽宁移动频道,http://jd.sy012.com:4000/udp/232.0.0.167:9338
+葫芦岛综合,http://jd.sy012.com:4000/udp/232.0.0.238:9260
+葫芦岛公共,http://jd.sy012.com:4000/udp/232.0.0.239:9262
 
 卫视频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
