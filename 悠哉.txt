@@ -3,7 +3,8 @@
 粉凤凰悠哉,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 红粉凤凰香港台悠哉,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
-
+黑莓电影,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/index.m3u8
+黑莓电影,http://39.134.65.207/PLTV/88888888/224/3221225681/1.m3u8
 chc影院,http://hms204nc24098028086011100000000000000026.live.aikan.miguvideo.com/wh7f454c46tw1145091878_-199278430/wd_r3/cnr/chcjtyy/3000/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=122.114.118.211&timestamp=20240117024723&encrypt=19fae185d59016764906fbd733f9c17b&ContentId=265667645&timezone=UTC&mtv_session=f306e11fcb19c8c75eecc5a62349959d&icpid=88888888&RTS=1705459643&from=2&hms_devid=204&online=1705459643
 
 
