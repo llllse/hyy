@@ -5,7 +5,9 @@
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 黑莓电影,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/index.m3u8
 黑莓电影,http://39.134.65.207/PLTV/88888888/224/3221225681/1.m3u8
-chc影院,http://hms204nc24098028086011100000000000000026.live.aikan.miguvideo.com/wh7f454c46tw1145091878_-199278430/wd_r3/cnr/chcjtyy/3000/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=122.114.118.211&timestamp=20240117024723&encrypt=19fae185d59016764906fbd733f9c17b&ContentId=265667645&timezone=UTC&mtv_session=f306e11fcb19c8c75eecc5a62349959d&icpid=88888888&RTS=1705459643&from=2&hms_devid=204&online=1705459643
+翡翠台，https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+斗鱼，https://openhls-tct.douyucdn2.cn/dyliveflv1/252802rCnFqY6xFH_2000.m3u8?txSecret=6310847176a44d7cac3eec2e1064f4a7&txTime=65af93f4&token=h5-douyu-0-252802-56dbb8e3924fc6a4ecf2ede0560a3cdf&did=10000000000000000000000000001501&origin=tct&vhost=play1&sid=379099049#.m3u8
+
 
 
 央视频道,#genre#
@@ -230,6 +232,14 @@ CGTN France,http://livefr.cgtn.com/1000f/prog_index.m3u8
 辽宁生活,http://jd.sy012.com:4000/udp/232.0.0.212:9242
 辽宁青少,http://jd.sy012.com:4000/udp/232.0.0.230:9356
 辽宁移动频道,http://jd.sy012.com:4000/udp/232.0.0.167:9338
+辽宁」北方,http://39.134.61.218/PLTV/88888888/224/3221226865/index.m3u8
+辽宁宜佳优选,http://39.134.61.218/PLTV/88888888/224/3221226920/index.m3u8
+辽宁移动电视,http://39.134.61.218/PLTV/88888888/224/3221226867/index.m3u8
+辽宁影视剧,http://39.134.61.218/PLTV/88888888/224/3221226861/index.m3u8
+辽宁都市,http://39.134.61.218/PLTV/88888888/224/3221226914/index.m3u8
+辽宁教育•青少,http://39.134.61.218/PLTV/88888888/224/3221226863/index.m3u8
+辽宁生活,http://39.134.61.218/PLTV/88888888/224/3221226918/index.m3u8
+辽宁体育,http://39.134.61.218/PLTV/88888888/224/3221226916/index.m3u8
 大连天途,#genre#
 大连新闻综合,http://live.dltv.cn/tcb3IB5/500/k47tzb0.m3u8
 大连生活频道,http://live.dltv.cn/JzcFkF4/500/n44Jzc0.m3u8
