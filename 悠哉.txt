@@ -5,8 +5,8 @@
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 黑莓电影,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/index.m3u8
 黑莓电影,http://39.134.65.207/PLTV/88888888/224/3221225681/1.m3u8
-翡翠台，https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-斗鱼，https://openhls-tct.douyucdn2.cn/dyliveflv1/252802rCnFqY6xFH_2000.m3u8?txSecret=6310847176a44d7cac3eec2e1064f4a7&txTime=65af93f4&token=h5-douyu-0-252802-56dbb8e3924fc6a4ecf2ede0560a3cdf&did=10000000000000000000000000001501&origin=tct&vhost=play1&sid=379099049#.m3u8
+翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+斗鱼,https://openhls-tct.douyucdn2.cn/dyliveflv1/252802rCnFqY6xFH_2000.m3u8?txSecret=6310847176a44d7cac3eec2e1064f4a7&txTime=65af93f4&token=h5-douyu-0-252802-56dbb8e3924fc6a4ecf2ede0560a3cdf&did=10000000000000000000000000001501&origin=tct&vhost=play1&sid=379099049#.m3u8
 
 
 
