@@ -41,7 +41,20 @@
 			"ext":"https://www.cs1369.com$$$null$$$1",
 		        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/pg.jar"},
 {"key":"暴風","name":"暴風","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1,"jar":"https://already.free.hr/okcaptain/okjar/main/ok1203.png"},
- {
+{
+			"key": "阿里云合集",
+			"name": "阿里云合集 ",
+			"type": 3,
+			"api": "csp_阿里云合集",
+			"searchable": 1,
+                        "filterable":0,
+                        "switchable": 0,
+			"quickSearch": 1,
+			"changeable": 0,
+			"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/lib/tokenm.json",
+                        "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/阿里集合20240126.jar"
+		},
+	{
       "key": "csp_WDzy",
       "name": "💘万达直播室",
       "type": 1,
