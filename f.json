@@ -24,7 +24,6 @@
       "jar": "https://ghproxy.net/https://raw.githubusercontent.com/jingyi251/a/main/a/暴脾气.jar",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/jingyi251/a/main/a/圣城影视.json"
     },
-//{"key":"YydsVip","name":"YYDSVIP|网盘","type":3,"api":"csp_YydsVip", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/lib/tokenm.json$$$http://yydsvip.cn$$$null$$$1","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/pg.jar"},	
 {"key":"Hdhive","name":"影巢|网盘","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/lib/tokenm.json$$$null$$$1","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/pg.jar"},
 {"key":"Ppxzy","name":"皮皮虾|网盘","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/lib/tokenm.json$$$https://ppxzy.net/$$$null$$$1","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/pg.jar"},
 {"key":"校长影视","name":"校长影视|网盘","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":30,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/lib/tokenm.json$$$null$$$1","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/pg.jar"},
@@ -41,35 +40,7 @@
 			"ext":"https://www.cs1369.com$$$null$$$1",
 		        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/pg.jar"},
 {"key":"暴風","name":"暴風","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1,"jar":"https://already.free.hr/okcaptain/okjar/main/ok1203.png"},
-{
-			"key": "阿里云合集",
-			"name": "阿里云合集┃4K",
-			"type": 3,
-			"api": "csp_阿里云合集",
-			"searchable": 1,
-                        "filterable":0,
-                        "switchable": 0,
-			"quickSearch": 1,
-			"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/lib/tokenm.json",
-                        "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/阿里集合20240126.jar"
-		},
-	{
-      "key": "csp_WDzy",
-      "name": "💘万达直播室",
-      "type": 1,
-      "api": "http://www.duse.pro//api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "电影直播-放映厅",
-        "电视直播-放映厅",
-        "体育直播-放映厅"
-      ]
-    },
- 
-
-    {"key": "阿里夸克配置","name": "阿里夸克配置","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"style": {"type": "rect","ratio": 1},"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/lib/tokenm.json",  "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/pg.jar"},
+{"key": "阿里夸克配置","name": "阿里夸克配置","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"style": {"type": "rect","ratio": 1},"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/lib/tokenm.json",  "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/pg/main/pg.jar"},
 	
 
 
