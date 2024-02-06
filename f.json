@@ -47,7 +47,28 @@
             "filterable": 1,
             "ext": "https://dpaste.com/CMF89P9BG.txt"
         },	
-
+{
+      "key": "meowtv_phys",
+      "name": "🐯胖虎┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/胖虎影视.json",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/jar/XBPQ.jar"
+    },
+{
+      "key": "csp_速映",
+      "name": "🦜速映影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/速映影视.json",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/jar/XBPQ.jar"
+    },
 
       
      {
