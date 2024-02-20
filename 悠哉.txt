@@ -1,4 +1,7 @@
 凤凰传奇之悠哉三打狗子明,#genre#
+澳门卫视，http://iptv.hiper25.com:7522/upnp/channelstream/4135637344661319488%7C%E6%BE%B3%E8%A7%86%E6%BE%B3%E9%97%A8.ts
+明珠台，http://iptv.hiper25.com:7522/upnp/channelstream/4135458253114979389%7C%E6%98%8E%E7%8F%A0%E5%8F%B0.ts
+翡翠台，http://iptv.hiper25.com:7522/upnp/channelstream/4135632220764545141%7C%E7%BF%A1%E7%BF%A0%E5%8F%B0.ts
 红凤凰悠哉HD,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 粉凤凰悠哉,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 红粉凤凰香港台悠哉,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
