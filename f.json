@@ -13,13 +13,7 @@
 
 //{"key":"csp_Xunlei8","name":"🧲迅雷吧","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar"},
 {"key": "俊俊","name": "俊俊(v2)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"},      
-{
-      "key": "蜜果视界",
-      "name": "🍊蜜果",
-      "api": "csp_AppYs",
-      "type": 3,
-      "ext": "https://miguo.pro/api.php/v1.vod"
-    },
+
 {
       "key": "csp_圣城",
       "name": "圣城影视",
@@ -76,7 +70,7 @@
       "changeable": 0,
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/t.txt+auto|4k|fhd$$$https://www.wogg.xyz/$$$弹"
     },
-    {
+     {
       "key": "YGP",
       "name": "🚀叨观荐影┃新片",
       "type": 3,
@@ -105,14 +99,25 @@
       "ext": "https://www.hdmyy.com/"
     },
     {
-      "key": "南坊",
-      "name": "☀南坊┃App",
+      "key": "DiDuan",
+      "name": "⏮️低端┃外剧",
       "type": 3,
-      "api": "csp_Appto",
+      "api": "csp_Ddrk",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "率率",
+      "name": "🌸率率┃App",
+      "type": 3,
+      "api": "csp_AppLd",
+      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbdFaCsJGU3QP9+aykEFcCJTRtWyLyATI/Kr0RWOrdmmE82op1Sp3CSI5WoN6fFdLHN+LxA+CamUTj3pr0P4lAumpPCpzMgL5ZXIuytPprjLXKt5kbYcwtkFA9gT8BgdcY6mr40MUeodBOmAdLR2v8uYbpugEDOo5fQ=="
+      "ext": "FbjSZ1FapovNr0QF4QvEpcoxb5gWXdQJE2MXqLG6ykBXQM2e7TnDygTd5bXnCjGuLD/PknUhkn0yQ2NzCLl5XQ4NDrrhhBSVYlhBvnhU8N1VerP8K2NTNgP+NxESztO6"
     },
     {
       "key": "南瓜",
@@ -155,17 +160,6 @@
       "ext": "https://www.czzy55.com/"
     },
     {
-      "key": "率率",
-      "name": "🌸率率┃App",
-      "type": 3,
-      "api": "csp_AppLd",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjSZ1FapovNr0QF4QvEpcoxKYZaFIdGVjVHqOzmh0sHApOErDLDkEnd/fT0RWOxfniO12FgzTJjcg0PGaZSYgk9BKPOkG6SZz0wlkFM9O11CrjANWExcUutLQ=="
-    },
-    {
       "key": "毛驴",
       "name": "🍓毛驴┃直连",
       "type": 3,
@@ -206,16 +200,6 @@
       "changeable": 1
     },
     {
-      "key": "DiDuan",
-      "name": "⏮️低端┃直连",
-      "type": 3,
-      "api": "csp_Ddrk",
-      "playerType": "2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "csp_Nmys",
       "name": "🌾农民┃直连",
       "type": 3,
@@ -242,7 +226,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.libvio.la/"
+      "ext": "https://www.libvio.pw/"
     },
     {
       "key": "Auete",
@@ -713,9 +697,9 @@
     },	
 {"name":"SAO1","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {
-      "name": "SAO0",
+      "name": "SAO2",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/悠哉.txt",
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -724,7 +708,7 @@
     {
       "name": "IPV6",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
