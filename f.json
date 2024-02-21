@@ -59,14 +59,26 @@
       "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/jar/XBPQ.jar"
     },
 {
-      "key": "Yingtantv",
-      "name": "💯影探┃TV┃App",
-      "type": 3,
-      "api": "csp_Yingtantv",
-      "searchable": 1,
-      "changeable": 0,
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/jar/yingtan.jar"
-    },
+            "key": "Buleitv",
+            "name": "💯布蕾┃TV┃App",
+            "type": 3,
+            "api": "csp_Buleitv",
+            "searchable": 1,
+            "changeable": 0,
+            "jar": "http://47.108.190.141/wx/yydf/txt/yt.txt"
+        },
+        {
+            "key": "Yingtantv",
+            "name": "💯影探┃TV┃App",
+            "type": 3,
+            "api": "csp_Yingtantv",
+            "searchable": 1,
+            "changeable": 0,
+            "jar": "http://47.108.190.141/wx/yydf/txt/yt.txt"
+        },
+
+
+
       
      {
       "key": "玩偶哥哥",
