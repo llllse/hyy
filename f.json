@@ -495,7 +495,15 @@
       "api": "csp_XBPQ",
       "ext": "分类:日漫$1#国漫$2#剧场$3#美漫$4#少儿$5,分类url:https://www.lmfun.vip/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
     },
-	
+{
+   "key": "酷狗",
+   "name": "酷狗",
+   "type": 3,
+   "api": "csp_Kugou",
+   "searchable": 1,
+   "changeable": 0,
+    "jar":" ./lib/pg.jar"
+  },	
   {
       "key": "YiSo",
       "name": "😹易搜┃搜索",
