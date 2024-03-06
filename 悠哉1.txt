@@ -1582,6 +1582,7 @@ LIVE三立,http://ali.hlspull.yximgs.com/live/twlivehmcyoywzzubzfdzfvchtcbszzzvf
 龙广音乐广播 FM95.8,http://ls.qingting.fm/live/4969.m3u8
 
 休闲歌曲,#genre#
+杨澜一-天际，https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/mv/main/%E6%B4%8B%E6%BE%9C%E4%B8%80%20-%20%E5%A4%A9%E9%99%85.mp3
 西海情歌,https://vd2.bdstatic.com/mda-jf9c1fkgucw29pg8/sc/mda-jf9c1fkgucw29pg8.mp4
 暗里着迷-亮声,https://vd2.bdstatic.com/mda-nj0ahm6t2ib5n2jy/720p/h264/1664610158927030550/mda-nj0ahm6t2ib5n2jy.mp4
 只要你还需要我,https://vd2.bdstatic.com/mda-ndi3uvmd0qrjvgps/sc/cae_h264_delogo/1650337256524390613/mda-ndi3uvmd0qrjvgps.mp4
