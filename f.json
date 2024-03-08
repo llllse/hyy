@@ -78,7 +78,14 @@
             "changeable": 0,
             "jar": "http://47.108.190.141/wx/yydf/txt/yt.txt"
         },
-      
+    {
+            "key": "云2",
+            "name": " ‍🔥梦影（og）",
+            "type": 3,
+            "api": "csp_Movie2",
+            "jar": "https://d.kstore.space/download/2960/jar/云影.php",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/EXT/Movie5"
+        },  
  
      {
       "key": "玩偶哥哥",
