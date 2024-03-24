@@ -58,20 +58,7 @@
             "changeable": 0,
             "jar": "http://47.108.190.141/wx/yydf/txt/yt.txt"
         },
-	{
-            "key": "csp_麻衣影院",
-            "name": "麻衣┃呀呼",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./xbpq.jar",
-            "ext": {
-                "分类url": "https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}page/{catePg}/year/{year}.html",
-                "分类": "电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"
-            }
-        },
+	
     {
             "key": "云2",
             "name": " ‍🔥梦影（og）",
@@ -125,6 +112,25 @@
       "type": 3,
       "api": "csp_Kkys",
       "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+	  {
+      "key": "原创",
+      "name": "☀原创┃无广",
+      "type": 3,
+      "api": "csp_YCyz",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "苹果",
+      "name": "🍎小苹果┃复活",
+      "type": 3,
+      "api": "csp_LiteApple",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
