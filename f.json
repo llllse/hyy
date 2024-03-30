@@ -1,5 +1,5 @@
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711263158682/fan.txt",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1711726710301/fan.txt",
 "wallpaper":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/mv/main/0.jpg",
 
 "sites":[
@@ -107,16 +107,7 @@
       "quickSearch": 0,
       "changeable": 0
     },
-    {
-      "key": "酷看",
-      "name": "💡酷看┃秒播",
-      "type": 3,
-      "api": "csp_Kkys",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+   
  {
       "key": "短剧",
       "name": "🌈上头┃短剧",
@@ -343,7 +334,7 @@
       "filterable": 1,
       "changeable": 0
     },
-    {
+    {  {
       "key": "贱贱",
       "name": "🐭贱贱┃p2p",
       "type": 3,
@@ -352,7 +343,7 @@
       "changeable": 1,
       "playerType": "1",
       "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"
+      "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/荐片.js"
     },
     {
       "key": "新6V",
@@ -590,7 +581,16 @@
        "changeable": 1,
        "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/jar/custom_spider.jar"
 },
-
+{
+      "key": "夸搜",
+      "name": "🐺夸搜┃搜索",
+      "type": 3,
+      "api": "csp_QuarkPanso",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/t.txt+auto|4k|fhd"},
+{
 		
   {
       "key": "YiSo",
@@ -601,16 +601,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/t.txt+auto|4k|fhd"},
-{
-      "key": "Zhaozy",
-      "name": "🐺找资源┃搜索",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-    "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/t.txt+auto|4k|fhd$$$test2$$$test2"
-    },
+
 	
 	
 {
@@ -657,7 +648,16 @@
       "searchable": 0,
       "quickSearch": 0,
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/t.txt+auto|4k|fhd"},
-
+{
+      "key": "Zhaozy",
+      "name": "🐺找资源┃搜索",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+    "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/t.txt+auto|4k|fhd$$$test2$$$test2"
+    },
 
 
 {"key":"csp_Nbys","name":"🛫泥巴┃飞","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"changeable":1},
@@ -691,6 +691,175 @@
     }
 ],
 
+ "doh": [
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://dns.adguard.com/dns-query",
+      "ips": [
+        "94.140.14.140",
+        "94.140.14.141"
+      ]
+    },
+    {
+      "name": "DNSWatch",
+      "url": "https://resolver2.dns.watch/dns-query",
+      "ips": [
+        "84.200.69.80",
+        "84.200.70.40"
+      ]
+    },
+    {
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-quer",
+      "ips": [
+        "9.9.9.9",
+        "149.112.112.112"
+      ]
+    }
+  ],
+  "rules": [
+    {
+      "name": "kk",
+      "hosts": [
+        "kuaikan"
+      ],
+      "regex": [
+        "5",
+        "20.123",
+        "20.167",
+        "#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-KEY:METHOD((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "yqk",
+      "hosts": [
+        "yqk"
+      ],
+      "regex": [
+        "18.4",
+        "15.1666",
+        "#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-OUT((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-IN"
+      ]
+    },
+    {
+      "name": "sn",
+      "hosts": [
+        "suonizy"
+      ],
+      "regex": [
+        "#EXTINF.*?\\s+.*?original.*?\\.ts\\s+",
+        "15.1666",
+        "15.2666",
+        "16.3333",
+        "15.266667"
+      ]
+    },
+    {
+      "name": "bf",
+      "hosts": [
+        "bfzy"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "xx",
+      "hosts": [
+        "aws.ulivetv.net"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "lz",
+      "hosts": [
+        "vip.lz",
+        "hd.lz",
+        "v.cdnlz",
+        "yzzy1.play"
+      ],
+      "regex": [
+        "18.5333",
+        "19.52",
+        "18.6666"
+      ]
+    },
+    {
+      "name": "ff",
+      "hosts": [
+        "vip.ffzy",
+        "hd.ffzy",
+        "ffzy"
+      ],
+      "regex": [
+        "25.0666",
+        "25.08",
+        "20.52",
+        "25.1",
+        "25.1999"
+      ]
+    },
+    {
+      "name": "hs",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    },
+    {
+      "name": "dy",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
+    },
+    {
+      "name": "nm",
+      "hosts": [
+        "toutiaovod.com"
+      ],
+      "regex": [
+        "video/tos/cn"
+      ]
+    },
+    {
+      "name": "cl",
+      "hosts": [
+        "magnet"
+      ],
+      "regex": [
+        "最 新",
+        "直 播",
+        "更 新"
+      ]
+    }
+  ],
+
+	
 "parses":[
 {"name":"聚合","type":3,"url":"Demo"},
 
