@@ -516,9 +516,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"
-    },
-    {
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/t.txt+auto|4k|fhd"},
+{
+		
+  {
       "key": "YiSo",
       "name": "😹易搜┃搜索",
       "type": 3,
@@ -526,9 +527,11 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"
-    },
-    {
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/t.txt+auto|4k|fhd"},
+
+	
+	
+{
       "key": "PanSou",
       "name": "🦊盘搜┃搜索",
       "type": 3,
@@ -536,9 +539,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"
-    },
-    {
+      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/t.txt+auto|4k|fhd"},
+ {
       "key": "UpYun",
       "name": "😻Up搜┃搜索",
       "type": 3,
@@ -546,9 +548,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"
-    },
-    {
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/t.txt+auto|4k|fhd"},
+ {
       "key": "PanSearch",
       "name": "🙀盘Se┃搜索",
       "type": 3,
@@ -556,16 +557,33 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"
-    },
-    {
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/t.txt+auto|4k|fhd"},
+{
+      "key": "七夜",
+      "name": "😾七夜┃搜索",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/t.txt+auto|4k|fhd"},
+{
       "key": "push_agent",
       "name": "🛴手机┃推送",
       "type": 3,
       "api": "csp_Push",
       "searchable": 0,
       "quickSearch": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/t.txt+auto|4k|fhd"},
+{
+      "key": "Zhaozy",
+      "name": "🐺找资源┃搜索",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+    "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/t.txt+auto|4k|fhd$$$test2$$$test2"
     },
     {
       "key": "Bili",
@@ -683,23 +701,15 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "fan",
-      "name": "导航 https://饭太硬.top",
+   
+     {
+      "key": "應用商店",
+      "name": "應用商店",
       "type": 3,
-      "api": "csp_XPath",
+      "api": "csp_Market",
       "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "cc",
-      "name": "请勿相信视频中广告",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
+      "changeable": 0,
+      "ext": "https://fm.t4tv.hz.cz/json/market.json"
     }
   ],
   "doh": [
@@ -869,9 +879,20 @@
       ]
     }
   ],
-  "lives": [
-    {
-      "name": "SAO0",
+ "lives":[
+
+	{
+      "name": "SA0",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/悠哉1.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },	
+{"name":"SAO1","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{
+      "name": "SAO2",
       "type": 0,
       "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
       "playerType": 1,
@@ -890,3 +911,4 @@
     }
   ]
 }
+
