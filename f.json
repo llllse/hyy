@@ -34,18 +34,7 @@
       "filterable": 1,
       "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/暴脾气.jar",
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/圣城影视.json"
-    },
-
-{
-            "key": "开心HK影视",
-            "name": "🎦开心HK影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://dpaste.com/CMF89P9BG.txt"
-        },	
+    },	
 
 {
             "key": "Buleitv",
