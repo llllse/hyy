@@ -73,14 +73,7 @@
         "分类url": "https://www.baipiaoys.com:9092/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
       }
     },
-    {
-            "key": "云2",
-            "name": " ‍🔥梦影（og）",
-            "type": 3,
-            "api": "csp_Movie2",
-            "jar": "https://d.kstore.space/download/2960/jar/云影.php",
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/EXT/Movie5"
-        },  
+   
 
 	
   {
