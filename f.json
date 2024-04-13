@@ -97,24 +97,13 @@
       "changeable": 0,
       "ext": {
         "aliToken": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/t.txt",
-        "quarkCookie": "tvfan/cookie.auto|txt",
+        "quarkCookie": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/quarkCookie.txt",
         "from": "auto|4k|fhd",
         "siteUrl": "https://api.wogg.xyz/",
         "danMu": "弹"
       }
     },
-     {
-      "key": "玩偶哥哥",
-      "name": "👽玩偶哥哥┃4K弹幕",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/t.txt---auto|4k|fhd$$$https://www.wogg.xyz/$$$弹"
-    },
- 
-    
+
     {
       "key": "YGP",
       "name": "🚀叨观荐影┃新片",
