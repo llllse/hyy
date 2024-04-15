@@ -1021,6 +1021,13 @@
   ],
  "lives":[
 
+	
+  {
+      "name": "ITV",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
+      "playerType": 1
+    },
 	{
       "name": "SA0",
       "type": 0,
@@ -1029,13 +1036,7 @@
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },	
-  {
-      "name": "ITV",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
-      "playerType": 1
-    },
+    },	 
     {
       "name": "IPV6",
       "type": 0,
