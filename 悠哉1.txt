@@ -1,4 +1,6 @@
 凤凰传奇之悠哉三打狗子明,#genre#
+凤凰资讯,http://ali.hlspull.yximgs.com/live/twlivetvzzpcpdvuezlzyzzyfzoxvchzwhzwozzzhdzzlszhbzfhzx.flv
+凤凰中文,http://ali.hlspull.yximgs.com/live/twlivetvzzpcpvuezlzydzzyfzoxvchzwhzwdozzzhzzlszhbzfhzw.flv
 凤凰香港,http://www.pr666.site:4040/udp/239.255.30.123:8231
 凤凰中文,http://www.pr666.site:4040/udp/239.255.30.50:8231
 凤凰资讯,http://www.pr666.site:4040/udp/239.255.30.70:8231
@@ -6686,7 +6688,7 @@ TVB经典,https://z88.ubtvfans.com/live/rx3/1083/3f1033b4dc8bef46e6a2482a701130b
 
 
 
-11台灣,#genre#
+测台灣,#genre#
 東森幼幼,p3p://108.181.20.159:91634/62c9a6bb000ac34dc6a767036c5f3878
 MOMO親子台,p3p://108.181.20.159:91634/61e0ffbf000c4e3545c098666cb76c2d
 CN卡通,p3p://108.181.20.159:91634/61ded38e000d52023d43f93e0ee00012
