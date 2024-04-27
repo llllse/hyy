@@ -50,7 +50,6 @@
       "api": "csp_Wogg",
       "searchable": 1,
       "changeable": 1
-     
     },
     {
       "key": "土豆",
@@ -806,10 +805,10 @@
     "pv.vipwm.cc"
   ],
   "lives": [
-    {
+     {
       "name": "综合",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/悠哉1.txt",
+      "url": "https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-04-25/2024-04-25_17:22:21/1714036941087/98644330/wexiptv.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
