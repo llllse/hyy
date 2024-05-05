@@ -1,5 +1,5 @@
 {
-"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1714473960870/fan.txt",
+"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1714650590961/fan.txt",
 "wallpaper":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/mv/main/0.jpg",
 
 "sites":[
@@ -78,16 +78,7 @@
       }
     },
 
-    {
-      "key": "短剧",
-      "name": "🌈上头┃短剧",
-      "type": 3,
-      "api": "csp_Djuu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
+     {
       "key": "酷看",
       "name": "💡酷看┃秒播",
       "type": 3,
@@ -109,7 +100,7 @@
     },
     {
       "key": "苹果",
-      "name": "🍎苹果┃无广",
+      "name": "🍎苹果┃不卡",
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
@@ -118,7 +109,7 @@
     },
     {
       "key": "白嫖",
-      "name": "👻白飘┃无广",
+      "name": "👻白飘┃不卡",
       "type": 3,
       "api": "csp_BaiPiao",
       "playerType": 2,
@@ -128,8 +119,18 @@
       "ext": "https://www.baipiaoys.com:9092/"
     },
     {
+      "key": "小点",
+      "name": "💥小点┃多线",
+      "type": 3,
+      "api": "csp_Xdys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
       "key": "视觉",
-      "name": "👓视觉┃直连",
+      "name": "👓视觉┃多线",
       "type": 3,
       "api": "csp_Xinsj",
       "timeout": 15,
@@ -140,7 +141,7 @@
     },
     {
       "key": "厂长",
-      "name": "📔厂长┃无广",
+      "name": "📔厂长┃不卡",
       "type": 3,
       "api": "csp_NewCz",
       "timeout": 15,
@@ -148,7 +149,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.czys.top/"
+      "ext": "https://czzy.top/"
     },
     {
       "key": "七七",
@@ -162,7 +163,7 @@
     },
     {
       "key": "南瓜",
-      "name": "🎃南瓜┃App",
+      "name": "🎃南瓜┃多线",
       "type": 3,
       "api": "csp_NanGua",
       "timeout": 15,
@@ -194,7 +195,7 @@
     },
     {
       "key": "毛驴",
-      "name": "🍓毛驴┃直连",
+      "name": "🍓毛驴┃多线",
       "type": 3,
       "api": "csp_MLYS",
       "timeout": 15,
@@ -205,7 +206,7 @@
     },
     {
       "key": "萌米",
-      "name": "👀萌米┃App",
+      "name": "👀萌米┃多线",
       "type": 3,
       "api": "csp_AppTT",
       "timeout": 15,
@@ -230,11 +231,11 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.zxzja.com/"
+      "ext": "https://www.zxzjhd.com/"
     },
     {
       "key": "Lib",
-      "name": "🌟立播┃直连",
+      "name": "🌟立播┃无广",
       "type": 3,
       "api": "csp_Libvio",
       "timeout": 15,
@@ -245,7 +246,7 @@
     },
     {
       "key": "Auete",
-      "name": "🏝奥特┃直连",
+      "name": "🏝奥特┃无广",
       "type": 3,
       "api": "csp_Auete",
       "timeout": 15,
@@ -256,7 +257,7 @@
     },
     {
       "key": "贱贱",
-      "name": "🐭贱贱┃p2p",
+      "name": "🐭贱贱┃P2P",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -276,8 +277,8 @@
       "ext": "http://www.xb6v.com/"
     },
     {
-      "key": "csp_Dm84",
-      "name": "🚌动漫┃巴士",
+      "key": "Dm84",
+      "name": "🚌巴士┃动漫",
       "type": 3,
       "api": "csp_Dm84",
       "searchable": 1,
@@ -285,7 +286,7 @@
       "changeable": 1
     },
     {
-      "key": "csp_Ying",
+      "key": "Ying",
       "name": "💮樱花┃动漫",
       "type": 3,
       "api": "csp_Ying",
@@ -294,7 +295,7 @@
       "changeable": 1
     },
     {
-      "key": "csp_Ysj",
+      "key": "Ysj",
       "name": "🎀异界┃动漫",
       "type": 3,
       "api": "csp_Ysj",
@@ -303,7 +304,7 @@
       "changeable": 1
     },
     {
-      "key": "csp_Anime1",
+      "key": "Anime1",
       "name": "🐾日本┃动漫",
       "type": 3,
       "api": "csp_Anime1",
@@ -389,6 +390,15 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json"
+    },
+    {
+      "key": "短剧",
+      "name": "🌈上头┃短剧",
+      "type": 3,
+      "api": "csp_Djuu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "csp_Yj1211",
