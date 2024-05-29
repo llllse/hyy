@@ -1,9 +1,9 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715932897053/wex.txt;md5;e4c190fd99e6c53a45e0c2d1bb225f4c",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716905178909/wex.txt;md5;65dfd0d70088b6d29c176bbbea831efc",
   "wallpaper": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/mv/main/0.jpg",
    "logo": "https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-05-07/2024-05-07_22:41:43/1715092903264/8105189/photo_2024-03-12_12-01-41.jpg",
   "sites": [
-    {
+     {
       "key": "Douban",
       "name": "🐮【王二小放牛娃温馨提醒:网络套路深，谨防割韭菜】🐮",
       "type": 3,
@@ -12,15 +12,6 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "https://gitcode.net/wexfnw/wex/-/raw/master/douban.json"
-    },
-    {
-      "key": "应用商店",
-      "name": "🆗【影视应用商店】🆗",
-      "type": 3,
-      "api": "csp_Market",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "https://fm.t4tv.hz.cz/json/marnket.json"
     },
     {
       "key": "Doubana",
@@ -43,17 +34,6 @@
       "style": {
         "type": "rect",
         "ratio": 1.43
-      }
-    },
-    {
-      "key": "自定义",
-      "name": "🥇DIY┃播放┃全能",
-      "type": 3,
-      "api": "csp_Wexdiy",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "list"
       }
     },
     {
@@ -101,14 +81,6 @@
       "name": "👬基友┃影视┃App",
       "type": 3,
       "api": "csp_Wexxiongdiys",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Wexhuayang",
-      "name": "🌺花花┃影视┃App",
-      "type": 3,
-      "api": "csp_Wexhuayang",
       "searchable": 1,
       "changeable": 1
     },
@@ -169,6 +141,14 @@
       "changeable": 1
     },
     {
+      "key": "Wexdiguatv",
+      "name": "⛷️追剧┃TV┃App",
+      "type": 3,
+      "api": "csp_Wexdiguatv",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "Fangniu4k",
       "name": "👎放牛┃TV┃App",
       "type": 3,
@@ -185,46 +165,12 @@
       "changeable": 1
     },
     {
-      "key": "haiwaikan",
-      "name": "🛝海看┃秒播┃梯子",
-      "type": 1,
-      "api": "https://haiwaikan.com/api.php/provide/vod?",
+      "key": "WexTiantianys",
+      "name": "🌤️明天┃秒播┃直连",
+      "type": 3,
+      "api": "csp_WexTiantianys",
       "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "国产剧",
-        "韩剧",
-        "日剧",
-        "台剧",
-        "泰剧",
-        "港剧",
-        "欧美剧",
-        "冒险片",
-        "剧情片",
-        "动作片",
-        "同性片",
-        "喜剧片",
-        "奇幻片",
-        "恐怖片",
-        "悬疑片",
-        "惊悚片",
-        "战争片",
-        "歌舞片",
-        "灾难片",
-        "爱情片",
-        "犯罪片",
-        "科幻片",
-        "纪录片",
-        "经典片",
-        "动画电影",
-        "韩国综艺",
-        "国产综艺",
-        "日本综艺",
-        "欧美综艺",
-        "日本动漫",
-        "国产动漫",
-        "欧美动漫"
-      ]
+      "changeable": 1
     },
     {
       "key": "Wexjiohub",
@@ -313,6 +259,137 @@
       "api": "csp_Wexbttwo",
       "searchable": 1,
       "changeable": 1
+    },
+    {
+      "key": "haiwaikan",
+      "name": "🛝海看┃秒播┃采集",
+      "type": 1,
+      "api": "https://haiwaikan.com/api.php/provide/vod?",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "国产剧",
+        "韩剧",
+        "日剧",
+        "台剧",
+        "泰剧",
+        "港剧",
+        "欧美剧",
+        "冒险片",
+        "剧情片",
+        "动作片",
+        "同性片",
+        "喜剧片",
+        "奇幻片",
+        "恐怖片",
+        "悬疑片",
+        "惊悚片",
+        "战争片",
+        "歌舞片",
+        "灾难片",
+        "爱情片",
+        "犯罪片",
+        "科幻片",
+        "纪录片",
+        "经典片",
+        "动画电影",
+        "韩国综艺",
+        "国产综艺",
+        "日本综艺",
+        "欧美综艺",
+        "日本动漫",
+        "国产动漫",
+        "欧美动漫"
+      ]
+    },
+    {
+      "key": "360",
+      "name": "🛝360┃秒播┃采集",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod?",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "电影",
+        "连续剧",
+        "综艺",
+        "动漫",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "欧美剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "欧美动漫",
+        "日韩动漫",
+        "爽文短剧",
+        "体育",
+        "NBA",
+        "足球",
+        "篮球"
+      ]
+    },
+    {
+      "key": "爱坤",
+      "name": "🛝爱坤┃秒播┃采集",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod?",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "电影",
+        "连续剧",
+        "综艺",
+        "动漫",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "欧美剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "欧美动漫",
+        "日韩动漫",
+        "爽文短剧",
+        "体育",
+        "足球",
+        "NBA",
+        "CBA",
+        "德甲",
+        "意甲",
+        "英超",
+        "西甲",
+        "法甲",
+        "WCBA",
+        "LPL"
+      ]
     },
     {
       "key": "Wexduanjuquark",
@@ -574,6 +651,22 @@
       "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
     },
     {
+      "key": "Wexciyuancheng",
+      "name": "🤡元城┃番剧",
+      "type": 3,
+      "api": "csp_Wexciyuancheng",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexxifan",
+      "name": "🤡喜翻┃番剧",
+      "type": 3,
+      "api": "csp_Wexxifan",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "櫻花",
       "name": "🤡櫻花┃动漫",
       "type": 3,
@@ -602,6 +695,14 @@
       "name": "🛩️磁力┃聚合┃搜",
       "type": 3,
       "api": "csp_Wexciliso",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
+      "key": "Wexmiso",
+      "name": "🎠小米┃综合┃搜",
+      "type": 3,
+      "api": "csp_Wexmiso",
       "searchable": 1,
       "changeable": 0
     },
@@ -662,6 +763,17 @@
       "changeable": 0
     },
     {
+      "key": "自定义",
+      "name": "🥇DIY┃播放┃全能",
+      "type": 3,
+      "api": "csp_Wexdiy",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
       "key": "push_agent",
       "name": "推送",
       "type": 3,
@@ -684,7 +796,7 @@
     {
       "name": "小",
       "type": 1,
-      "url": "http://122.228.84.103:7777/api/?key=qhBtN1ciPmdvPV83tX&url="
+      "url": "http://xxjx.qqwx.ren/?url="
     },
     {
       "name": "帅",
