@@ -20,7 +20,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "tvfan/token.txt",
+        "aliToken": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/t.txt",
         "quarkCookie": "tvfan/cookie.txt",
         "from": "4k|auto|fhd",
         "siteUrl": "https://www.wogg.link/",
@@ -462,7 +462,7 @@
       "changeable": 0,
       "ext": {
         "pan": "quark",
-        "quarkCookie": "tvfan/cookie.txt",
+        "quarkCookie": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/t.txt",
         "from": "4k|auto|fhd"
       }
     },
@@ -475,7 +475,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "tvfan/token.txt",
+        "aliToken": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/t.txt",
         "from": "4k|auto|fhd"
       }
     },
@@ -488,7 +488,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "tvfan/token.txt",
+        "aliToken": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/t.txt",
         "from": "4k|auto|fhd"
       }
     },
@@ -501,7 +501,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": {
-        "aliToken": "tvfan/token.txt",
+        "aliToken": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/t.txt",
         "from": "4k|auto|fhd"
       }
     },
@@ -513,7 +513,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "ext": {
-        "aliToken": "tvfan/token.txt",
+        "aliToken": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/t.txt",
         "quarkCookie": "tvfan/cookie.txt",
         "from": "4k|auto|fhd"
       }
