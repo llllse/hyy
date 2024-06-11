@@ -1,9 +1,9 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716905178909/wex.txt;md5;65dfd0d70088b6d29c176bbbea831efc",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717943170739/wex.txt;md5;eb76763ef4ebfbf038b9e0c2c008a06b",
   "wallpaper": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/mv/main/0.jpg",
    "logo": "https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-05-07/2024-05-07_22:41:43/1715092903264/8105189/photo_2024-03-12_12-01-41.jpg",
   "sites": [
-     {
+    {
       "key": "Douban",
       "name": "🐮【王二小放牛娃温馨提醒:网络套路深，谨防割韭菜】🐮",
       "type": 3,
@@ -85,6 +85,14 @@
       "changeable": 1
     },
     {
+      "key": "Wexyuyueys",
+      "name": "⛈️雨落┃影视┃App",
+      "type": 3,
+      "api": "csp_Wexyuyueys",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
       "key": "南瓜",
       "name": "🎃瓜瓜┃TV┃App",
       "type": 3,
@@ -129,14 +137,6 @@
       "name": "🇰🇷韩圈┃TV┃App",
       "type": 3,
       "api": "csp_Wexhanxiaoquan",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Wexhanjutv",
-      "name": "🇰🇷韩剧┃TV┃App",
-      "type": 3,
-      "api": "csp_Wexhanjutv",
       "searchable": 1,
       "changeable": 1
     },
@@ -209,6 +209,22 @@
       "name": "👓看看┃影视┃直连",
       "type": 3,
       "api": "csp_WexShijuedy",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexsaohuo",
+      "name": "🔥火火┃影视┃直连",
+      "type": 3,
+      "api": "csp_Wexsaohuo",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexzxzj",
+      "name": "🚩外剧┃影视┃直连",
+      "type": 3,
+      "api": "csp_Wexzxzj",
       "searchable": 1,
       "changeable": 1
     },
@@ -310,10 +326,6 @@
       "searchable": 1,
       "changeable": 1,
       "categories": [
-        "电影",
-        "连续剧",
-        "综艺",
-        "动漫",
         "动作片",
         "喜剧片",
         "爱情片",
@@ -321,6 +333,10 @@
         "恐怖片",
         "剧情片",
         "战争片",
+        "古装片",
+        "悬疑片",
+        "犯罪片",
+        "灾难片",
         "国产剧",
         "香港剧",
         "韩国剧",
@@ -336,11 +352,13 @@
         "国产动漫",
         "欧美动漫",
         "日韩动漫",
-        "爽文短剧",
-        "体育",
-        "NBA",
-        "足球",
-        "篮球"
+        "现代都市",
+        "脑洞悬疑",
+        "年代穿越",
+        "古装仙侠",
+        "女频恋爱",
+        "成长逆袭",
+        "反转爽剧"
       ]
     },
     {
@@ -351,10 +369,6 @@
       "searchable": 1,
       "changeable": 1,
       "categories": [
-        "电影",
-        "连续剧",
-        "综艺",
-        "动漫",
         "动作片",
         "喜剧片",
         "爱情片",
@@ -362,6 +376,10 @@
         "恐怖片",
         "剧情片",
         "战争片",
+        "古装片",
+        "悬疑片",
+        "犯罪片",
+        "灾难片",
         "国产剧",
         "香港剧",
         "韩国剧",
@@ -377,18 +395,7 @@
         "国产动漫",
         "欧美动漫",
         "日韩动漫",
-        "爽文短剧",
-        "体育",
-        "足球",
-        "NBA",
-        "CBA",
-        "德甲",
-        "意甲",
-        "英超",
-        "西甲",
-        "法甲",
-        "WCBA",
-        "LPL"
+        "爽文短剧"
       ]
     },
     {
@@ -427,8 +434,16 @@
       "changeable": 1
     },
     {
-      "key": "Wexduanjuvip",
+      "key": "vipWexduanju",
       "name": "🌸短劇┃精品┃直连",
+      "type": 3,
+      "api": "csp_Wexvipduanju",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexduanjuvip",
+      "name": "🌸短劇┃良品┃直连",
       "type": 3,
       "api": "csp_Wexduanjuvip",
       "searchable": 1,
@@ -786,7 +801,7 @@
     {
       "name": "王",
       "type": 1,
-      "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url="
+      "url": "http://43.136.176.188:91/api/?key=f99226916774bfa29c9af99b2c736fd9&url="
     },
     {
       "name": "二",
@@ -883,57 +898,6 @@
       ]
     },
     {
-      "name": "索尼",
-      "hosts": [
-        "suonizy"
-      ],
-      "regex": [
-        "15.1666",
-        "15.2666"
-      ]
-    },
-    {
-      "name": "暴風",
-      "hosts": [
-        "bfzy"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-      ]
-    },
-    {
-      "name": "星星",
-      "hosts": [
-        "aws.ulivetv.net"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-      ]
-    },
-    {
-      "name": "量子",
-      "hosts": [
-        "vip.lz",
-        "hd.lz",
-        "v.cdnlz"
-      ],
-      "regex": [
-        "18.5333"
-      ]
-    },
-    {
-      "name": "非凡",
-      "hosts": [
-        "vip.ffzy",
-        "hd.ffzy"
-      ],
-      "regex": [
-        "25.0666",
-        "25.08",
-        "20.52"
-      ]
-    },
-    {
       "name": "火山嗅探",
       "hosts": [
         "huoshan.com"
@@ -1002,7 +966,7 @@
     "pv.vipwm.cc"
   ],
   "lives": [
-     {
+    {
       "name": "综合",
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/悠哉1.txt",
@@ -1011,7 +975,7 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
-     {
+    {
       "name": "综合1",
       "type": 0,
       "url": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715581924111/live1.txt",
@@ -1039,6 +1003,15 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
+      "name": "综合4",
+      "type": 0,
+      "url": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716213337323/live3.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
       "name": "IPV4",
       "type": 0,
       "url": "https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-04-25/2024-04-25_17:25:01/1714037101343/5511539/wexlive.txt",
@@ -1058,3 +1031,4 @@
     }
   ]
 }
+  
