@@ -1,10 +1,10 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716971833099/fan.txt;md5;e5331c586bf5835734be13338cecf00d",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717839432492/fan.txt;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26",
   "wallpaper": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/mv/main/0.jpg",
   "sites": [
-    {
+     {
       "key": "豆豆",
-      "name": "接口全面更新！top改com",
+      "name": "全接口智能过滤广告",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -199,6 +199,16 @@
       "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
     },
+      {
+      "key": "蛋蛋",
+      "name": "🍓蛋蛋┃多线",
+      "type": 3,
+      "api": "csp_Cddys",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
     {
       "key": "小点",
       "name": "💥小点┃多线",
@@ -231,6 +241,17 @@
       "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
     },
     {
+      "key": "可可",
+      "name": "👻可可┃多线",
+      "type": 3,
+      "api": "csp_Kekys",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
       "key": "南瓜",
       "name": "🎃南瓜┃多线",
       "type": 3,
@@ -250,17 +271,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "可可",
-      "name": "👻可可┃多线",
-      "type": 3,
-      "api": "csp_Kekys",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+    
     {
       "key": "Lib",
       "name": "🌟立播┃不卡",
