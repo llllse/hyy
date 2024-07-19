@@ -715,7 +715,7 @@
         },
    {
             "key": "php_madou",
-            "name": "麻豆",
+            "name": "tudou",
             "type": 4,
             "api": "https://t4.doube.eu.org/madou.php",
             "searchable": 1,
