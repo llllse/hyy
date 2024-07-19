@@ -1,6 +1,6 @@
 {
- //"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719316733539/fan.txt;md5;39536019b1427f62b535f028d161d43a",
- "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720763657384/fan.txt;md5;026629a5c54494dc8ae9bd38d0a1a1f6",
+ "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719316733539/fan.txt;md5;39536019b1427f62b535f028d161d43a",
+ //"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720763657384/fan.txt;md5;026629a5c54494dc8ae9bd38d0a1a1f6",
   "wallpaper": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/mv/main/0.jpg",
      "logo": "https://pan.shangui.cc/f/w8X5hg/4.gif",
   "sites": [
@@ -707,23 +707,33 @@
       "changeable": 1
     },
     {
-      "key": "fan",
-      "name": "导航 https://饭太硬.com",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0
-    },
+            "key": "php_huaweiba",
+            "name": "华为吧克隆",
+            "type": 4,
+            "api": "https://t4.doube.eu.org/huaweiba.php",
+            "searchable": 1
+        }
     {
-      "key": "cc",
-      "name": "请勿相信视频中广告",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    }
+            "key": "实验金鹰",
+            "name": "实验金鹰",
+            "type": 1,
+            "api": "http://zhangqun66.serv00.net/jy.php",
+            "searchable": 1,
+            "changeable": 1
+        },
+   {
+            "key": "php_madou",
+            "name": "麻豆",
+            "type": 4,
+            "api": "https://t4.doube.eu.org/madou.php",
+            "searchable": 1,
+            "quickSearch":0,
+            "filterable":0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+              }
+        }
   ],
 
 "parses":[
