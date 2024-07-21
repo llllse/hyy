@@ -726,6 +726,14 @@
                 "ratio": 1.33
               }
         },
+   {
+            "key": "实验播放列表",
+            "name": "实验播放列表",
+            "type": 4,
+            "api": "http://zhangqun66.serv00.net/ytlb.php",
+            "searchable": 0,
+            "changeable": 0
+        },
     {
             "key": "实验金鹰",
             "name": "实验金鹰",
