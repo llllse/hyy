@@ -30,7 +30,7 @@
       }
     },
 //{"key": "php_huaweiba","name": "华为吧克隆","type": 4,"api": "https://t4.doube.eu.org/huaweiba.php","searchable": 1},
-   {
+  {
             "key": "php_huaweiba",
             "name": "华为吧克隆",
             "type": 4,
