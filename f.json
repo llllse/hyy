@@ -29,7 +29,13 @@
         "danMu": "弹"
       }
     },
-
+{
+            "key": "php_huaweiba",
+            "name": "华为吧克隆",
+            "type": 4,
+            "api": "https://t4.doube.eu.org/huaweiba.php",
+            "searchable": 1
+        },
  {
       "key": "csp_Mp4Mov",
       "name": "🧲Mp4电影",
@@ -706,16 +712,10 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-            "key": "php_huaweiba",
-            "name": "华为吧克隆",
-            "type": 4,
-            "api": "https://t4.doube.eu.org/huaweiba.php",
-            "searchable": 1
-        },
+    
    {
             "key": "php_madou",
-            "name": "tudou",
+            "name": "请勿相信视频中广告",
             "type": 4,
             "api": "https://t4.doube.eu.org/madou.php",
             "searchable": 1,
