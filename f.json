@@ -30,13 +30,13 @@
       }
     },
 //{"key": "php_huaweiba","name": "华为吧克隆","type": 4,"api": "https://t4.doube.eu.org/huaweiba.php","searchable": 1},
-  {
+{
             "key": "php_huaweiba",
-            "name": "华为吧克隆",
+            "name": "华为吧",
             "type": 4,
             "api": "https://t4.doube.eu.org/huaweiba.php",
             "searchable": 1
-        },
+        }, 
    
 
 
@@ -730,9 +730,9 @@
                 "ratio": 1.33
               }
         },
-   {
-            "key": "php_hmezy",
-            "name": "黑木耳克隆",
+  {
+            "key": "php2_hmezy",
+            "name": "黑木耳",
             "type": 4,
             "api": "https://t4.doube.eu.org/heimuer.php",
             "searchable": 1
