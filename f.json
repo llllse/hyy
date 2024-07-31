@@ -54,6 +54,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "jar": "http://xld.li0580.com/uploads/tvbox/custom_spider.jar",
+
             "playurl": "json:https://47.96.255.149/api.php?url=",
             "categories": [
                 "路人甲影视(电影)",
