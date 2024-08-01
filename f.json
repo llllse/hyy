@@ -377,6 +377,16 @@
             "searchable": 0,
             "changeable": 0
         },
+   {
+            "key": "PTT",
+            "name": "PTT",
+            "type": 3,
+            "api": "csp_PTT",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
     {
             "key": "实验金鹰",
             "name": "实验金鹰",
