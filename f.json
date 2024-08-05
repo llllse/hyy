@@ -48,13 +48,14 @@
         },
 
  {
-      "key": "csp_Mp4Mov",
+     "key": "csp_Mp4Mov",
       "name": "🧲Mp4电影",
       "type": 3,
       "api": "csp_Mp4Mov",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "ext": "https://www.padmp4.com",
       "jar":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
     },
  {
@@ -65,6 +66,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "ext": "https://www.seedhub.cc",
       "jar":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
     },
     {
@@ -75,6 +77,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "ext": "https://www.kubady2.com",
       "jar":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
     },
     {
@@ -87,6 +90,17 @@
       "filterable": 1,
       "jar":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
     },
+   {
+      "key": "csp_MeijuTT",
+      "name": "🧲美剧天堂",
+      "type": 3,
+      "api": "csp_MeijuTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.meijutt.net",
+      "jar":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
+    },
     {
       "key": "csp_Xunlei8",
       "name": "🧲迅雷吧",
@@ -97,7 +111,16 @@
       "filterable": 1,
       "jar":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
     },
-
+{
+      "key": "csp_New6v",
+      "name": "🧲新6V",
+      "type": 3,
+      "api": "csp_New6v",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.xb6v.com"
+    },
 
 
 
