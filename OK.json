@@ -74,8 +74,8 @@
       "changeable": 1,
       "ext": {
         "token": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/t.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "uc_cookie": "file://TV/uc_cookie.txt",
+        "cookie": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/quark_cookie.txt",
+        "uc_cookie": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/uc_cookie.txt",
         "wogg": true
       },
       "timeout": 30
@@ -106,8 +106,8 @@
       "changeable": 1,
       "filterable": 1,
       "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
+        "token": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/t.txt",
+        "cookie": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/quark_cookie.txt",
         "site": "https://duopan.fun",
         "danmu": true
       },
@@ -233,7 +233,7 @@
       "filterable": 0,
       "indexs": 0,
       "ext": {
-        "token": "file://TV/ali_token.txt"
+        "token": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/t.txt"
       },
       "style": {
         "type": "list"
@@ -250,7 +250,7 @@
       "filterable": 0,
       "indexs": 0,
       "ext": {
-        "cookie": "file://TV/quark_cookie.txt"
+        "cookie": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/quark_cookie.txt"
       },
       "style": {
         "type": "list"
@@ -267,7 +267,7 @@
       "filterable": 0,
       "indexs": 0,
       "ext": {
-        "uc_cookie": "file://TV/uc_cookie.txt"
+        "uc_cookie": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/uc_cookie.txt"
       },
       "style": {
         "type": "list"
@@ -284,7 +284,7 @@
       "filterable": 0,
       "indexs": 0,
       "ext": {
-        "token": "file://TV/ali_token.txt",
+        "token": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/t.txt",
         "share": "file://TV/阿里集合.json"
       },
       "style": {
@@ -301,8 +301,8 @@
       "changeable": 1,
       "filterable": 1,
       "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
+        "token": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/t.txt",
+        "cookie": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/quark_cookie.txt",
         "site": "https://tudou.lvdoui.top"
       },
       "timeout": 25
@@ -596,7 +596,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": {
-        "token": "file://TV/ali_token.txt"
+        "token": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/t.txt"
       },
       "timeout": 15
     },
@@ -609,7 +609,7 @@
       "filterable": 0,
       "changeable": 0,
       "ext": {
-        "token": "file://TV/ali_token.txt",
+        "token": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/t.txt",
         "cookie": "JSESSIONID=FEAFA3BD405267C378C2455FBAD4A704;satoken=0f065aaa-1b6b-4b9b-9910-83a67fb14da2"
       },
       "timeout": 15
@@ -623,7 +623,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": {
-        "cookie": "file://TV/quark_cookie.txt"
+        "cookie": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/quark_cookie.txt"
       },
       "timeout": 15
     },
@@ -636,7 +636,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": {
-        "cookie": "file://TV/quark_cookie.txt"
+        "cookie": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/quark_cookie.txt"
       },
       "timeout": 15
     },
@@ -649,7 +649,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": {
-        "cookie": "file://TV/quark_cookie.txt",
+        "cookie": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/quark_cookie.txt",
         "site": "https://www.misou.fun"
       },
       "timeout": 15
@@ -663,7 +663,7 @@
       "filterable": 1,
       "changeable": 0,
       "ext": {
-        "cookie": "file://TV/quark_cookie.txt"
+        "cookie": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/quark_cookie.txt"
       },
       "timeout": 15
     },
@@ -676,8 +676,8 @@
       "filterable": 0,
       "changeable": 0,
       "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt"
+        "token": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/t.txt",
+        "cookie": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/quark_cookie.txt"
       },
       "timeout": 15
     },
@@ -690,8 +690,8 @@
       "filterable": 0,
       "changeable": 0,
       "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt"
+        "token": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/t.txt",
+        "cookie": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/quark_cookie.txt"
       },
       "timeout": 15
     },
@@ -704,9 +704,9 @@
       "filterable": 0,
       "changeable": 0,
       "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "uc_cookie": "file://TV/uc_cookie.txt",
+        "token": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/t.txt",
+        "cookie": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/quark_cookie.txt"
+        "uc_cookie": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/uc_cookie.txt",
         "danmu": true
       },
       "timeout": 5
