@@ -37,7 +37,14 @@
             "api": "https://t4.doube.eu.org/huaweiba.php",
             "searchable": 1
         }, 
-   
+   {
+            "key": "实验直播",
+            "name": "实验直播",
+            "type": 1,
+            "api": "http://zhangqun1818.serv00.net/zh/223.php",
+            "searchable": 0,
+            "changeable": 0
+        },
  {
             "key": "采集集合",
             "name": "采集集合",
@@ -802,15 +809,7 @@
             "api": "https://t4.doube.eu.org/heimuer.php",
             "searchable": 1
         },
-   {
-            "key": "实验油管",
-            "name": "实验油管",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net/yt/yt001.php",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "动作片#谍战剧playlist#沙雕穿越#中国动漫#有声穿越小说#影视解说#百家讲坛playlist#动物#风光#放松#4K#HDR#movie#喜来乐#documentary#bbc documentary"
-        },
+   
      {
             "key": "黑木耳克隆",
             "name": "黑木耳克隆",
@@ -837,14 +836,7 @@
             "searchable": 1,
             "changeable": 1
         },
-{
-            "key": "实验直播",
-            "name": "实验直播",
-            "type": 1,
-            "api": "http://zhangqun1818.serv00.net/zh/223.php",
-            "searchable": 0,
-            "changeable": 0
-        },
+
    {
       "key": "csp_JavBus",
       "name": "🧲JavBus(自备梯子)",
