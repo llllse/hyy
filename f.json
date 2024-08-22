@@ -37,14 +37,16 @@
             "api": "https://t4.doube.eu.org/huaweiba.php",
             "searchable": 1
         }, 
-   {
-            "key": "实验直播",
-            "name": "实验直播",
-            "type": 1,
-            "api": "http://zhangqun1818.serv00.net/zh/223.php",
+  {
+            "key": "实验直播1",
+            "name": "实验直播1",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/zh/224.php",
             "searchable": 0,
-            "changeable": 0
+            "changeable": 0,
+            "ext": "2"
         },
+
  {
             "key": "采集集合",
             "name": "采集集合",
@@ -802,6 +804,20 @@
                 "ratio": 1.33
               }
         },
+   {
+      "key": "py_liushoushaofu",
+      "name": "🤪 T4_Py",
+      "type": 4,
+      "api": "https://py.doube.eu.org/api?site=liushoushaofu",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+   },
+
   {
             "key": "php2_hmezy",
             "name": "黑木耳",
@@ -811,14 +827,18 @@
         },
    
      {
-            "key": "黑木耳克隆",
-            "name": "黑木耳克隆",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net/225.php",
+            "key": "heimuer",
+            "name": "黑木耳",
+            "type": 1,
+            "api": "https://json.heimuer.xyz/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0
+            "filterable": 0,
+            "header": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+            }
         },
+
         {
             "key": "金鹰克隆",
             "name": "金鹰克隆",
