@@ -11,20 +11,185 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {
-      "key": "玩偶",
-      "name": "👽玩偶哥哥┃4K弹幕",
+   {
+            "key": "haiwaiba",
+            "name": "华为吧",
+            "type": 1,
+            "api": "https://cjhwba.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        }, 
+  {
+            "key": "黑木耳克隆",
+            "name": "黑木耳克隆",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/225.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "金鹰克隆",
+            "name": "金鹰克隆",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/jy.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "华为吧克隆",
+            "name": "华为吧克隆",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/hwb.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "索尼克隆",
+            "name": "索尼克隆",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/sn.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "实验油管",
+            "name": "实验油管",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/yt/yt001.php",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "动作片#谍战剧playlist#沙雕穿越#中国动漫#有声穿越小说#影视解说#百家讲坛playlist#动物#风光#放松#4K#HDR#movie#喜来乐#documentary#bbc documentary"
+        },
+        {
+            "key": "采集集合",
+            "name": "采集集合",
+            "type": 1,
+            "api": "http://zhangqun1818.serv00.net/cjjh.php",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "实验播放列表",
+            "name": "实验播放列表",
+            "type": 1,
+            "api": "http://zhangqun1818.serv00.net/ytlb.php",
+            "searchable": 1,
+            "changeable": 1
+        },
+                {
+            "key": "实验直播1",
+            "name": "实验直播1",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/zh/224.php",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "1"
+        },
+                        {
+            "key": "实验直播2",
+            "name": "实验直播2",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/zh/224.php",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "2"
+        },
+{
+            "key": "实验直播3",
+            "name": "实验直播3",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/zh/2241.php",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "1,2,3"
+        },
+{
+            "key": "超级影视",
+            "name": "超级影视",
+            "type": 1,
+            "api": "http://cjvip.free.hr/api.php/provide/vod/?ac=list",
+            "searchable": 0,
+            "changeable": 0
+        },
+ {
+     "key": "csp_Mp4Mov",
+      "name": "🧲Mp4电影",
       "type": 3,
-      "api": "csp_WoGG",
+      "api": "csp_Mp4Mov",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto",
-        "siteUrl": "https://www.wogg.net/",
-        "danMu": "弹"
-      }
+      "filterable": 1,
+      "ext": "https://www.padmp4.com",
+      "jar":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
+    },
+ {
+      "key": "csp_SeedHub",
+      "name": "🧲SeedHub",
+      "type": 3,
+      "api": "csp_SeedHub",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.seedhub.cc",
+      "jar":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
+    },
+    {
+      "key": "csp_KubaCL",
+      "name": "🧲酷吧电影",
+      "type": 3,
+      "api": "csp_KubaCL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.kubady2.com",
+      "jar":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
+    },
+    {
+      "key": "csp_MeijuMi",
+      "name": "🧲美剧迷",
+      "type": 3,
+      "api": "csp_MeijuMi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
+    },
+   {
+      "key": "csp_MeijuTT",
+      "name": "🧲美剧天堂",
+      "type": 3,
+      "api": "csp_MeijuTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.meijutt.net",
+      "jar":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
+    },
+    {
+      "key": "csp_Xunlei8",
+      "name": "🧲迅雷吧",
+      "type": 3,
+      "api": "csp_Xunlei8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
+    },
+{
+      "key": "csp_New6v",
+      "name": "🧲新6V",
+      "type": 3,
+      "api": "csp_New6v",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.xb6v.com"
+      
     },
     {
       "key": "YGP",
