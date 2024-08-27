@@ -117,6 +117,17 @@
             "searchable": 0,
             "changeable": 0
         },
+    {
+      "key": "csp_JianPian",
+      "name": "🔨荐片",
+      "type": 3,
+      "api": "csp_JianPian",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://112.124.0.131:20000"
+    },
  {
      "key": "csp_Mp4Mov",
       "name": "🧲Mp4电影",
