@@ -189,6 +189,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "jar":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar" 
       "ext": "https://www.xb6v.com"
       
     },
@@ -201,32 +202,8 @@
       "quickSearch": 0,
       "changeable": 0
     },
-    {
-      "key": "米搜",
-      "name": "🦋小米┃盘搜",
-      "type": 3,
-      "api": "csp_MIPanSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "抠搜",
-      "name": "🍄抠抠┃搜搜",
-      "type": 3,
-      "api": "csp_KkSs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
+    
+    
     {
       "key": "Lib",
       "name": "🌟立播┃秒播",
@@ -408,16 +385,7 @@
       "changeable": 1,
       "ext": "https://auete.pro/"
     },
-    {
-      "key": "新6V",
-      "name": "🧲新6V┃磁力",
-      "type": 3,
-      "api": "csp_SixV",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "https://www.xb6v.com/"
-    },
+    
     {
       "key": "短剧",
       "name": "🌈上头┃短剧",
