@@ -216,23 +216,7 @@
     },
     
 
- {
-      "key": "玩偶",
-      "name": "👽玩偶哥哥┃4K弹幕",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/b/Cloud-drive.txt
-",
-        "from": "4k|auto",
-        "siteUrl": "https://www.wogg.net/",
-        "danMu": "弹"
-      }
-    },
-
+ 
 
     
     {
@@ -603,76 +587,6 @@
      //{"key": "php_madou","name": "请勿相信视频中广告","type": 4,"api": "https://t4.doube.eu.org/madou.php","searchable": 1,"quickSearch":0, "filterable":0,"style": {"type": "rect","ratio": 1.33}},
    
 
-
-    {
-      "key": "夸搜",
-      "name": "🐟夸搜┃狸夸",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "pan": "quark",
-        "Cloud-drive": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/b/Cloud-drive.txt
-",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "YiSo",
-      "name": "😹易搜┃阿狸",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/b/Cloud-drive.txt
-",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "PanSou",
-      "name": "🦊盘搜┃阿狸",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/b/Cloud-drive.txt
-",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "PanSearch",
-      "name": "🙀盘Se┃阿狸",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/b/Cloud-drive.txt
-",
-        "from": "4k|auto"
-      }
-    },
-    {
-      "key": "push_agent",
-      "name": "🛴手机┃推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
     {
       "key": "Bili",
       "name": "🅱哔哔┃合集",
