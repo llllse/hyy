@@ -686,9 +686,9 @@
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"
     },
 
-{"name":"龙伊直播","type":0,"url":"https://龙伊.top/直播","playerType":1,"epg":"https://api.龙伊.top/epg/epg.php?ch={name}&date={date}","logo":"https://api.龙伊.top/epg/images/{name}.png"},
-{"name":"恐怖剧场","type":0,"url":"https://api.龙伊.top/live2.json","playerType":1,"epg":"https://api.龙伊.top/epg/epg.php?ch={name}&date={date}","logo":"https://api.龙伊.top/epg/images/{name}.png"},
-{"name":"16万•MV","type":0,"url":"https://api.龙伊.top/16万.json","playerType":1,"epg":"https://api.龙伊.top/epg/epg.php?ch={name}&date={date}","logo":"https://api.龙伊.top/epg/images/{name}.png"},
+//{"name":"龙伊直播","type":0,"url":"https://龙伊.top/直播","playerType":1,"epg":"https://api.龙伊.top/epg/epg.php?ch={name}&date={date}","logo":"https://api.龙伊.top/epg/images/{name}.png"},
+//{"name":"恐怖剧场","type":0,"url":"https://api.龙伊.top/live2.json","playerType":1,"epg":"https://api.龙伊.top/epg/epg.php?ch={name}&date={date}","logo":"https://api.龙伊.top/epg/images/{name}.png"},
+//{"name":"16万•MV","type":0,"url":"https://api.龙伊.top/16万.json","playerType":1,"epg":"https://api.龙伊.top/epg/epg.php?ch={name}&date={date}","logo":"https://api.龙伊.top/epg/images/{name}.png"},
 
 
     
