@@ -59,8 +59,8 @@
             "filterable": 0
         },
         {
-            "key": "服务器油管",
-            "name": "服务器油管",
+            "key": "实验油管",
+            "name": "实验油管",
             "type": 4,
             "api": "http://zhangqun1818.serv00.net/yt/yt001.php",
             "searchable": 1,
@@ -76,21 +76,39 @@
             "changeable": 1
         },
         {
-            "key": "油管播放列表",
-            "name": "油管播放列表",
-            "type": 4,
+            "key": "实验播放列表",
+            "name": "实验播放列表",
+            "type": 1,
             "api": "http://zhangqun1818.serv00.net/ytlb.php",
             "searchable": 1,
             "changeable": 1
         },
-        {
-            "key": "直播转点播",
-            "name": "直播转点播",
+                {
+            "key": "实验直播1",
+            "name": "实验直播1",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/zh/224.php",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "1"
+        },
+                        {
+            "key": "实验直播2",
+            "name": "实验直播2",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/zh/224.php",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "2"
+        },
+{
+            "key": "实验直播3",
+            "name": "实验直播3",
             "type": 4,
             "api": "http://zhangqun1818.serv00.net/zh/2241.php",
             "searchable": 0,
             "changeable": 0,
-            "ext": "1,2,3,4"
+            "ext": "1,2,3"
         },
 {
             "key": "超级影视",
