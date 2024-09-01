@@ -27,7 +27,9 @@
             "name": "🟢黑木耳",
             "type": 1,
             "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
-            "playurl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=https://tang.hz.cz/jx/hmr?noads="
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
         },
         {
             "key": "金鹰克隆",
