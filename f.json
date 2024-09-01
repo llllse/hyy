@@ -49,7 +49,14 @@
       "searchable": 1,
       "changeable": 1
     },
-
+ {
+      "key": "啾啾影视",
+      "name": "啾啾｜影视",
+      "type": 3,
+      "api": "csp_Wexjiohub",
+      "searchable": 1,
+      "changeable": 1
+    },
     
 {
             "key": "超级影视",
