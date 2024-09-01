@@ -40,7 +40,17 @@
             "quickSearch": 1,
             "filterable": 0
         },
-       
+    {
+      "key": "ys1",
+      "name": "沐辰影视",
+      "type": 4,
+      "api": "https://demobe.serv00.net/heimuer.php",
+      "playUrl": "json:https://4tvbox.ggff.net/hme.php?url=",
+      "searchable": 1,
+      "quickSearch":0,
+      "filterable":0
+    },
+    
 {
             "key": "超级影视",
             "name": "超级影视",
