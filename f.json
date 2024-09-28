@@ -32,14 +32,56 @@
             "filterable": 0
         },
         {
+            "key": "克隆合集",
+            "name": "克隆合集",
+            "type": 4,
+            "api": "https://api.paoyun.eu.org/klhj.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "jar":"https://api.paoyun.eu.org/zq//fm.jar"
+        },
+        {
+            "key": "黑木耳克隆",
+            "name": "黑木耳克隆",
+            "type": 4,
+            "api": "https://api.paoyun.eu.org/225.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+           "jar":"https://api.paoyun.eu.org/zq//fm.jar"
+        },
+        {
             "key": "金鹰克隆",
             "name": "金鹰克隆",
             "type": 4,
-            "api": "http://zhangqun1818.serv00.net/jy.php",
+            "api": "https://api.paoyun.eu.org/jy.php",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0
+            "filterable": 0,
+            "jar":"https://api.paoyun.eu.org/zq//fm.jar"
         },
+        {
+            "key": "华为吧克隆",
+            "name": "华为吧克隆",
+            "type": 4,
+            "api": "https://api.paoyun.eu.org/hwb.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "jar":"https://api.paoyun.eu.org/zq//fm.jar"
+        },
+        {
+            "key": "索尼克隆",
+            "name": "索尼克隆",
+            "type": 4,
+            "api": "https://api.paoyun.eu.org/sn.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "jar":"https://api.paoyun.eu.org/zq//fm.jar"
+        },
+
     
  {
       "key": "腐剧视频",
