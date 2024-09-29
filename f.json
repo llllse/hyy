@@ -83,25 +83,7 @@
         },
 
     
- {
-      "key": "腐剧视频",
-      "name": "腐剧｜视频",
-      "type": 3,
-      "api": "csp_WexFujutv",
-      "searchable": 1,
-      "changeable": 1,
-      "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"
-    },
- {
-      "key": "啾啾影视",
-      "name": "啾啾｜影视",
-      "type": 3,
-      "api": "csp_Wexjiohub",
-      "searchable": 1,
-      "changeable": 1,
-      "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"
-    },
-    
+
 {
             "key": "超级影视",
             "name": "超级影视",
