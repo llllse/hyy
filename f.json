@@ -102,7 +102,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar",
-      "ext": "http://112.124.0.131:20000"
+      "ext": "http://39.108.238.168:20000"
     },
  {
      "key": "csp_Mp4Mov",
