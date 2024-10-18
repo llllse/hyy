@@ -17,6 +17,32 @@
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 
 
+电视剧,#genre#
+电视剧频道1,http://zby.xjqxz.top/dsdsj1/live.m3u8
+电视剧频道2,http://zby.xjqxz.top/dsdsj2/live.m3u8
+电视剧频道3,http://zby.xjqxz.top/dsdsj3/live.m3u8
+电视剧频道4,http://zby.xjqxz.top/gzwxj/live.m3u8
+电视剧频道5,http://zby.xjqxz.top/gzgdj/live.m3u8
+电视剧频道6,http://zby.xjqxz.top/gzdsj1/live.m3u8
+电视剧频道7,http://zby.xjqxz.top/gzdsj2/live.m3u8
+电视剧频道8,http://zby.xjqxz.top/gzdsj3/live.m3u8
+电视剧频道9,http://zby.xjqxz.top/gzdsj4/live.m3u8
+电视剧频道10,http://zby.xjqxz.top/gzdsj5/live.m3u8
+电视剧频道11,http://zby.xjqxz.top/kzzypd2/live.m3u8
+电视剧频道12,http://zby.xjqxz.top/kzzypd/live.m3u8
+电视剧频道13,http://zby.xjqxz.top/dzzypd/live.m3u8
+电视剧频道14,http://zby.xjqxz.top/dzzypd2/live.m3u8
+电视剧频道15,http://zby.xjqxz.top/dzzypd3/live.m3u8
+康熙微服私访记,http://zby.xjqxz.top/kxwfxhj/live.m3u8
+甄嬛传,http://zby.xjqxz.top/live8/live.m3u8
+电影,http://zby.xjqxz.top/live5/live.m3u8
+电影2,http://zby.xjqxz.top/live7/live.m3u8
+电影1905,http://zby.xjqxz.top/live11/live.m3u8
+电影3,http://zby.xjqxz.top/live12/live.m3u8
+电影4,http://zby.xjqxz.top/live13/live.m3u8
+电影5,http://zby.xjqxz.top/live18/live.m3u8
+
+
 
 极速港台,#genre#
 有线新闻,rtmp://27.223.28.254:40085/hls/yifatvgdfc
