@@ -123,16 +123,7 @@
             "filterable": 0,
             "jar":"https://api.paoyun.eu.org/zq//fm.jar"
         },
-{
-            "key": "服务器油管",
-            "name": "服务器油管",
-            "type": 4,
-            "api": "https://api.paoyun.eu.org/yt/yt001.php",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "动作片#谍战剧playlist#沙雕穿越#中国动漫#有声穿越小说#影视解说#百家讲坛playlist#苍生局#风光#放松#4K#HDR#movie#经典歌曲#documentary#bbc documentary",
-            "jar":"https://api.paoyun.eu.org/zq//fm.jar"
-        },
+
         {
             "key": "采集集合",
             "name": "采集集合",
@@ -142,15 +133,7 @@
             "changeable": 1,
             "jar":"https://api.paoyun.eu.org/zq//fm.jar"
         },
-        {
-            "key": "油管播放列表",
-            "name": "油管播放列表",
-            "type": 4,
-            "api": "https://api.paoyun.eu.org/ytlb.php",
-            "searchable": 1,
-            "changeable": 1,
-            "jar":"https://api.paoyun.eu.org/zq//fm.jar"
-        },
+        
         {
             "key": "直播转点播",
             "name": "直播转点播",
