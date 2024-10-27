@@ -24,7 +24,8 @@
             "name": "爱电影┃影视",
             "type": 3,
             "api": "csp_XBPQ",
-           
+           "jar": "./jar/XBPQ.jar",
+
             "ext": {
                 "主页url": "https://www.gs4x7nq4.com/",
                 "简介": "</label>&&</div>",
