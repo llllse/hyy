@@ -140,17 +140,20 @@
             "searchable": 0,
             "changeable": 0
         },
-    {
-      "key": "csp_JianPian",
-      "name": "🔨荐片",
+
+      {
+      "key": "荐片弹幕",
+      "name": "荐片┃弹幕",
       "type": 3,
-      "api": "csp_JianPian",
+      "api": "csp_Jianpian",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://ghproxy.net/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar",
-      "ext": "http://39.108.238.168:20000"
+      "ext": {
+        "danmu": true
+      },
+      "jar":"https://cdn09022024.gitlink.org.cn/guot55/yg/raw/jar%2Fbhtv.txt?ref=main"
     },
  {
      "key": "csp_Mp4Mov",
