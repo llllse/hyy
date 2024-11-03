@@ -156,7 +156,7 @@
       "jar":"https://cdn09022024.gitlink.org.cn/guot55/yg/raw/jar%2Fbhtv.txt?ref=main"
     },
  {
-     "key": "csp_Mp4Mov",
+      "key": "csp_Mp4Mov",
       "name": "🧲Mp4电影",
       "type": 3,
       "api": "csp_Mp4Mov",
@@ -188,7 +188,7 @@
       "ext": "https://www.kubady2.com",
       "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
     },
-    {
+     {
       "key": "csp_MeijuMi",
       "name": "🧲美剧迷",
       "type": 3,
@@ -198,7 +198,7 @@
       "filterable": 1,
       "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
     },
-   {
+    {
       "key": "csp_MeijuTT",
       "name": "🧲美剧天堂",
       "type": 3,
@@ -209,7 +209,7 @@
       "ext": "https://www.meijutt.net",
       "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
     },
-    {
+   {
       "key": "csp_Xunlei8",
       "name": "🧲迅雷吧",
       "type": 3,
@@ -219,7 +219,7 @@
       "filterable": 1,
       "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
     },
-{
+ {
       "key": "csp_New6v",
       "name": "🧲新6V",
       "type": 3,
@@ -227,8 +227,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar",
-      "ext": "https://www.xb6v.com"
+      "ext": "https://www.xb6v.com",
+      "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
+    
       
     },
 
