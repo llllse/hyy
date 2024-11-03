@@ -164,7 +164,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.padmp4.com",
-      "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
+      "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;4557db37965e20fb46cb59c3f603383c"
     },
  {
       "key": "csp_SeedHub",
@@ -175,7 +175,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.seedhub.cc",
-      "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
+      "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;4557db37965e20fb46cb59c3f603383c"
     },
     {
       "key": "csp_KubaCL",
@@ -186,7 +186,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.kubady2.com",
-      "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
+      "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;4557db37965e20fb46cb59c3f603383c"
     },
      {
       "key": "csp_MeijuMi",
@@ -196,7 +196,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
+      "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;4557db37965e20fb46cb59c3f603383c"
     },
     {
       "key": "csp_MeijuTT",
@@ -207,7 +207,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.meijutt.net",
-      "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
+      "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;4557db37965e20fb46cb59c3f603383c"
     },
    {
       "key": "csp_Xunlei8",
@@ -217,7 +217,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
+      "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;4557db37965e20fb46cb59c3f603383c"
     },
  {
       "key": "csp_New6v",
@@ -228,7 +228,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.xb6v.com",
-      "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
+      "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;4557db37965e20fb46cb59c3f603383c"
     
       
     },
