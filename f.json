@@ -25,113 +25,7 @@
 
 
     
-   {
-            "key": "haiwaiba",
-            "name": "华为吧",
-            "type": 1,
-            "api": "https://cjhwba.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        }, 
-
-{
-            "key": "heimuer",
-            "name": "🟢黑木耳",
-            "type": 1,
-            "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
-        {
-            "key": "克隆合集",
-            "name": "克隆合集",
-            "type": 4,
-            "api": "https://api.paoyun.eu.org/klhj.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "jar":"https://api.paoyun.eu.org/zq//fm.jar"
-        },
-        {
-            "key": "黑木耳克隆",
-            "name": "黑木耳克隆",
-            "type": 4,
-            "api": "https://api.paoyun.eu.org/225.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-           "jar":"https://api.paoyun.eu.org/zq//fm.jar"
-        },
-        {
-            "key": "金鹰克隆",
-            "name": "金鹰克隆",
-            "type": 4,
-            "api": "https://api.paoyun.eu.org/jy.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "jar":"https://api.paoyun.eu.org/zq//fm.jar"
-        },
-        {
-            "key": "华为吧克隆",
-            "name": "华为吧克隆",
-            "type": 4,
-            "api": "https://api.paoyun.eu.org/hwb.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "jar":"https://api.paoyun.eu.org/zq//fm.jar"
-        },
-        {
-            "key": "索尼克隆",
-            "name": "索尼克隆",
-            "type": 4,
-            "api": "https://api.paoyun.eu.org/sn.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "jar":"https://api.paoyun.eu.org/zq//fm.jar"
-        },
-
-        {
-            "key": "采集集合",
-            "name": "采集集合",
-            "type": 1,
-            "api": "https://api.paoyun.eu.org/cjjh.php",
-            "searchable": 1,
-            "changeable": 1,
-            "jar":"https://api.paoyun.eu.org/zq//fm.jar"
-        },
-        
-        {
-            "key": "直播转点播",
-            "name": "直播转点播",
-            "type": 4,
-            "api": "https://api.paoyun.eu.org/zh/2241-2.php",
-            "searchable": 1,
-            "changeable": 0,
-            "jar":"https://api.paoyun.eu.org/zq//fm.jar"
-        },
-        {
-            "key": "低端影视",
-            "name": "低端┃影视",
-            "type": 3,
-            "api": "https://api.paoyun.eu.org/zq/api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://api.paoyun.eu.org/zq/js/ddys.js",
-            "jar":"https://api.paoyun.eu.org/zq//fm.jar"
-        },
-
-
-
-
-
-    
-    
-
+  
 {
             "key": "超级影视",
             "name": "超级影视",
@@ -140,9 +34,6 @@
             "searchable": 0,
             "changeable": 0
         },
-
-    
-     
       {
       "key": "csp_Ikanbot",
       "name": "👾Ikanbot",
@@ -253,6 +144,105 @@
       "timeout": 10,
       "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730424610558/okjpg.txt"
     },
+
+
+
+    
+
+ {
+            "key": "haiwaiba",
+            "name": "华为吧",
+            "type": 1,
+            "api": "https://cjhwba.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        }, 
+
+{
+            "key": "heimuer",
+            "name": "🟢黑木耳",
+            "type": 1,
+            "api": "https://json.heimuer.xyz/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "克隆合集",
+            "name": "克隆合集",
+            "type": 4,
+            "api": "https://api.paoyun.eu.org/klhj.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "jar":"https://api.paoyun.eu.org/zq//fm.jar"
+        },
+        {
+            "key": "黑木耳克隆",
+            "name": "黑木耳克隆",
+            "type": 4,
+            "api": "https://api.paoyun.eu.org/225.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+           "jar":"https://api.paoyun.eu.org/zq//fm.jar"
+        },
+        {
+            "key": "金鹰克隆",
+            "name": "金鹰克隆",
+            "type": 4,
+            "api": "https://api.paoyun.eu.org/jy.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "jar":"https://api.paoyun.eu.org/zq//fm.jar"
+        },
+        {
+            "key": "华为吧克隆",
+            "name": "华为吧克隆",
+            "type": 4,
+            "api": "https://api.paoyun.eu.org/hwb.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "jar":"https://api.paoyun.eu.org/zq//fm.jar"
+        },
+        {
+            "key": "索尼克隆",
+            "name": "索尼克隆",
+            "type": 4,
+            "api": "https://api.paoyun.eu.org/sn.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "jar":"https://api.paoyun.eu.org/zq//fm.jar"
+        },
+
+        {
+            "key": "采集集合",
+            "name": "采集集合",
+            "type": 1,
+            "api": "https://api.paoyun.eu.org/cjjh.php",
+            "searchable": 1,
+            "changeable": 1,
+            "jar":"https://api.paoyun.eu.org/zq//fm.jar"
+        },
+          {
+            "key": "低端影视",
+            "name": "低端┃影视",
+            "type": 3,
+            "api": "https://api.paoyun.eu.org/zq/api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://api.paoyun.eu.org/zq/js/ddys.js",
+            "jar":"https://api.paoyun.eu.org/zq//fm.jar"
+        },
+
+
+
+
+    
  {
       "key": "玩偶",
       "name": "👽玩偶┃4K",
