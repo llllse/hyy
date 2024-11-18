@@ -632,15 +632,7 @@
       "quickSearch": 1,
       "changeable": 0
     },
-       {
-           "key": "色色影视",
-            "name": "色色影视",
-            "type": 4,
-            "api": "https://api.paoyun.eu.org/228.php",
-            "searchable": 1,
-            "changeable": 0,
-            "jar":"https://api.paoyun.eu.org/zq//fm.jar"
-        },
+       //{"key": "色色影视","name": "色色影视","type": 4,"api": "https://api.paoyun.eu.org/228.php","searchable": 1,"changeable": 0,"jar":"https://api.paoyun.eu.org/zq//fm.jar"},
     {
       "key": "Bili",
       "name": "🅱哔哔合集┃弹幕",
