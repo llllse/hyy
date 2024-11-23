@@ -1,5 +1,5 @@
 {
-"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731682555989/fan.txt",
+"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732351865966/fan.txt",
   "wallpaper": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/mv/main/0.jpg",
 
   "sites": [
@@ -251,7 +251,7 @@
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
-       "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730424610558/okjpg.txt;md5;b335c927a4eb9a03e7bb6621a0aa9069",
+       "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732006787778/okpng.txt;md5;6a8570ff0af5af3a0d72ccdfda84e07e",
       "ext": {
         "token": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/TV/ali_token.txt",
         "cookie": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/TV/quark_cookie.txt",
@@ -331,7 +331,7 @@
       "changeable": 1,
       "ext": "https://www.czzy77.com/"
     },
-    {
+     {
       "key": "木星",
       "name": "🌞木星┃多线",
       "type": 3,
@@ -339,7 +339,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvEpcoxZIYRQNwQCG8Otba0yUlXQMqbvyrYj1rF/ef6Syy5Zj/ZkmAqgHsuU3lxEs8zPFZMXNqLxA+MbSlPxmlA1/58U/OgZ2I7cEW5ZHV6hg=="
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"
+    },
+    {
+      "key": "速播",
+      "name": "⏮️速播┃多线",
+      "type": 3,
+      "api": "csp_AppSx",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjDcUxPqpfNr0QF4QvEpcoxb5sQXd8GDXUTvbqvx0peQcuZ7GvQ0UGD/a2mS238cHqYkiBgwCduCiYrTZJtbwdDUt/L2w/LOWADxikKl6I8Cqz6OD9lIxS2anA6ytO6"
     },
     {
       "key": "热播",
@@ -759,10 +769,11 @@
      //{"name": "SA0","type": 0,"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/a/main/悠哉.txt","playerType": 1},	 
 
   {
-      "name": "IPV4",
+      "name": "IPV4若卡顿切IPV6",
       "type": 0,
-      "url": "https://ghp.ci/raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.m3u",
-      "playerType": 1
+      "url": "https://ghp.ci/raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.txt",
+      "playerType": 1,
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
       "name": "IPV6①",
