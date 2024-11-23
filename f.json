@@ -145,6 +145,8 @@
       "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730424610558/okjpg.txt"
     },
 
+
+    
 {
             "key": "人人",
             "name": "人人┃ 4K",
@@ -154,6 +156,30 @@
             "ext": "caHR0cDovLzExMC40Mi40OC4xNjE6MTIzNDd8MzFjOTNjN2JjMjExZDc3OHwzMWM5M2M3YmMyMTFkNzc4",
             "jar":"http://tv.laohu.cool/lh241114.jar"
         },
+{
+            "key": "360_spider",
+            "name": "360┃解析",
+            "api": "csp_SP360",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "playerType": 2,
+            "ext": "",
+            "jar":"http://tv.laohu.cool/lh241114.jar"
+        },
+{
+            "key": "Dygang",
+            "name": "电影港『边下边播』",
+            "type": 3,
+            "api": "csp_Dygang",
+            "jar":"http://tv.laohu.cool/lh241114.jar"
+        },
+
+
+
+
+    
  {
             "key": "haiwaiba",
             "name": "华为吧",
