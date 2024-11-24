@@ -206,11 +206,10 @@
             "api": "http://zhangqun66.xyz/klhj.php",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0
-        },,
+            "filterable": 0,
             "jar":"https://zhangqun66.xyz/zq/fm.jar"
         },
-        
+         {
             "key": "黑木耳克隆",
             "name": "黑木耳克隆",
             "type": 4,
