@@ -199,65 +199,66 @@
             "quickSearch": 1,
             "filterable": 0
         },
-        {
+       {
             "key": "克隆合集",
             "name": "克隆合集",
             "type": 4,
-            "api": "https://api.paoyun.eu.org/klhj.php",
+            "api": "http://zhangqun66.xyz/klhj.php",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
-            "jar":"https://api.paoyun.eu.org/zq//fm.jar"
+            "filterable": 0
+        },,
+            "jar":"https://zhangqun66.xyz/zq/fm.jar"
         },
-        {
+        
             "key": "黑木耳克隆",
             "name": "黑木耳克隆",
             "type": 4,
-            "api": "https://api.paoyun.eu.org/225.php",
+            "api": "http://zhangqun66.xyz/225.php",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-           "jar":"https://api.paoyun.eu.org/zq//fm.jar"
+           "jar":"https://zhangqun66.xyz/zq/fm.jar"
         },
-        {
+       {
             "key": "金鹰克隆",
             "name": "金鹰克隆",
             "type": 4,
-            "api": "https://api.paoyun.eu.org/jy.php",
+            "api": "http://zhangqun66.xyz/jy.php",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar":"https://api.paoyun.eu.org/zq//fm.jar"
+            "jar":"https://zhangqun66.xyz/zq/fm.jar"
         },
         {
             "key": "华为吧克隆",
             "name": "华为吧克隆",
             "type": 4,
-            "api": "https://api.paoyun.eu.org/hwb.php",
+            "api": "http://zhangqun66.xyz/hwb.php",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar":"https://api.paoyun.eu.org/zq//fm.jar"
+            "jar":"https://zhangqun66.xyz/zq/fm.jar"
         },
-        {
+       {
             "key": "索尼克隆",
             "name": "索尼克隆",
             "type": 4,
-            "api": "https://api.paoyun.eu.org/sn.php",
+            "api": "http://zhangqun66.xyz/sn.php",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar":"https://api.paoyun.eu.org/zq//fm.jar"
+            "jar":"https://zhangqun66.xyz/zq/fm.jar"
         },
 
-        {
+       {
             "key": "采集集合",
             "name": "采集集合",
             "type": 1,
-            "api": "https://api.paoyun.eu.org/cjjh.php",
+            "api": "http://zhangqun66.xyz/cjjh.php",
             "searchable": 1,
             "changeable": 1,
-            "jar":"https://api.paoyun.eu.org/zq//fm.jar"
+            "jar":"https://zhangqun66.xyz/zq/fm.jar"
         },
           {
             "key": "低端影视",
