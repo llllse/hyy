@@ -148,12 +148,13 @@
 
     
 {
-            "key": "人人",
-            "name": "人人┃ 4K",
+            
+            "key": "柠檬",
+            "name": "柠檬┃4K",
             "type": 3,
-            "api": "csp_Xdai",
+            "api": "csp_Nmvod",
             "playerType": 2,
-            "ext": "caHR0cDovLzExMC40Mi40OC4xNjE6MTIzNDd8MzFjOTNjN2JjMjExZDc3OHwzMWM5M2M3YmMyMTFkNzc4",
+            "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ==",
             "jar":"http://tv.laohu.cool/lh241114.jar"
         },
 {
