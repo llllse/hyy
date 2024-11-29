@@ -185,6 +185,17 @@
             "api": "csp_Dygang",
             "jar":"http://tv.laohu.cool/lh241114.jar"
         },
+    {
+            "key": "Lib",
+            "name": "Lib┃直连",
+            "type": 3,
+            "api": "csp_Lib",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "kaHR0cHM6Ly9saWJ2aW8ubGluay9zdGF0aWMvanMvcGxheWVyY29uZmlnLmpz",
+            "jar":"http://tv.laohu.cool/lh241114.jar"
+        },
 
 
 
@@ -311,19 +322,7 @@
       "changeable": 0
     },
   
-    {
-      "key": "Lib",
-      "name": "🌟立播┃秒播",
-      "type": 3,
-      "api": "csp_Libvio",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
+  
     {
       "key": "文采",
       "name": "💮文采┃秒播",
