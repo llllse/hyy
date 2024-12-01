@@ -428,15 +428,7 @@
       "changeable": 0,
       "ext": "https://www.xb6v.com/"
     },
-    {
-      "key": "短剧",
-      "name": "🌈上头┃短剧",
-      "type": 3,
-      "api": "csp_Djtt",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+
 
 
     
