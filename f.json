@@ -14,14 +14,7 @@
     },
   
   
-{
-            "key": "超级影视",
-            "name": "超级影视",
-            "type": 1,
-            "api": "http://cjvip.free.hr/api.php/provide/vod/?ac=list",
-            "searchable": 0,
-            "changeable": 0
-        },
+
       {
       "key": "csp_Ikanbot",
       "name": "👾Ikanbot",
