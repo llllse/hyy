@@ -101,6 +101,27 @@
       "ext": "https://www.xb6v.com",
       "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;4557db37965e20fb46cb59c3f603383c" 
     },
+    {
+      "key": "csp_JianPian",
+      "name": "🔨荐片",
+      "type": 3,
+      "api": "csp_JianPian",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://apijp.rinhome.com",
+      "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;4557db37965e20fb46cb59c3f603383c" 
+    },
+
+
+
+
+
+
+
+
+    
 
      {
       "key": "韩圈",
@@ -114,18 +135,7 @@
       "timeout": 10,
       "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730424610558/okjpg.txt"
     },
-   {
-      "key": "荐片",
-      "name": "⚔️荐片┃手机",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 10,
-      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730424610558/okjpg.txt"
-    },
-
+  
 
     
 {
