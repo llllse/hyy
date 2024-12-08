@@ -884,6 +884,15 @@
 
   
   "lives": [
+
+{"name": "liaoning",
+       "type": 0,
+       "url": "https://taoiptv.com/subs/21024.txt?token=82a817509c4df762",
+       "playerType": 1,
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+     },	 
+
+    
      {"name": "自己播",
        "type": 0,
        "url": "https://ghp.ci/https://raw.githubusercontent.com/jingyi251/a/main/悠哉1.txt",
