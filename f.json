@@ -916,6 +916,13 @@
        "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
      },	 
+    {
+      "name": "重庆",
+      "type": 0,
+      "url": "https://taoiptv.com/subs/50024.txt?token=82a817509c4df762",
+      "playerType": 1,
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    },
 
     
      {"name": "自己播",
@@ -925,13 +932,7 @@
       "logo": "https://live.fanmingming.com/tv/{name}.png"
      },	 
 
-  {
-      "name": "IPV4若卡顿切IPV6",
-      "type": 0,
-      "url": "https://ghp.ci/raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.txt",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
+  
     {
       "name": "IPV6①",
       "type": 0,
