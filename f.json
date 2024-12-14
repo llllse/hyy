@@ -177,7 +177,7 @@
             "api": "csp_Nmvod",
             "playerType": 2,
             "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ==",
-            "jar":"http://tv.laohu.cool/lh241114.jar"
+            "jar":"http://tv.laohu.cool/lh241201.jar"
         },
 {
             "key": "360_spider",
@@ -189,7 +189,7 @@
             "searchable": 1,
             "playerType": 2,
             "ext": "",
-            "jar":"http://tv.laohu.cool/lh241114.jar"
+            "jar":"http://tv.laohu.cool/lh241201.jar"
         },
     {
             "key": "强大",
@@ -198,14 +198,14 @@
             "api": "csp_Frong",
             "playerType": 2,
             "ext": "cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4",
-            "jar":"http://tv.laohu.cool/lh241114.jar"
+            "jar":"http://tv.laohu.cool/lh241201.jar"
         },
 {
             "key": "Dygang",
             "name": "电影港『边下边播』",
             "type": 3,
             "api": "csp_Dygang",
-            "jar":"http://tv.laohu.cool/lh241114.jar"
+            "jar":"http://tv.laohu.cool/lh241201.jar"
         },
     {
             "key": "Lib",
@@ -215,8 +215,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "kaHR0cHM6Ly9saWJ2aW8ubGluay9zdGF0aWMvanMvcGxheWVyY29uZmlnLmpz",
-            "jar":"http://tv.laohu.cool/lh241114.jar"
+            "ext": "faHR0cHM6Ly9saWJ2aW8uYXJ0L3N0YXRpYy9qcy9wbGF5ZXJjb25maWcuanM=",
+            "jar":"http://tv.laohu.cool/lh241201.jar"
         },
 
 
