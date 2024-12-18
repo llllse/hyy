@@ -985,14 +985,14 @@
 
 {"name": "liaoning",
        "type": 0,
-       "url": "https://taoiptv.com/subs/21024.txt?token=82a817509c4df762",
+       "url": "https://taoiptv.com/subs/21024.txt?token=375e43ce2e01ba7f",
        "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
      },	 
     {
       "name": "重庆",
       "type": 0,
-      "url": "https://taoiptv.com/subs/50024.txt?token=82a817509c4df762",
+      "url": "https://taoiptv.com/subs/50024.txt?token=375e43ce2e01ba7f",
       "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
