@@ -217,16 +217,6 @@
             "jar":"http://tv.laohu.cool/lh241201.jar"
         },    
 {
-            
-            "key": "柠檬",
-            "name": "柠檬┃4K",
-            "type": 3,
-            "api": "csp_Nmvod",
-            "playerType": 2,
-            "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ==",
-            "jar":"http://tv.laohu.cool/lh241201.jar"
-        },
-{
             "key": "360_spider",
             "name": "360┃解析",
             "api": "csp_SP360",
