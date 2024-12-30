@@ -531,16 +531,7 @@
             "changeable": 0,
             "jar":"https://jg.zhangqun66.com/zq/fm.jar"
         },
-        {
-            "key": "jggo",
-            "name": "jggo",
-            "type": 1,
-            "api": "http://jg.zhangqun66.com:8080",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "jar":"https://jg.zhangqun66.com/zq/fm.jar"
-        },
+       
 {
             "key": "克隆合集",
             "name": "克隆合集",
