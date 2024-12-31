@@ -520,7 +520,6 @@
   
 
 
-    
 {
             "key": "短剧go",
             "name": "短剧go",
@@ -529,14 +528,24 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            "jar":"https://jg.zhangqun66.com/zq/fm.jar"
+            "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
+        },
+        {
+            "key": "jggo",
+            "name": "jggo",
+            "type": 1,
+            "api": "http://jg.zhangqun66.com:8080",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
         },
        
 {
             "key": "克隆合集",
             "name": "克隆合集",
             "type": 4,
-            "api": "http://jg.zhangqun66.com/klhj.php",
+            "api": "http://zhangqun1818.serv00.net/klhj.php",
             "searchable": 1,
             "quickSearch": 1,
             "style": {
@@ -545,7 +554,7 @@
             },
             "changeable": 1,
             "filterable": 0,
-            "jar":"https://jg.zhangqun66.com/zq/fm.jar"
+            "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
         },
          {
             "key": "黑木耳克隆",
