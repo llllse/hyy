@@ -556,15 +556,16 @@
             "filterable": 0,
             "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
         },
-         {
-            "key": "黑木耳克隆",
-            "name": "黑木耳克隆",
-            "type": 4,
-            "api": "http://zhangqun66.xyz/225.php",
+ 
+{
+            "key": "黑木耳go",
+            "name": "黑木耳go",
+            "type": 1,
+            "api": "http://zhangqun1818.serv00.net:5053",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-           "jar":"https://zhangqun66.xyz/zq/fm.jar"
+            "quickSearch": 0,
+            "changeable": 0,
+           "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
         },
        {
             "key": "金鹰克隆",
