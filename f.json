@@ -240,8 +240,17 @@
       "quickSearch": 0,
       "filterable": 0
     },
-
-
+ {
+      "key": "爱我短剧",
+      "name": "🍍爱我┃短剧┃热推",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=爱我"
+    },
 
 
     
@@ -1010,21 +1019,13 @@
 
     
 
-{"name": "liaoning",
+{"name": "七星",
        "type": 0,
-       "url": "https://taoiptv.com/subs/21024.txt?token=375e43ce2e01ba7f",
+       "url": "https://gitlab.com/tvkj/loong/-/raw/main/loog.txt",
        "playerType": 1,
       "logo": "https://live.fanmingming.com/tv/{name}.png"
      },	 
-    {
-      "name": "重庆",
-      "type": 0,
-      "url": "https://taoiptv.com/subs/50024.txt?token=375e43ce2e01ba7f",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-    },
-
-    
+ 
      {"name": "自己播",
        "type": 0,
        "url": "https://ghp.ci/https://raw.githubusercontent.com/jingyi251/a/main/悠哉1.txt",
