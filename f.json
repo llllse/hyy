@@ -604,72 +604,77 @@
             "quickSearch": 0,
             "changeable": 0,
             "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
-        },     
-{
-            "key": "克隆合集",
-            "name": "克隆合集",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net/klhj.php",
+        }, 
+	  {
+            "key": "采集集合go",
+            "name": "采集集合go",
+            "type": 1,
+            "api": "http://zhangqun1818.serv00.net:5053",
             "searchable": 1,
-            "quickSearch": 1,
             "style": {
                 "type": "rect",
                 "ratio": 1.33
             },
-            "changeable": 1,
-            "filterable": 0,
-            "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
+            "quickSearch": 0,
+            "changeable": 0
         },
 {
-            "key": "黑木耳go",
-            "name": "黑木耳go",
-            "type": 1,
-            "api": "http://zhangqun1818.serv00.net:5053",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-           "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
-        },
-       {
-            "key": "金鹰克隆",
-            "name": "金鹰克隆",
-            "type": 4,
-            "api": "http://zhangqun66.xyz/jy.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "jar":"https://zhangqun66.xyz/zq/fm.jar"
-        },
-        {
-            "key": "华为吧克隆",
-            "name": "华为吧克隆",
-            "type": 4,
-            "api": "http://zhangqun66.xyz/hwb.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "jar":"https://zhangqun66.xyz/zq/fm.jar"
-        },
-       {
-            "key": "索尼克隆",
-            "name": "索尼克隆",
-            "type": 4,
-            "api": "http://zhangqun66.xyz/sn.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "jar":"https://zhangqun66.xyz/zq/fm.jar"
-        },
-            {
-            "key": "低端影视",
-            "name": "低端┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://zhangqun66.xyz/zq/js/ddys.js",
-            "jar":"https://zhangqun66.xyz/zq/fm.jar"
-        },
+    "key": "csp_流光",
+    "name": "🥇｜流光",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": {
+      "規則名": "流光",
+      "規則作者": "老王叔叔",
+      "規則日期": "114.01.18",
+      //"数组": "class=\"public-list-div\"&&\"",
+      "图片": "data-src=\"&&\"",
+      "标题": "class=\"slide-info-title hide\">&&</h3>",
+      //"链接": "<a href=\"&&\"",
+      "简介": "class=\"text cor3\"&&</div>",
+      "影片年代": "更新 :&&</div>",
+      "导演": "导演 :</div>&&</div>",
+      "主页url": "https://www.gyf.lol/",
+      "搜索url": "https://www.gyf.lol/index.php/vod/search.html?wd={wd}",
+      "分类url":"https://www.gyf.lol/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
+      "分类": "電影$1#電視劇$2#綜藝$3#動漫$4",
+        }
+},
+    {
+        "key": "csp_奈飞TV",
+        "name": "🥇｜奈飞TV",
+        "type": 3,
+        "changeable": 1,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "api": "csp_XBPQ",
+        "jar": "https://cloud.wujiyan.cc/f/mGgmTQ/xyqxbpq.jar",
+        "ext": {
+            "主页url": "https://www.naifei1.org/",
+            "搜索数组":"class=\"video-info-header\">&&</div>",
+            "搜索标题":"title=\"&&\"",
+            "搜索副标题":"<div>&&</div>",
+            "搜索图片":"data-src=\"&&\"",
+            "搜索链接":"href=\"&&\"",
+            "搜索链接前缀":"",
+            "搜索链接后缀":"",
+            "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+            "线路数组": "data-dropdown-value=&&</div>",
+            "线路标题": "<span>&&</small>",
+            "导演": "导演：&&</div>",
+            "主演": "主演：&&</div>",
+            "简介": "class=\"video-info-item video-info-content vod_content\">&&</div>",
+            "分类url": "https://www.naifei1.org/vodshow/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
+            "分类": "电影$dy#电视剧$juji#综艺$zongyi#动漫$dongman",
+            "类型":"动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#犯罪片$fanzuipian#恐怖片$kongbupian#科幻片$kehuanpian#悬疑片$xuanyipian#剧情片$juqingpian#动画片$donghuapian#战争片$zhanzhengpian||国产剧$guochanju#香港剧$xianggangju#台湾剧$taiwanju#欧美剧$oumeiju#日本剧$ribenju#韩国剧$hanguoju#东南亚$dongnanya#其他剧$qitaju||大陆综艺$daluzongyi#港台综艺$gangtaizongyi#日韩综艺$rihanzongyi#欧美综艺$oumeizongyi#其他综艺$qitazongyi||国产动漫$guochandongman#日韩动漫$rihandongman#欧美动漫$oumeidongman#其他动漫$qitadongman",
+            "地区":"中国&香港&台湾&美国&韩国&法国&英国&日本&德国&泰国&印度&意大利&西班牙&加拿大&其它||中国&韩国&香港&台湾&日本&美国&泰国&英国&新加坡&其它||中国&香港&台湾&日本&韩国&欧美&其它||中国&韩国&日本&美国&法国&德国&其它"
+               }
+    },
 
 
 
