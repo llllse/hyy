@@ -620,37 +620,7 @@
             "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
         },
 
-    {
-        "key": "csp_奈飞TV",
-        "name": "🥇｜奈飞TV",
-        "type": 3,
-        "changeable": 1,
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "api": "csp_XBPQ",
-        "jar": "https://cloud.wujiyan.cc/f/mGgmTQ/xyqxbpq.jar",
-        "ext": {
-            "主页url": "https://www.naifei1.org/",
-            "搜索数组":"class=\"video-info-header\">&&</div>",
-            "搜索标题":"title=\"&&\"",
-            "搜索副标题":"<div>&&</div>",
-            "搜索图片":"data-src=\"&&\"",
-            "搜索链接":"href=\"&&\"",
-            "搜索链接前缀":"",
-            "搜索链接后缀":"",
-            "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-            "线路数组": "data-dropdown-value=&&</div>",
-            "线路标题": "<span>&&</small>",
-            "导演": "导演：&&</div>",
-            "主演": "主演：&&</div>",
-            "简介": "class=\"video-info-item video-info-content vod_content\">&&</div>",
-            "分类url": "https://www.naifei1.org/vodshow/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
-            "分类": "电影$dy#电视剧$juji#综艺$zongyi#动漫$dongman",
-            "类型":"动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#犯罪片$fanzuipian#恐怖片$kongbupian#科幻片$kehuanpian#悬疑片$xuanyipian#剧情片$juqingpian#动画片$donghuapian#战争片$zhanzhengpian||国产剧$guochanju#香港剧$xianggangju#台湾剧$taiwanju#欧美剧$oumeiju#日本剧$ribenju#韩国剧$hanguoju#东南亚$dongnanya#其他剧$qitaju||大陆综艺$daluzongyi#港台综艺$gangtaizongyi#日韩综艺$rihanzongyi#欧美综艺$oumeizongyi#其他综艺$qitazongyi||国产动漫$guochandongman#日韩动漫$rihandongman#欧美动漫$oumeidongman#其他动漫$qitadongman",
-            "地区":"中国&香港&台湾&美国&韩国&法国&英国&日本&德国&泰国&印度&意大利&西班牙&加拿大&其它||中国&韩国&香港&台湾&日本&美国&泰国&英国&新加坡&其它||中国&香港&台湾&日本&韩国&欧美&其它||中国&韩国&日本&美国&法国&德国&其它"
-               }
-    },
+    
 
 
 
