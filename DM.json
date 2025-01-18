@@ -21,15 +21,7 @@
     },
 
 
-{
-            "key": "AList",
-            "name": "AList",
-            "type": 3,
-            "api": "csp_AList",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "https://gh-proxy.com/github.com/jingyi251/a/blob/main/a/alist.json"
-        },
+
     {
       "key": "push_agent",
       "name": "推送",
