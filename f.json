@@ -619,32 +619,7 @@
             "changeable": 0,
             "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
         },
-{
-    "key": "csp_流光",
-    "name": "🥇｜流光",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": {
-      "規則名": "流光",
-      "規則作者": "老王叔叔",
-      "規則日期": "114.01.18",
-      //"数组": "class=\"public-list-div\"&&\"",
-      "图片": "data-src=\"&&\"",
-      "标题": "class=\"slide-info-title hide\">&&</h3>",
-      //"链接": "<a href=\"&&\"",
-      "简介": "class=\"text cor3\"&&</div>",
-      "影片年代": "更新 :&&</div>",
-      "导演": "导演 :</div>&&</div>",
-      "主页url": "https://www.gyf.lol/",
-      "搜索url": "https://www.gyf.lol/index.php/vod/search.html?wd={wd}",
-      "分类url":"https://www.gyf.lol/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
-      "分类": "電影$1#電視劇$2#綜藝$3#動漫$4",
-        }
-},
+
     {
         "key": "csp_奈飞TV",
         "name": "🥇｜奈飞TV",
