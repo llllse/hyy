@@ -1,5 +1,5 @@
 {
-"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736154838099/fan.txt",
+"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737018909312/f01162.txt",
   "wallpaper": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jingyi251/mv/main/0.jpg",
 
   "sites": [
@@ -686,8 +686,8 @@
       "key": "Jrsjs",
       "name": "⚽ Jrs┃球迷",
       "type": 3,
-      "api": "https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jrk.js",
+      "api": "https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jrk.js",
       "style": {
         "type": "list"
       },
@@ -695,12 +695,12 @@
       "quickSearch": 0,
       "changeable": 0
     },
-    {
+   {
       "key": "酷奇",
       "name": "🎤酷奇┃MV",
       "type": 3,
-      "api": "https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/酷奇MV.js",
+      "api": "https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/酷奇MV.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -722,15 +722,15 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/MTV.json"
+        "json": "https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/MTV.json"
       }
     },
     {
       "key": "虎牙直播js",
       "name": "🐯虎牙┃直播",
       "type": 3,
-      "api": "https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.js",
-      "ext": "https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/huya2.js",
+      "api": "https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.js",
+      "ext": "https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/huya2.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -744,8 +744,8 @@
       "key": "斗鱼js",
       "name": "🐟斗鱼┃直播",
       "type": 3,
-      "api": "https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js",
+      "api": "https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -759,8 +759,8 @@
       "key": "有声小说js",
       "name": "🎧有声┃小说",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/有声小说吧.js",
+      "api": "https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/有声小说吧.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -781,6 +781,7 @@
         "type": "rect",
         "ratio": 3.8
       }
+    },
     },
      //{"key": "php_madou","name": "请勿相信视频中广告","type": 4,"api": "https://t4.doube.eu.org/madou.php","searchable": 1,"quickSearch":0, "filterable":0,"style": {"type": "rect","ratio": 1.33}},
    
