@@ -899,11 +899,7 @@
             "type": 3,
             "url": "Demo"
         },
-        {
-            "name": "Json轮询",
-            "type": 2,
-            "url": "Sequence"
-        },
+    
         {
             "name": "老虎",
             "type": 1,
