@@ -588,27 +588,7 @@
             "quickSearch": 1,
             "filterable": 0
         },     
-{
-            "key": "短剧go",
-            "name": "短剧go",
-            "type": 1,
-            "api": "http://zhangqun1818.serv00.net:5052",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
-        },
-        {
-            "key": "jggo",
-            "name": "jggo",
-            "type": 1,
-            "api": "http://jg.zhangqun66.com:8080",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
-        },     
-{
+ {
             "key": "克隆合集",
             "name": "克隆合集",
             "type": 4,
@@ -623,55 +603,28 @@
             "filterable": 0,
             "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
         },
-{
-            "key": "黑木耳go",
-            "name": "黑木耳go",
+        {
+            "key": "采集集合go",
+            "name": "采集集合go",
             "type": 1,
             "api": "http://zhangqun1818.serv00.net:5053",
             "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-           "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
         },
-       {
-            "key": "金鹰克隆",
-            "name": "金鹰克隆",
-            "type": 4,
-            "api": "http://zhangqun66.xyz/jy.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "jar":"https://zhangqun66.xyz/zq/fm.jar"
-        },
-        {
-            "key": "华为吧克隆",
-            "name": "华为吧克隆",
-            "type": 4,
-            "api": "http://zhangqun66.xyz/hwb.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "jar":"https://zhangqun66.xyz/zq/fm.jar"
-        },
-       {
-            "key": "索尼克隆",
-            "name": "索尼克隆",
-            "type": 4,
-            "api": "http://zhangqun66.xyz/sn.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "jar":"https://zhangqun66.xyz/zq/fm.jar"
-        },
-            {
+ {
             "key": "低端影视",
             "name": "低端┃影视",
             "type": 3,
-            "api": "./api/drpy2.min.js",
+            "api": "https://zhangqun1818.serv00.net/zq/api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://zhangqun66.xyz/zq/js/ddys.js",
-            "jar":"https://zhangqun66.xyz/zq/fm.jar"
+            "ext": "https://zhangqun1818.serv00.net/zq/js/ddys.js",
+            "jar":"https://zhangqun1818.serv00.net/zq/fm.jar"
         },
 
 
