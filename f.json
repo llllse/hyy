@@ -417,7 +417,17 @@
 
 
 
-
+{
+            "key": "腐剧",
+            "name": "腐剧",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "http://www.fuju2024.cc:8013/ruifenglb_api.php/v1.vod",
+            "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"
+        },
 
 
 
@@ -629,7 +639,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "jar": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%AE%98%E6%BA%90.jar"
-    }
+    },
 	  
 
 
