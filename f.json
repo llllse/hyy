@@ -1142,14 +1142,17 @@
 
 
 
+  "hosts": [
+    "cache.ott.*.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
+  ],
+
+
+
+
+	
+
   
   "lives": [
-
-
-
-
-    
-
 {"name": "七星",
        "type": 0,
        "url": "https://gitlab.com/tvkj/loong/-/raw/main/loog.txt",
