@@ -1154,8 +1154,9 @@
 
 
 
- "hosts": [
-     "cache.ott.*.itv.cmvideo.cn=FifastbLive-v4-free-mghy.e.cdn.chinamobile.com" 
+
+  "hosts": [
+    "cache.ott.*.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
   ],
 
 
