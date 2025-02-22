@@ -49,7 +49,20 @@
   
   
 
-   
+	  
+ {
+      "key": "csp_JianPian",
+      "name": "🔨荐片",
+      "type": 3,
+      "api": "csp_JianPian",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://apijp.rinhome.com",
+      "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar" 
+    },
+  
  {
       "key": "csp_Mp4Mov",
       "name": "🧲Mp4电影",
@@ -125,19 +138,7 @@
       "ext": "https://www.xb6v.com",
       "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar" 
     },
-    {
-      "key": "csp_JianPian",
-      "name": "🔨荐片",
-      "type": 3,
-      "api": "csp_JianPian",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://apijp.rinhome.com",
-      "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar" 
-    },
-
+    
 
 
 
