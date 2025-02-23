@@ -23,16 +23,83 @@
       "changeable": 1,
       "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
     },
-{
-      "key": "文采",
-      "name": "💮文采┃秒播",
+
+
+
+
+
+
+ {
+      "key": "Wexwencai",
+      "name": "🌺文才┃秒播🌺",
       "type": 3,
-      "api": "csp_Jpys",
-      "playerType": 2,
+      "api": "csp_WexwencaiGuard",
       "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740283001294/wex.txt"
+    },	 
+{
+      "key": "Wexshandian",
+      "name": "🌺闪电┃秒播🌺",
+      "type": 3,
+      "api": "csp_WexshandianGuard",
+      "searchable": 1,
+      "changeable": 1,
+        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740283001294/wex.txt"
     },	  
+ {
+      "key": "賤賤",
+      "name": "📓賤片┃p2p📓",
+      "type": 3,
+      "api": "csp_WexJianpianGuard",
+      "searchable": 1,
+      "changeable": 1,
+        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740283001294/wex.txt"
+    },
+    {
+      "key": "WexkuihuatvGuard",
+      "name": "💥葵花┃影视💥",
+      "type": 3,
+      "api": "csp_WexkuihuatvGuard",
+      "searchable": 1,
+      "changeable": 1,
+        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740283001294/wex.txt"
+    },
+    {
+      "key": "WexNgysGuard",
+      "name": "💥南瓜┃影视💥",
+      "type": 3,
+      "api": "csp_WexNgysGuard",
+      "searchable": 1,
+      "changeable": 1,
+        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740283001294/wex.txt"
+    },
+    {
+      "key": "Fujutv",
+      "name": "😁腐剧┃影视😁",
+      "type": 3,
+      "api": "csp_WexFujutvGuard",
+      "searchable": 1,
+      "changeable": 1,
+        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740283001294/wex.txt"
+    },
+    {
+      "key": "SubaibaiGuard",
+      "name": "🎇白白┃秒播🎇",
+      "type": 3,
+      "api": "csp_SubaibaiGuard",
+      "searchable": 1,
+      "changeable": 1,
+        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740283001294/wex.txt"
+    },
+  
+
+
+
+
+
+
+	  
   {
       "key": "吃饱",
       "name": "🪴吃饱┃1080P",
