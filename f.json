@@ -398,38 +398,17 @@
       "ext": "https://www.tvkuys.xyz/api.php/app/",
       "jar": "http://我不是.摸鱼儿.com/by/jar/moyu.php"
     },
-        {
+       {
       "key": "韩小圈",
       "name": "🍥韩圈┃蓝光┃纯净",
       "type": 3,
       "api": "csp_HanXiaoQuan",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
- {
-      "key": "星芽短剧",
-      "name": "🌟星芽┃短剧┃热推",
-      "type": 3,
-      "api": "csp_AppXY",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
-    },
- {
-      "key": "爱我短剧",
-      "name": "🍍爱我┃短剧┃热推",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=爱我"
-    },
-{
+	   {
       "key": "河马短剧",
       "name": "🦛河马┃短剧┃热推",
       "type": 3,
@@ -439,6 +418,38 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "KhY021WelCEl+6MsvwnzaPussky/EAoc9z7C4keyHaEQ+sKbXhMKd83VjTL7Ls6+m7XDIcGdziOxPv79y/h4QCvmOEJmZ1VD6dopzAVxkFzEFw=="
+    },
+{
+      "key": "星芽短剧",
+      "name": "🌟星芽┃短剧┃热推",
+      "type": 3,
+      "api": "csp_AppXY",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+ {
+      "key": "爱我短剧",
+      "name": "🍍爱我┃短剧┃热推",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=爱我"
+    },
+{
+      "key": "短剧屋",
+      "name": "🍄剧屋┃短剧┃热推",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=短剧屋"
     },
 
 
