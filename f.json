@@ -372,61 +372,6 @@
 	  
 
 
- {
-      "key": "360影视",
-      "name": "360影视",
-      "type": 3,
-      "api": "csp_SP360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar":"https://tvbox.catvod.com/catvod.jar"
-    },
-    {
-      "key": "爱奇艺",
-      "name": "爱奇艺",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-      "ext": "https://tvbox.catvod.com/js/aqy.js",
-      "jar":"https://tvbox.catvod.com/catvod.jar"
-    },
-    {
-      "key": "优酷",
-      "name": "优酷",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-      "ext": "https://tvbox.catvod.com/js/yk.js",
-      "jar":"https://tvbox.catvod.com/catvod.jar"
-    },
-    {
-      "key": "腾讯",
-      "name": "腾讯",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-      "ext": "https://tvbox.catvod.com/js/tx.js",
-      "jar":"https://tvbox.catvod.com/catvod.jar"
-    },
-    {
-      "key": "搜狗",
-      "name": "搜狗",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-      "ext": "https://tvbox.catvod.com/js/sg.js",
-      "jar":"https://tvbox.catvod.com/catvod.jar"
-    },
-    {
-      "key": "MGTV",
-      "name": "MGTV",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
-      "ext": "https://tvbox.catvod.com/js/mgtv.js",
-      "jar":"https://tvbox.catvod.com/catvod.jar"
-    },
      {
       "key": "快看",
       "name": "快看",
@@ -797,44 +742,7 @@
 
 
 	  
-{
-        "key": "csp_qq",
-        "name": "┃SP┃腾讯视频",
-        "type": 3,
-        "api": "csp_qq",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "jar": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%AE%98%E6%BA%90.jar"
-    },{
-        "key": "csp_iqiyi",
-        "name": "┃SP┃奇艺影视",
-        "type": 3,
-        "api": "csp_iqiyi",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "jar": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%AE%98%E6%BA%90.jar"
-    }, {
-        "key": "csp_mgtv",
-        "name": "┃SP┃芒果电影",
-        "type": 3,
-        "api": "csp_mgtv",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "jar": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%AE%98%E6%BA%90.jar"
-    }, {
-        "key": "csp-youku",
-        "name": "┃SP┃优酷电影",
-        "type": 3,
-        "api": "csp_youku",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "jar": "https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/%E5%AE%98%E6%BA%90.jar"
-    },
-	  
+
 
 
 
