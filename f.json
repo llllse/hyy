@@ -1206,14 +1206,38 @@
     
   "logo": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/a/4.gif",
   
+ "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "wasu",
+    "migu",
+    "migo",
+    "alivc",
+    "1905",
+    "douyin",
+    "xigua",
+    "leshi",
+    "bilibili",
+    "renrenmi"
+  ],
 
+
+
+	
 "parses": [
        
 
 
 
 	
-{
+ {
       "name": "VIP1",
       "type": 0,
       "url": "https://jx.xmflv.com/?url="
@@ -1240,6 +1264,16 @@
     },
     {
       "name": "VIP6",
+      "type": 0,
+      "url": "https://jx.yangtu.top/?url="
+    },
+    {
+      "name": "VIP7",
+      "type": 0,
+      "url": "https://www.8090g.cn/jiexi/?url="
+    },
+    {
+      "name": "VIP8",
       "type": 0,
       "url": "https://jx.2s0.cn/player/?url="
     },
