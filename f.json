@@ -543,7 +543,7 @@
             "api": "csp_Xdai",
             "playerType": 2,
             "ext": "caHR0cDovLzExMC40Mi4zLjE5NTo4OTg5fEQ2cTdoamI4N0ZKMDlGNzd8RDZxN2hqYjg3RkowOUY3Nw",
-            "jar":"http://tv.laohu.cool/lh250119.jar"
+            "jar":"http://tv.laohu.cool/lh250220.jar"
         },    
 {
             "key": "360_spider",
@@ -555,14 +555,14 @@
             "searchable": 1,
             "playerType": 2,
             "ext": "",
-            "jar":"http://tv.laohu.cool/lh250119.jar"
+            "jar":"http://tv.laohu.cool/lh250220.jar"
         },
 {
             "key": "Dygang",
             "name": "电影港『边下边播』",
             "type": 3,
             "api": "csp_Dygang",
-            "jar":"http://tv.laohu.cool/lh250119.jar"
+            "jar":"http://tv.laohu.cool/lh250220.jar"
         },
  {
             "key": "Lib",
@@ -573,7 +573,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "faHR0cHM6Ly9saWJ2aW8uYXJ0L3N0YXRpYy9qcy9wbGF5ZXJjb25maWcuanM=",
-            "jar":"http://tv.laohu.cool/lh250119.jar"
+            "jar":"http://tv.laohu.cool/lh250220.jar"
         },
 
 
