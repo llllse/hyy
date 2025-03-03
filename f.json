@@ -29,15 +29,23 @@
 
 
 
-
- {
+  {
+      "key": "Wexhanxiaoquan",
+      "name": "💥韩剧┃弹幕💥",
+      "type": 3,
+      "api": "csp_WexhanxiaoquanGuard",
+      "searchable": 1,
+      "changeable": 1,
+        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740835023321/wex.txt"
+    },
+{
       "key": "Wexwencai",
       "name": "🌺文才┃秒播🌺",
       "type": 3,
       "api": "csp_WexwencaiGuard",
       "searchable": 1,
       "changeable": 1,
-        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740664924896/wex.txt"
+        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740835023321/wex.txt"
     },	 
 {
       "key": "Wexshandian",
@@ -46,7 +54,7 @@
       "api": "csp_WexshandianGuard",
       "searchable": 1,
       "changeable": 1,
-        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740664924896/wex.txt"
+        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740835023321/wex.txt"
     },	  
  {
       "key": "賤賤",
@@ -55,7 +63,7 @@
       "api": "csp_WexJianpianGuard",
       "searchable": 1,
       "changeable": 1,
-        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740664924896/wex.txt"
+        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740835023321/wex.txt"
     },
     {
       "key": "WexkuihuatvGuard",
@@ -64,7 +72,7 @@
       "api": "csp_WexkuihuatvGuard",
       "searchable": 1,
       "changeable": 1,
-        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740664924896/wex.txt"
+        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740835023321/wex.txt"
     },
     {
       "key": "WexNgysGuard",
@@ -73,7 +81,7 @@
       "api": "csp_WexNgysGuard",
       "searchable": 1,
       "changeable": 1,
-        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740664924896/wex.txt"
+        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740835023321/wex.txt"
     },
     {
       "key": "Fujutv",
@@ -82,7 +90,7 @@
       "api": "csp_WexFujutvGuard",
       "searchable": 1,
       "changeable": 1,
-        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740664924896/wex.txt"
+        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740835023321/wex.txt"
     },
     {
       "key": "SubaibaiGuard",
@@ -91,7 +99,7 @@
       "api": "csp_SubaibaiGuard",
       "searchable": 1,
       "changeable": 1,
-        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740664924896/wex.txt"
+        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740835023321/wex.txt"
     },
 {
       "key": "WexkuihuatvGuard",
@@ -100,7 +108,7 @@
       "api": "csp_WexkuihuatvGuard",
       "searchable": 1,
       "changeable": 1,
-        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740664924896/wex.txt"
+        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740835023321/wex.txt"
     },
 
 
