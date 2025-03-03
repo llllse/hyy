@@ -40,26 +40,7 @@
         "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740835023321/wex.txt"
     },
     
-    {
-      "key": "SubaibaiGuard",
-      "name": "🎇白白┃秒播🎇",
-      "type": 3,
-      "api": "csp_SubaibaiGuard",
-      "searchable": 1,
-      "changeable": 1,
-        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740835023321/wex.txt"
-    },
-{
-      "key": "WexkuihuatvGuard",
-      "name": "💥葵花┃影视💥",
-      "type": 3,
-      "api": "csp_WexkuihuatvGuard",
-      "searchable": 1,
-      "changeable": 1,
-        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740835023321/wex.txt"
-    },
-
-
+   
 
 
 
@@ -176,151 +157,135 @@
 
 
 	  
-	  
-  {
-      "key": "csp_Jpys",
-      "name": "🥇金牌┃1080P",
-      "type": 3,
-      "api": "csp_Jpys",
-        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740016897131/cs.jar"
-  },
-
-
-    {
-      "key": "csp_SuBaiBai",
-      "name": "☁️白白┃1080P",
-      "type": 3,
-      "api": "csp_SuBaiBai",
-      "playerType": 2,
-      "ext": "https://www.subaibaiys.com",
-        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740016897131/cs.jar"
-  },	  
-  {
-            "key": "荐片",
-            "name": "🍭荐片┃磁力",
-            "api": "csp_Jianpian",
-            "type": 3,
-            "playerType": "1",
-            "ext": "http://api2.rinhome.com",
-            "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740016897131/cs.jar"
-        },
  {
-			"key": "追剧",
-			"name": "📺追剧┃1080P",
-			"type": 3,
-			"api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"changeable": 0,
-			"ext": "https://gitee.com/smallmi1007/mimi/raw/master/wencai.js",
-                        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740016897131/cs.jar"
-		},
+      "key": "悠悠",
+      "name": "🏊悠悠┃1080P",
+      "type": 3,
+      "api": "csp_Muou",
+      "playerType": 2,
+      "quickSearch": 1,
+      "ext": "caHR0cDovL3UzYS50dHhnenMuY2585LyY5LyY5YWUfDQuMS44",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740965279595/0303.jar;md5;ec975f203099b42d6286751914e27fc9"
+    },
+    {
+      "key": "追忆",
+      "name": "🦔追忆┃1080P",
+      "type": 3,
+      "api": "csp_Muou",
+      "playerType": 2,
+      "quickSearch": 1,
+      "ext": "caHR0cDovL21vdS5qcDU1LmNufOi/veW/huW9seinhnw0LjEuOQ==",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740965279595/0303.jar;md5;ec975f203099b42d6286751914e27fc9"
+    },
+    {
+      "key": "巧技",
+      "name": "🚗巧记┃1080P",
+      "type": 3,
+      "api": "csp_qiao2",
+      "playerType": 2,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740965279595/0303.jar;md5;ec975f203099b42d6286751914e27fc9",
+      "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740038979341/cksp.txt"
+    },	  
    {
-			"key": "csp_UC",
-                       "name": "💌UCUC┃4K弹幕",
-                       "type": 3,
-                       "searchable": 1,
-                      "api": "csp_Duopan",
-                     "filterable": 1,
-                        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740016897131/cs.jar",
-			"ext": {
-				"site_urls": [
-					"http://www.mucpan.cc",
-					"http://ucmi.fun",
-					"http://www.ucmi.fun"
-				],
-				"url_key": "UC",
-				"token": "ed341c63eb874665950b697000b96e4f",
-				"ucCookie": "__pus=420bcbda48e037a578a5be34067689e8AATtaqARQEP2FJAIQTE1av8JG5OlWLuSBaNhKxxFUEBduyNtkCyZBHApfgTBncLgHrEFjyo2PqsALdA12bGfIF+T; __kp=6a51fef0-c449-11ef-be8f-6fca2732a60c; __kps=AAQXIy3jYa832CknUprru49t; __ktd=2VEn5lgLy6FsGVlvJeTOMQ==; __uid=AAQXIy3jYa832CknUprru49t; __puus=32e283c4793d25b1756f0496ddd6d60eAATSz9VTIfbjqCM/9lIBbAN8znRVxaF15TY3uIQ9XnljeQi6XF2PI50HUrO/bOKyl8wsc78vyku0Oll6FPNBE4D62WSLTgviETz34tEtIxdsBQNjMSGqz9kzwL/YjUDtpZ8Jbze9nfXyHSx/O2ghNwFxKMzE2eXW4O+zgzrxH9fGBVsuo9PJa7rYG8rRRT3Edi0=",
-				"quarkCookie": "b-user-id=370647b0-450f-a154-d82c-448b24a59940; __sdid=AATl/0QTNeYKpulaIkArunzS/rdyaPwXv9ZV4tfJ/TYq8OiOTLcgrP6b0LQmLPRgBxt6Cg15OVVISH4n1vdhxgj30wNVbNUqhmQ3wTUs7nJoxg==; _UP_A4A_11_=wb9c616700c041c895cec213937e420a; _UP_D_=pc; isg=BL-_QeJv5E-7teBT5y_Pd5O4TpNJpBNGeyP7bFGMi261YN7iWXBuluzzpjCeOOu-; tfstk=gQSoUOwLla8WDLCtws-7WIve0AUYVYtBG6np9HdUuIRX986dLHoF99KJ876diBRV_8sJT8t2Kd1hvb-UZs2hw9ipaQIpxe594e_J9QdHx91gH5ETXT6WA3PT6l3Lz1vH4LJe84yeup9uHLJvIWIJAHPTMqnePlxC1x7ZnJX4nppnUb5EzmyDQp-E4eorujRXLH-Ez4r2udJZa25eY-X2Gp-eTb3qYCjFciP2QF3IRORdmLYk_t4sYD4DUfdGUxmnYibDrC5HiDoFmLXYoqejjydN5QL9OsrxqHX2K_dA_loD0Fb1ppfuq0-RuZsW2iFi9UfHMejyjvrPn3Ak7gYxU0fNn979oieaf3xyawK5pAVRngfRFiXKLq-k2ZYGqhrsaBQAIMvhAWZcsOsfiK5ax7SP0quauYiB3JIqR2TyhKAtNpobE-UaiXe0nVaWzK986-2mRk8yhKRan-0ZfUJXFwf..; _UP_F7E_8D_=0z44HdIBxZbKhNtY04Z%2FHqMGOCuR%2F06zHP53eAqnQoM%2B0HXx1NDZY1Tb%2F0rFQg1FqCBVG73bAmsc8umX3Lj2gnAl%2BT0uI3e2pJuw4fApHUNvQtRjZMJ%2Bg89lnhrn%2BCkzn9yTmN52ylz2ygc6wv%2FIKg5Eh65wTlP%2Br1ItZcJOhyWzkQhnoHIwa1fugveiX1ySU6E3Ox6NhjCX%2F9JGGG%2BOk%2BHZ47Hvtvq2wLtchZ7GH2KZHru1xRmXknLhhrqYB2grUFDaNzmGqeC9bkeYZLeOJA%2B%2F%2BQVR2P%2FLkNDDqRjiYffdldBvB7trVMH3IhYSoUw2AYTF7eNiF%2BU9DgASvb4Vfvosp%2BEFl7vny0TNscSZMOl8DcfixlwkYTpwSCY4564fHGA9cyxKste3pBRULSTR8JY7n3P6zUYaG%2BofGCzsMul3NGY6wl6lBISYJ2cSDS100Hjqhb3FcWuLwSSSdvGDxA%3D%3D; __pus=b318a465769f4c292b6d0dfa9693e900AATW9VPZHuHp3K8/RmszfDpr5gqnCU370Cg6MkUYDD9XqUSW3dBuJBbuhhZXODYnIDyZZxvK1XL6ir3pGKiomK6F; __kp=949a9cc0-f672-11ef-bca2-09914ba728cf; __kps=AAScaYSujzm4K4CKb/Jc/WDm; __ktd=skj0kYUt+Au+VRkIyzCzxw==; __uid=AAScaYSujzm4K4CKb/Jc/WDm; __puus=186849e8aff9d38cb5e80802497777c1AARtBxph5TVTldCtTxjmwnXxkA8rJoKXOdaDh0DogXYbC/qm5A8RBYTJKojvFOnJT2OV1mRjHU0WKVeDLngedEBt+29E4rFYZBmoaQP1hjJlnhoo+bkhLCmePe5yElWAAdIB19RmCBoDwpsiUx7TW4mSsq60egDSkk7zBXQz7ODY3dIEqzp0Tnzw7FjBOtKZbYTj91PP1XZPhioLHGE4kaF/",
-				"threadinfo": {
-					"chunksize": 450,
-					"threads": 12
-				}
-			}
-		},
-	 
-       { "key": "︎酷云",
-      "name": "🐰米兔┃1080P",
+      "key": "天天",
+      "name": "🦢天天┃1080P",
       "type": 3,
-      "quickSearch": 0,
-      "api": "csp_MiTuApp",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn9vBxsiZMC9mEjdFHy1b0JxMI9e9kwLyaPtpomLvf/SELlR2tG4av7VLVOnJfhzo9ctafjyVzyG8mJz6OMXeHP7ApPRdTfqKs9a3vBioIdqaC4SFZmteBwEWgHRwJv8Eecn5qIoxur3gmurN6cdUqIwRj8TAAm0asiETQ4b9bq0OXuO6Att6+aOM406026kk7qswMkcs8TxRXUyvexxaQgk=",
-      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740016897131/cs.jar"
-	},
-	  
-	  {
-			"key": "csp_MiTuApp2",
-			"name": "🦑鱿鱼┃1080P",
-			"type": 3,
-			"searchable": 1,
-			"quickSearch": 1,
-			"api": "csp_AppMiTuV2",
-		        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740016897131/cs.jar",
-			"ext": "a9csDfOLim9GcihevDa0TAHGR2JcUV147QlTUMW3Ac6gdygxInDxxbgAG+2uryPcXkdRFNDhvXgRMfi1tONqr/0vKNtRFTysNiVb9KGm+j9PRJNlh/C5aHUacPdDpQIl5AX7ZDgyC1NO5MTVZgVMPVIkgSgWfBBBFRe9o8bLvw3egcfRA55Cvv6yNeXJEUibmrYcHiA4Wh9dPSXU3vaptDB57f4FaVvNItnEEujpb4beAiIJi0qi3Cs/UWBoB5yQX5RQdrQG/CmUdxkekRemBQMXgR5P8H8hlfwgELHAmxA="
-		},
-	  {
-            "key": "csp_XSX",
-            "name": "👀视讯┃1080P",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "api": "csp_Xsx",
-            "playerType": 2,
-            "filterable": 1,
-            "ext": "ATzdJTBzsnKvrQ2L6AKDQnBAHhw+jLmU9mdwIkKtWE5l9ZOw779POW3bGR53SGnj6Z9ZqlLYLUWxTlAwGD5P0CQxwMd3/os57BQg2fWEVlKLgIz2jj9ZfGYcdeHa6TNAohp5oS6k6U9ickpr69Y3xYxIrxwADs1UqNZBakDxid+YOx9hzCJYy3/Svo2+4HH4+rh7MMhtJMMUz1+GWl7CYBgk/Qqs280Sjjw2D31D/8U=",
-            "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740016897131/cs.jar"
-        },
-	 
-	       {
-      "key": "csp_AppDrama3",
-			"name": "👀眼镜┃1080P",
-			"type": 3,
-			"quickSearch": 1,
-			"api": "csp_AppDrama",
-			"ext": "dZyf/FE+KyNozU1BJTipIo9iSIwfIqdHlpvuwJw09AVmwEOfCxMwqLVMJhfLimSVcQK/l703QANc8WIkB/uW5sUdZSeZIU9+8Rk+3N6ehNBRUUbdXwHB/6h1j5nm+yHTh+KNx2kJ25BR77lheSHLwTnAU6VXLKSspVz/FQx8qOP8w0hfCMh1ephwsEIF24MCgXWhiAzL92YSEph0y0FlAqwP2rvfW8v3juUbcw47E+M=",
-       "jar":"hhttps://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740016897131/cs.jar"
-        },
-	       {
-      "key": "电影",
-      "name": "🎬电影┃1080P",
+      "api": "csp_AppRJGuard",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07",   
+      "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
+    },
+    {
+      "key": "热热",
+      "name": "🏜热热┃1080P",
       "type": 3,
-      "quickSearch": 0,
-      "api": "csp_MiTuApp",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn9pXqDDJVVS6pwdk2S4nTvU6TUFngKGexyvHMXSXO57AN6M4LsBHwZ1tcHnPZ2gPH1m7qu7r1zc7CkawgqunMPxZznGnqtbiv5NVOliQUr2NK4Pee7PFE2+BCvbGUPd3IR9Hiub1wBkbrfqjptJFLEpVXeR1pgeGp6pPUjADtyQPuXHj4azaFzDrobUCcdcn7KM6ZC4rjkupd5HlbdqhOJTRBv917h5RUlXs1sgRU1+EWkMXuNopX+18VjWwSrFYPw==",
-            "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740016897131/cs.jar"},
-        {
-            "key": "csp_DUODUO",
-            "name": "💨多多┃1080P",
-            "type": 3,
-            "quickSearch": 0,
-            "api": "csp_MiTuApp",
-            "ext": "sHR2rlsfjI4L3t4RXQMkn9Eir6RzAIaQXa7PAZzZhsYO7tEfOCUAO2ipKyX1sxqAYggPt4M4DNHWCnz414Yfuh19nNi3k0dkJGtsOqEQzKCgcf9wGo4XmYWuIzgVworYxXRSYBQb2oLBmTl1W7hxxhfer8LsRYZB6ALfwu2bInzh3EENDkFkaHYb1olDPUR1EqpMaZLpMW0oSOW9zzMF5WIDfKUOvd7q2bKD4uZ8/oc=",
-            "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740016897131/cs.jar"
-        },
-         {
+      "api": "csp_AppRJGuard",
+	"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07",      
+      "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"
+    },
+    {
+      "key": "追剧",
+      "name": "🏈追剧┃1080P",
+      "type": 3,
+      "api": "csp_AppRJGuard",
+	"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07",      
+      "ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM"
+    },
+    {
+      "key": "光速",
+      "name": "🌟光速┃1080P",
+      "type": 3,
+      "api": "csp_AppGetV2Guard",
+	"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07",      
+      "ext": "sHR2rlsfjI4L3t4RXQMkn97hxHYaEbu5lFfPUXOxEzpAZL11z+ayZEbLSb3vs/v8ZS0i6U3Oh/aCVpUdIeZzRgc5TQyB2k7aC0UwqxoW281lBnRyLoSPb+ejqJ92E4RYuH9BABywIr8NA9Bn0Ndnl5c+AJCGNVdUwDUcd6fmGzQoQ+VuzRpX5xfgCbnpjcTp56dL50nhDb7IIe7CtKv7pA=="
+    },
+    {
+      "key": "csp_麻花",
+      "name": "🍡麻花┃1080P",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGetV2Guard",
+	"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07",      
+      "ext": "sHR2rlsfjI4L3t4RXQMkn64XzcQ7xvStB8jMisBReTIxM41ceZBHTzUgk3r/HwfaQHDZorN0nnVVuvE2MPKn8MPxE7ylJqasRuICMIOVVttRnHTeArnRbQHtOtv9F+MUHJKlwhy6U0meUqFlwIn7psnaR3hGPEBEsJYJsPp76XCOFyL1bvM3tTLekJMN0bE6C8wUUmg83iijAB1Xb6BFY0SFjRkJUBqkeUVtwAx1KA1QQjwUVBpGjtQEZ08jK7hLlREWx4foeg01L1aMK+viow=="
+    },
+    {
       "key": "csp_良人",
       "name": "⚽️良人┃1080P",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
-      "api": "csp_MiTuApp",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn+pzOh0GsJJgcwHHxDs8FcBDGD81qAZtun78VAJxzshCbStdXIlQiksUvc2b5fXyuxJO9KBNp5LzL/pYLLOs1V3R3WOh90eVpJGxxXWEZtoq+F7Cq4CbQ3J1TTXahpYpecvphwmIcDJBAufEtnAznmjxxk6qVoA6w/eypA9oHqhDmy914I15LE2N8YnLptcACiTzTT1iakLVXE0Tyc1UhQT4AJ3fQ31m2DKm0pdhPTyT",
-      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740016897131/cs.jar"
-        },
-        {
-      "key": "csp_麻花",
-      "name": "🍡麻花┃1080P",
+      "api": "csp_AppGetV2Guard",
+	"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07",      
+      "ext": "sHR2rlsfjI4L3t4RXQMkn0xaBCNcSQUCvczzn7zWpJd7PJ5uE10QNLrWWS17wAYgh1d6T+lyAGWYDDt/yJr/VNQuyK2VSIuevNakK2GvE1EQejlklHv7etmkohoSdYeXfClYcFjVBjQD/3ueLIRu5mRtC17xwZEKgga5OKghvkNOKFHeBC8zljBC+o7LY640uwI3xUCS6H6I1Xn+MXnhLIdXvzJq3jAPBvKIxWrDUVfkCH94kY9cJ8WJisUFWHbs"
+    },
+    {
+      "key": "电影",
+      "name": "🎬电影┃1080P",
       "type": 3,
-      "quickSearch": 1,
-      "api": "csp_MiTuApp",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn64XzcQ7xvStB8jMisBReTIxM41ceZBHTzUgk3r/HwfaQHDZorN0nnVVuvE2MPKn8MPxE7ylJqasRuICMIOVVttRnHTeArnRbQHtOtv9F+MUHJKlwhy6U0meUqFlwIn7psnaR3hGPEBEsJYJsPp76XCOFyL1bvM3tTLekJMN0bE6C8wUUmg83iijAB1Xb6BFY0SFjRkJUBqkeUVtwAx1KA1QQjwUVBpGjtQEZ08jK7hLlREWx4foeg01L1aMK+viow==",
-      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740016897131/cs.jar"
-        },
-
+      "quickSearch": 0,
+      "api": "csp_AppGetV2Guard",
+	"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07",      
+      "ext": "sHR2rlsfjI4L3t4RXQMkn9pXqDDJVVS6pwdk2S4nTvU6TUFngKGexyvHMXSXO57AN6M4LsBHwZ1tcHnPZ2gPH1m7qu7r1zc7CkawgqunMPxZznGnqtbiv5NVOliQUr2NK4Pee7PFE2+BCvbGUPd3IR9Hiub1wBkbrfqjptJFLEpVXeR1pgeGp6pPUjADtyQPuXHj4azaFzDrobUCcdcn7KM6ZC4rjkupd5HlbdqhOJTRBv917h5RUlXs1sgRU1+EWkMXuNopX+18VjWwSrFYPw=="
+    },
+    {
+      "key": "︎酷云",
+      "name": "🐰米兔┃1080P",
+      "type": 3,
+      "quickSearch": 0,
+      "api": "csp_AppGetV2Guard",
+	"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07",      
+      "ext": "sHR2rlsfjI4L3t4RXQMknwIID6HUaZ7fMpUHnejxryN5hsS4yit06Lnf2r+dC+sQvVkljL9jiPtd8pMWr4fNfWKjGEfNt1bpDmN5e2aBCPjIZR4UXJCYTrfMnVcmHKgKoreMTaxuE5/5bSRuOI00lrntzq3KElTThhfQG1pBRYlruaU55rzaVwdDETvkWDgAa/b2wNbZqTrjcVemPpod4zhBsMUGnTLFIVIA01378wI="
+    },
+	   {
+      "key": "csp_UC",
+      "name": "🍚小米┃UC4K4K",
+      "type": 3,
+      "changeable": "0",
+      "api": "csp_DuopanGuard",
+      "filterable": 1,
+	"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07",  	   
+      "ext": {
+        "site_urls": [
+          "http://www.54271.fun/",
+          "https://www.milvdou.fun",
+          "http://www.54271.fun/",
+          "https://www.mucpan.cc/",
+          "https://mucpan.cc/",
+          "http://milvdou.fun"
+        ],
+        "url_key": "UC",
+        "token": "ed341c63eb874665950b697000b96e4f",
+	"ucCookie": "__pus=420bcbda48e037a578a5be34067689e8AATtaqARQEP2FJAIQTE1av8JG5OlWLuSBaNhKxxFUEBduyNtkCyZBHApfgTBncLgHrEFjyo2PqsALdA12bGfIF+T; __kp=6a51fef0-c449-11ef-be8f-6fca2732a60c; __kps=AAQXIy3jYa832CknUprru49t; __ktd=2VEn5lgLy6FsGVlvJeTOMQ==; __uid=AAQXIy3jYa832CknUprru49t; __puus=32e283c4793d25b1756f0496ddd6d60eAATSz9VTIfbjqCM/9lIBbAN8znRVxaF15TY3uIQ9XnljeQi6XF2PI50HUrO/bOKyl8wsc78vyku0Oll6FPNBE4D62WSLTgviETz34tEtIxdsBQNjMSGqz9kzwL/YjUDtpZ8Jbze9nfXyHSx/O2ghNwFxKMzE2eXW4O+zgzrxH9fGBVsuo9PJa7rYG8rRRT3Edi0=",
+	"quarkCookie": "b-user-id=370647b0-450f-a154-d82c-448b24a59940; __sdid=AATl/0QTNeYKpulaIkArunzS/rdyaPwXv9ZV4tfJ/TYq8OiOTLcgrP6b0LQmLPRgBxt6Cg15OVVISH4n1vdhxgj30wNVbNUqhmQ3wTUs7nJoxg==; _UP_A4A_11_=wb9c616700c041c895cec213937e420a; _UP_D_=pc; isg=BL-_QeJv5E-7teBT5y_Pd5O4TpNJpBNGeyP7bFGMi261YN7iWXBuluzzpjCeOOu-; tfstk=gQSoUOwLla8WDLCtws-7WIve0AUYVYtBG6np9HdUuIRX986dLHoF99KJ876diBRV_8sJT8t2Kd1hvb-UZs2hw9ipaQIpxe594e_J9QdHx91gH5ETXT6WA3PT6l3Lz1vH4LJe84yeup9uHLJvIWIJAHPTMqnePlxC1x7ZnJX4nppnUb5EzmyDQp-E4eorujRXLH-Ez4r2udJZa25eY-X2Gp-eTb3qYCjFciP2QF3IRORdmLYk_t4sYD4DUfdGUxmnYibDrC5HiDoFmLXYoqejjydN5QL9OsrxqHX2K_dA_loD0Fb1ppfuq0-RuZsW2iFi9UfHMejyjvrPn3Ak7gYxU0fNn979oieaf3xyawK5pAVRngfRFiXKLq-k2ZYGqhrsaBQAIMvhAWZcsOsfiK5ax7SP0quauYiB3JIqR2TyhKAtNpobE-UaiXe0nVaWzK986-2mRk8yhKRan-0ZfUJXFwf..; _UP_F7E_8D_=0z44HdIBxZbKhNtY04Z%2FHqMGOCuR%2F06zHP53eAqnQoM%2B0HXx1NDZY1Tb%2F0rFQg1FqCBVG73bAmsc8umX3Lj2gnAl%2BT0uI3e2pJuw4fApHUNvQtRjZMJ%2Bg89lnhrn%2BCkzn9yTmN52ylz2ygc6wv%2FIKg5Eh65wTlP%2Br1ItZcJOhyWzkQhnoHIwa1fugveiX1ySU6E3Ox6NhjCX%2F9JGGG%2BOk%2BHZ47Hvtvq2wLtchZ7GH2KZHru1xRmXknLhhrqYB2grUFDaNzmGqeC9bkeYZLeOJA%2B%2F%2BQVR2P%2FLkNDDqRjiYffdldBvB7trVMH3IhYSoUw2AYTF7eNiF%2BU9DgASvb4Vfvosp%2BEFl7vny0TNscSZMOl8DcfixlwkYTpwSCY4564fHGA9cyxKste3pBRULSTR8JY7n3P6zUYaG%2BofGCzsMul3NGY6wl6lBISYJ2cSDS100Hjqhb3FcWuLwSSSdvGDxA%3D%3D; __pus=b318a465769f4c292b6d0dfa9693e900AATW9VPZHuHp3K8/RmszfDpr5gqnCU370Cg6MkUYDD9XqUSW3dBuJBbuhhZXODYnIDyZZxvK1XL6ir3pGKiomK6F; __kp=949a9cc0-f672-11ef-bca2-09914ba728cf; __kps=AAScaYSujzm4K4CKb/Jc/WDm; __ktd=skj0kYUt+Au+VRkIyzCzxw==; __uid=AAScaYSujzm4K4CKb/Jc/WDm; __puus=186849e8aff9d38cb5e80802497777c1AARtBxph5TVTldCtTxjmwnXxkA8rJoKXOdaDh0DogXYbC/qm5A8RBYTJKojvFOnJT2OV1mRjHU0WKVeDLngedEBt+29E4rFYZBmoaQP1hjJlnhoo+bkhLCmePe5yElWAAdIB19RmCBoDwpsiUx7TW4mSsq60egDSkk7zBXQz7ODY3dIEqzp0Tnzw7FjBOtKZbYTj91PP1XZPhioLHGE4kaF/",
+	"threadinfo": {
+        "chunksize": 400,
+        "threads": 12
+        }
+      }
+    },  
+  
+	 
+      
+	 
 
 
 
