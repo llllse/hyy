@@ -298,27 +298,7 @@
 	  
 
 
-     {
-      "key": "快看",
-      "name": "快看",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar":"https://tvbox.catvod.com/catvod.jar"
-    },
-{
-      "key": "旺旺",
-      "name": "旺旺",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://tvbox.catvod.com/js/wangwang.json",
-      "jar":"https://tvbox.catvod.com/catvod.jar"
-    },
+
 
 
 
@@ -530,18 +510,7 @@
       "ext": "FbjPcVZY48PN/RIZ5QqOrsplZNERApoHSmxZ77D7wAtcAsqZuXTQzUHW+quzHG+7cXaG3SBwzihuA2NlCJpscUJASIGSmRiXKW5NhipHle83SfO6IA=="
     },
    
-    {
-      "key": "热播",
-      "name": "📺热播┃多线",
-      "type": 3,
-      "api": "csp_AppTTGuard",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
-    },
-    {
+      {
       "key": "萌米",
       "name": "👀萌米┃多线",
       "type": 3,
@@ -982,27 +951,7 @@
     
   "logo": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/a/4.gif",
   
- "flags": [
-    "youku",
-    "qq",
-    "iqiyi",
-    "qiyi",
-    "letv",
-    "sohu",
-    "tudou",
-    "pptv",
-    "mgtv",
-    "wasu",
-    "migu",
-    "migo",
-    "alivc",
-    "1905",
-    "douyin",
-    "xigua",
-    "leshi",
-    "bilibili",
-    "renrenmi"
-  ],
+ 
 
 
 
@@ -1013,48 +962,7 @@
 
 
 	
- {
-      "name": "VIP1",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url="
-    },
-    {
-      "name": "VIP2",
-      "type": 0,
-      "url": "https://t1.qlplayer.cyou/player/?url="
-    },
-    {
-      "name": "VIP3",
-      "type": 0,
-      "url": "https://jx.m3u8.tv/jx/jx.php?url="
-    },
-    {
-      "name": "VIP4",
-      "type": 0,
-      "url": "https://yparse.ik9.cc/index.php?url="
-    },
-    {
-      "name": "VIP5",
-      "type": 0,
-      "url": "https://player.mrgaocloud.com/player/?url="
-    },
-    {
-      "name": "VIP6",
-      "type": 0,
-      "url": "https://jx.yangtu.top/?url="
-    },
-    {
-      "name": "VIP7",
-      "type": 0,
-      "url": "https://www.8090g.cn/jiexi/?url="
-    },
-    {
-      "name": "VIP8",
-      "type": 0,
-      "url": "https://jx.2s0.cn/player/?url="
-    },
-
-
+ 
 
 
 
