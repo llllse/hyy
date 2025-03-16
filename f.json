@@ -34,9 +34,17 @@
       "api": "csp_WexJianpianGuard",
       "searchable": 1,
       "changeable": 1,
-        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741165310578/wex.txt"
+        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741847969922/wex.txt"
     },
-    
+    {
+      "key": "Wexhanxiaoquan",
+      "name": "💥韩剧┃弹幕💥",
+      "type": 3,
+      "api": "csp_WexhanxiaoquanGuard",
+      "searchable": 1,
+      "changeable": 1
+        "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741847969922/wex.txt"
+    },
   
 
 
