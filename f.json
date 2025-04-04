@@ -105,21 +105,6 @@
       "filterable": 1,
       "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
     },
-
-
-
-
-   
-
-
-    {
-      "key": "Wexhanxiaoquan",
-      "name": "💥韩剧┃弹幕💥",
-      "type": 3,
-      "api": "csp_WexhanxiaoquanGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
     {
       "key": "賤賤",
       "name": "💥賤片┃p2p💥",
@@ -128,22 +113,7 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
-      "key": "WexkuihuatvGuard",
-      "name": "💥葵花┃影视💥",
-      "type": 3,
-      "api": "csp_WexkuihuatvGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Fujutv",
-      "name": "😁腐剧┃影视😁",
-      "type": 3,
-      "api": "csp_WexFujutvGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
+   
     {
       "key": "WexquickvodGuard",
       "name": "🎇美剧┃秒播🎇",
