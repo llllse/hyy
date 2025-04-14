@@ -389,6 +389,24 @@
       "api": "csp_Wexduanju001Guard",
       "searchable": 1,
       "changeable": 1
+    },		
+   {
+      "key": "Wexconfig",
+      "name": "🐮通用类型┃配置中心🐮",
+      "type": 3,
+      "api": "csp_WexconfigGuard",
+      "searchable": 0,
+      "changeable": 0,
+	  "indexs": 0
+    },
+    {
+      "key": "Wexokconfig",
+      "name": "🐮影视专用┃配置中心🐮",
+      "type": 3,
+      "api": "csp_WexokconfigGuard",
+      "searchable": 0,
+      "changeable": 0,
+	  "indexs": 0
     },
     {
       "key": "Wexlaobaitingshu",
