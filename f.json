@@ -53,7 +53,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.momp4.cc",
+      "ext": "https://www.skymp4.com",
       "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
     },
  {
@@ -109,6 +109,27 @@
       "filterable": 1,
       "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
     },
+{"key":"csp_QnMp4",
+	"name":"🧲七妹",
+	"type":3,
+	"api":"csp_QnMp4",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":1,
+      "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
+},
+{"key":"csp_BLSGod",
+	"name":"🧲80S影视",
+	"type":3,
+	"api":"csp_BLSGod",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":1,
+        "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
+},
+
+
+	  
     {
       "key": "賤賤",
       "name": "💥賤片┃p2p💥",
@@ -117,7 +138,6 @@
       "searchable": 1,
       "changeable": 1
     },
-   
     {
       "key": "WexquickvodGuard",
       "name": "🎇美剧┃秒播🎇",
