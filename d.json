@@ -9,6 +9,28 @@
       "api": "csp_DoubanGuard",
       "searchable": 0
     },
+    {
+            "key": "花都",
+            "name": "花都｜影视",
+            "type": 3,
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "图片": "data-original=\"&&\"",
+                "链接": "href=\"&&\"",
+                "播放链接": "href=\"&&\"",
+                "播放列表": "<a&&</a",
+                "播放数组": "class=\"stui-content__playlist clearfix\">&&</ul>",
+                "分类url": "https://hd.huaduys.cc/vodshow/{cateId}--------{catePg}---.html",
+                "分类": "有码&无码&国产&欧美&动漫",
+                "分类值": "1&2&3&4&5"
+            }
+        },
  {
       "key": "热播",
       "name": "📺热播┃多线",
