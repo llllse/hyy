@@ -242,7 +242,8 @@
       "type": 3,
       "api": "csp_WexwencaiGuard",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746582907363/wex.txt;md5;79f4b7e4c845609e0c5c8c623906b0d0"
     },
     {
       "key": "Wexxpgtv",
@@ -250,7 +251,8 @@
       "type": 3,
       "api": "csp_WexxpgtvGuard",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746582907363/wex.txt;md5;79f4b7e4c845609e0c5c8c623906b0d0"
     },
     {
       "key": "Wexshandian",
@@ -258,7 +260,8 @@
       "type": 3,
       "api": "csp_WexshandianGuard",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,
+      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746582907363/wex.txt;md5;79f4b7e4c845609e0c5c8c623906b0d0"
     },
 
 
