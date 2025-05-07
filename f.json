@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746286098925/wex.txt;md5;ceed36dee9985e1362f15e33f42c5e0a",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746582907363/wex.txt;md5;79f4b7e4c845609e0c5c8c623906b0d0",
   "wallpaper": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/mv/main/0.jpg",
   "logo": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/a/4.gif",
   "sites": [
@@ -129,6 +129,14 @@
       "name": "💥賤片┃p2p💥",
       "type": 3,
       "api": "csp_WexJianpianGuard",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "WexkuihuatvGuard",
+      "name": "💥葵花┃影视💥",
+      "type": 3,
+      "api": "csp_WexkuihuatvGuard",
       "searchable": 1,
       "changeable": 1
     },
