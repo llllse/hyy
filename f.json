@@ -102,14 +102,6 @@
       "changeable": 1
     },
     {
-      "key": "Wexrenrenyingshi",
-      "name": "💥人人┃弹幕💥",
-      "type": 3,
-      "api": "csp_WexrenrenyingshiGuard",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "賤賤",
       "name": "💥賤片┃p2p💥",
       "type": 3,
