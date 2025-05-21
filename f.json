@@ -1029,6 +1029,13 @@
     "pv.vipwm.cc"
   ],
   "lives": [
+	{ 
+      "name": "IP解析", 
+      "api": "csp_MQiTV", 
+      "ext": "https://59.125.210.231:4433", 
+      "jar": "https://mpimg.cn/down.php/1f6ad25d85981dd689b5534170cdcd42.jar", 
+      "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}", 
+    },                    
 {"name": "七星",
        "type": 0,
        "url": "https://gitlab.com/tvkj/loong/-/raw/main/loog.txt",
