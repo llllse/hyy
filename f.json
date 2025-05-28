@@ -292,14 +292,36 @@
 	  
 
  {
-      "key": "csp_AppXY",
-      "name": "🎀️欧星牙短剧",
+      "key": "duanju",
+      "name": "🌟星芽┃短剧┃热推",
       "type": 3,
       "api": "csp_AppXY",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php;md5;6d2a470db438ab94e2ca9b70f2041d43",
       "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "河马短剧",
+      "name": "🦛河马┃短剧┃热推",
+      "type": 3,
+      "api": "http://我不是.摸鱼儿.com/py/河马短剧.py",
+      "searchable": 1,
+      "changeable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar"
+      "playerType": 2
+    },
+    {
+      "key": "偷乐短剧",
+      "name": "🤣偷乐┃短剧┃热推",
+      "type": 3,
+      "api": "http://我不是.摸鱼儿.com/py/偷乐短剧.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
     },
    {
       "key": "csp_SP360",
@@ -318,14 +340,7 @@
 
 
 
-      {
-      "key": "Wexduanju001",
-      "name": "🍉短剧┃极品🍉",
-      "type": 3,
-      "api": "csp_Wexduanju001Guard",
-      "searchable": 1,
-      "changeable": 1
-    },
+     
     {
       "key": "Wexlaobaitingshu",
       "name": "🎃‍白兔┃听书🎃",
