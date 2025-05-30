@@ -3,60 +3,7 @@
    "wallpaper": "https://gh-proxy.com/https://raw.githubusercontent.com/jingyi251/mv/main/0.jpg",
   "logo": "https://gh-proxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/4.gif",
   "sites": [
-     {
-      "key": "豆豆",
-      "name": "♨️网盘升级┃全速启动",
-      "type": 3,
-      "api": "csp_DouDouGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "jar": "http://我不是.摸鱼儿.com/by/jar/moyu.php"
-    },
-    {
-      "key": "金牌影视",
-      "name": "🏅金牌┃蓝光┃无广",
-      "type": 3,
-      "api": "http://我不是.摸鱼儿.com/py/金牌影视.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-	"jar":"http://我不是.摸鱼儿.com/by/jar/moyu.php",
-      "playerType": 2,
-      "ext": {
-        "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
-      }
-    },
- {
-      "key": "人人",
-      "name": "☃️人人┃蓝光┃无广",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php",
-      "ext": {
-        "url": "https://www.xiaohys.com",
-        "dataKey": "ENonBHeVBoYZhVUV",
-        "dataIv": "ENonBHeVBoYZhVUV",
-        "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
-        "version": "166"
-      }
-    },
- {
-      "key": "Lib",
-      "name": "🌟立播┃秒播┃纯净",
-      "type": 3,
-      "api": "csp_LibvioGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php",
-      "ext": {
-        "Cloud-drive": "TVBox/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
-    },
-
+ 
 
 
 
