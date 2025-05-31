@@ -4,13 +4,13 @@
 
    
 {
-    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1748106516861/wex.txt;md5;dfbd66450ef0f2da6f694082bfd7f72a",
-    "wallpaper": "http://王二小放牛娃牛逼.999888987.xyz",
-    "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716818643045/wexfnw.gif",
+     "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1748106516861/wex.txt;md5;dfbd66450ef0f2da6f694082bfd7f72a",
+     "wallpaper": "https://gh-proxy.com/https://raw.githubusercontent.com/jingyi251/mv/main/0.jpg",
+     "logo": "https://gh-proxy.com/https://raw.githubusercontent.com/jingyi251/a/main/a/4.gif",
     "sites": [
         {
             "key": "Douban",
-            "name": "🐮【公众号：王二小放牛娃】🐮",
+            "name": "🐮【公众号：王二小】🐮",
             "type": 3,
             "api": "csp_DoubanGuard",
             "searchable": 0,
@@ -18,6 +18,143 @@
             "filterable": 0,
             "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747636545646/douban.json"
         },
+
+
+{
+            "key": "热播",
+            "name": "📺热播┃多线",
+            "type": 3,
+            "api": "csp_AppTTGuard",
+            "timeout": 10,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "uqGL1bNENExT7/hGxpSE5qU=",
+            "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1748426350403/f0528.txt;md5;fc7b0752fe1f29b6c7a544e6af548599"
+        },
+ {
+      "key": "低端",
+      "name": "⏮️低端┃外剧",
+      "type": 3,
+      "api": "csp_DdrkGuard",
+      "timeout": 10,
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1748426350403/f0528.txt;md5;fc7b0752fe1f29b6c7a544e6af548599"
+    },
+{
+     "key":"即看",
+     "name":"🐻即看┃多线",
+     "type":3,"api":"csp_AppSxGuard",
+     "timeout":10,
+     "searchable":1,
+     "quickSearch":0,
+     "changeable":0,
+     "ext":"rfOX1voDIQhH8epBwtCFsub1+2maloq8lmJuL821WUsZJAZft2UtrrwhKK5Zxt1toWyFctBUmThhuDAjVuU=",
+     "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1748426350403/f0528.txt;md5;fc7b0752fe1f29b6c7a544e6af548599"
+    },
+   {
+     "key":"苹果",
+     "name":"🍎苹果┃不卡",
+     "type":3,
+     "api":"csp_LiteAppleGuard",
+     "timeout":10,
+     "searchable":1,
+     "quickSearch":1,
+     "changeable":1,
+     "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1748426350403/f0528.txt;md5;fc7b0752fe1f29b6c7a544e6af548599"
+   },
+   {
+     "key":"糯米",
+     "name":"🍓糯米┃秒播",
+     "type":3,
+     "api":"csp_NmyswvGuard",
+     "timeout":10,
+     "searchable":1,
+     "quickSearch":1,
+     "changeable":1,
+     "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1748426350403/f0528.txt;md5;fc7b0752fe1f29b6c7a544e6af548599"
+   },
+
+
+
+
+
+
+  {
+    "key": "csp_Mp4Mov",
+      "name": "🧲Mp4电影",
+      "type": 3,
+      "api": "csp_Mp4Mov",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.skymp4.com",    
+     "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
+    },
+ {
+      "key": "csp_SeedHub",
+      "name": "🧲SeedHub",
+      "type": 3,
+      "api": "csp_SeedHub",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.seedhub.cc",
+"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
+    },
+    {
+      "key": "csp_MeijuTT",
+      "name": "🧲美剧天堂",
+      "type": 3,
+      "api": "csp_MeijuTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.meijutt.net", "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
+    },
+   {
+      "key": "csp_Xunlei8",
+      "name": "🧲迅雷吧",
+      "type": 3,
+      "api": "csp_Xunlei8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1, 
+      "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
+    },
+{"key":"csp_QnMp4",
+	"name":"🧲七妹",
+	"type":3,
+	"api":"csp_QnMp4",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":1,   
+   "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
+},
+{"key":"csp_BLSGod",
+	"name":"🧲80S影视",
+	"type":3,
+	"api":"csp_BLSGod",
+	"searchable":1,
+	"quickSearch":1,
+	"filterable":1,     
+   "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
+},
+        {"key": "csp_XYQHiker_农民影视","name":"🧑🏻‍农民影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/xyqonlinerule/main/XYQHiker/农民影视.json","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
+        {"key":"drpy_js_奇珍异兽","name":"奇珍异兽[js]","type":3,"api":"https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/xyqonlinerule/main/dr_py/libs/drpy2.min.js","ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/xyqonlinerule/main/dr_py/js/奇珍异兽.js","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
+        {"key":"drpy_js_优酷","name":"优酷[js]","type":3,"api":"https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/xyqonlinerule/main/dr_py/libs/drpy2.min.js","ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/xyqonlinerule/main/dr_py/js/优酷.js","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
+        {"key":"drpy_js_腾云驾雾","name":"腾云驾雾[js]","type":3,"api":"https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/xyqonlinerule/main/dr_py/libs/drpy2.min.js","ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/xyqonlinerule/main/dr_py/js/腾云驾雾.js","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
+        {"key":"drpy_js_百忙无果","name":"百忙无果[js]","type":3,"api":"https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/xyqonlinerule/main/dr_py/libs/drpy2.min.js","ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/xyqonlinerule/main/dr_py/js/百忙无果.js","jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"},
+
+
+
+
+
+
        
         {
             "key": "Wexhanxiaoquan",
