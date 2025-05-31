@@ -16,51 +16,7 @@
         },
 
 
-{
-            "key": "csp_厂厂",
-            "name": "🎈厂厂｜影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "请求头": "user-Agent$Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36",
-                "编码": "UTF-8",
-                "简介": "class=\"detail-sketch\">&&</span>",
-                "标题": "title=\"&&\"",
-                "副标题": "🔥+pic-text text-right\"&&</span>",
-                "图片": "data-original=\"&&\"",
-                "播放数组": "ul class=\"stui-content__playlist clearfix\"&&</ul>",
-                "分类url": "https://www.czvod.cc/vodshow/id/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
-                "分类": "电影$dianying#剧集$juji#综艺$zongyi#短剧$duanju"
-            }
-        },
-{
-            "key": "csp_xbpq鸡",
-            "name": "蛋蛋🐔｜影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "数组": "li class=\"item\">&&</li>",
-                "标题": "title=\"&&\"",
-                "副标题": "🔥+class=\"item-num\">&&</span>",
-                "图片": "data-echo=\"&&\"",
-                "播放链接": "href=\"&&\"",
-                "线路数组": "<a href=\"javascript:;&&/a>",
-                "线路标题": ">&&<",
-                "播放数组": "class=\"clearfix\">&&</ul>",
-                "播放列表": "<a&&</a>",
-                "跳转播放链接": "src=\"&&\"",
-                "搜索url": "",
-                "分类url": "https://www.dandanji.cc/list/{cateId}_{catePg}_desc_time_0_0___.html",
-                "分类": "电影$1#剧集$2#综艺$3#动漫$4"
-            }
-        },
+
 
 
 
@@ -78,7 +34,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "uqGL1bNENExT7/hGxpSE5qU=",
-            "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1748426350403/f0528.txt;md5;fc7b0752fe1f29b6c7a544e6af548599"
+            "jar":"http://我不是.摸鱼儿.com/by/jar/moyu.php;md5;0a9c6b44a20445a9b3c2a39763ef7cf1"
         },
  {
       "key": "低端",
