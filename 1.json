@@ -1,8 +1,4 @@
-
-
-
-
-   
+  
 {
      "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1748106516861/wex.txt;md5;dfbd66450ef0f2da6f694082bfd7f72a",
      "wallpaper": "https://gh-proxy.com/https://raw.githubusercontent.com/jingyi251/mv/main/0.jpg",
@@ -81,6 +77,103 @@
 
 
 
+
+{
+      "key": "金牌影视",
+      "name": "🏅金牌┃蓝光┃无广",
+      "type": 3,
+      "api": "http://我不是.摸鱼儿.com/py/金牌影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+	"jar":"http://我不是.摸鱼儿.com/by/jar/moyu.php",
+      "playerType": 2,
+      "ext": {
+        "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
+      }
+    },
+ {
+      "key": "人人",
+      "name": "☃️人人┃蓝光┃无广",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php",
+      "ext": {
+        "url": "https://www.xiaohys.com",
+        "dataKey": "ENonBHeVBoYZhVUV",
+        "dataIv": "ENonBHeVBoYZhVUV",
+        "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
+        "version": "166"
+      }
+    },
+ {
+      "key": "Lib",
+      "name": "🌟立播┃秒播┃纯净",
+      "type": 3,
+      "api": "csp_LibvioGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php",
+      "ext": {
+        "Cloud-drive": "TVBox/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+ {
+      "key": "duanju",
+      "name": "🌟星芽┃短剧┃热推",
+      "type": 3,
+      "api": "csp_AppXY",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php;md5;6d2a470db438ab94e2ca9b70f2041d43",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "河马短剧",
+      "name": "🦛河马┃短剧┃热推",
+      "type": 3,
+      "api": "http://我不是.摸鱼儿.com/py/河马短剧.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "偷乐短剧",
+      "name": "🤣偷乐┃短剧┃热推",
+      "type": 3,
+      "api": "http://我不是.摸鱼儿.com/py/偷乐短剧.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "jar":"http://我不是.摸鱼儿.com/by/jar/moyu.php"
+    },
+  {
+	"key":"热播",
+	"name":"📺热播┃多线┃纯净",
+	"type":3,
+	"api":"csp_AppTTGuard",
+	"playerType":2,
+	"searchable":1,
+	"quickSearch":1,
+	"changeable":1,
+	"ext":"uqGL1bNENExT7/hGxpSE5qU=",
+      "jar":"http://我不是.摸鱼儿.com/by/jar/moyu.php"
+  },
+
+
+
+
+
+
+
+	    
 
 
 
@@ -641,134 +734,7 @@
                 "type": "list"
             }
         },
-        {
-            "key": "WexTJso",
-            "name": "🎠TJ┃综合🎠",
-            "type": 3,
-            "api": "csp_WexTJsoGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "Wextyso",
-            "name": "🎠给力┃天逸🎠",
-            "type": 3,
-            "api": "csp_WextysoGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "WexbaidusoGuard",
-            "name": "🎠给力┃百度🎠",
-            "type": 3,
-            "api": "csp_WexbaidusoGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "WexAiPanGuard",
-            "name": "🎠给力┃综合🎠",
-            "type": 3,
-            "api": "csp_WexAiPanGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "115",
-            "name": "💓我的┃115💓‍",
-            "type": 3,
-            "api": "csp_Wex115shareGuard",
-            "searchable": 1,
-            "changeable": 1,
-            "timeout": 50,
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "tianyi",
-            "name": "💓我的┃天逸💓‍",
-            "type": 3,
-            "api": "csp_WexWo189Guard",
-            "searchable": 1,
-            "changeable": 1,
-            "timeout": 50,
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "夸克",
-            "name": "💓我的┃夸克💓‍",
-            "type": 3,
-            "api": "csp_WexWoquarkpanGuard",
-            "searchable": 1,
-            "changeable": 1,
-            "timeout": 50,
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "优熙",
-            "name": "💓我的┃优熙💓‍",
-            "type": 3,
-            "api": "csp_WexWoucpanGuard",
-            "searchable": 1,
-            "changeable": 1,
-            "timeout": 50,
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "异动",
-            "name": "💓我的┃异动💓‍",
-            "type": 3,
-            "api": "csp_WexWoydpanGuard",
-            "searchable": 1,
-            "changeable": 1,
-            "timeout": 50,
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "WexWo123panGuard",
-            "name": "💓我的┃123💓‍",
-            "type": 3,
-            "api": "csp_WexWo123panGuard",
-            "searchable": 1,
-            "changeable": 1,
-            "timeout": 50,
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "xunlei",
-            "name": "💓我的┃讯蕾💓‍",
-            "type": 3,
-            "api": "csp_WexWoXunLeiPanGuard",
-            "searchable": 1,
-            "changeable": 1,
-            "timeout": 50,
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "baidu",
-            "name": "💓我的┃百度💓‍",
-            "type": 3,
-            "api": "csp_WexWoBaiduPanGuard",
-            "searchable": 1,
-            "changeable": 1,
-            "timeout": 50,
-            "style": {
-                "type": "list"
-            }
-        },
+       
         {
             "key": "push_agent",
             "name": "推送",
