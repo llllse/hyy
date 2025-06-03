@@ -769,17 +769,7 @@
       "status": "normal",
       "type_text": "Type 1",
       "status_text": "正常"
-    },  
-	     {
-      "name": "-云解析-",
-      "type": 0,
-      "url": "https://jx.yparse.com/index.php?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-        }
-      }
-    },
+    },    
     {
       "name": "云",
       "type": 0,
@@ -1015,7 +1005,16 @@
       "url": "https://bd.jx.cn/?url="
     },
    
-   
+    {
+      "name": "-云解析-",
+      "type": 0,
+      "url": "https://jx.yparse.com/index.php?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
     {
       "name": "-PJY-",
       "type": 0,
@@ -1174,33 +1173,12 @@
         "mozai.4gtv.tv",
         "pv.vipwm.cc"
     ],
-   
- 
-"lives": [
-	{ 
-      "name": "IP解析", 
-      "api": "csp_MQiTV", 
-      "ext": "https://59.125.210.231:4433", 
-      "jar": "https://mpimg.cn/down.php/1f6ad25d85981dd689b5534170cdcd42.jar", 
-      "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}", 
-    },                    
-{"name": "七星",
-       "type": 0,
-       "url": "https://gitlab.com/tvkj/loong/-/raw/main/loog.txt",
-       "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-     },	 
-     {"name": "自己播",
-       "type": 0,
-       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/jingyi251/a/main/悠哉1.txt",
-       "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
-     },	 
-    {
-      "name": "范明明",
-      "type": 0,
-      "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
-      "playerType": 1
-    }
-  ]
+    "lives": [
+        {
+            "name": "范明明",
+            "type": 0,
+            "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
+            "playerType": 1
+        }
+    ]
 }
