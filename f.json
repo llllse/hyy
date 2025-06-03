@@ -23,19 +23,7 @@
 
 
 	    
-{
-            "key": "热播",
-            "name": "📺热播┃多线",
-            "type": 3,
-            "api": "csp_AppTTGuard",
-            "timeout": 10,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "uqGL1bNENExT7/hGxpSE5qU=",
-            "jar":"http://我不是.摸鱼儿.com/by/jar/moyu.php;md5;0a9c6b44a20445a9b3c2a39763ef7cf1"
-        },
+
  {
       "key": "低端",
       "name": "⏮️低端┃外剧",
