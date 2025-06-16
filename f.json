@@ -72,6 +72,37 @@
 
 
 
+{
+	"key":"热播",
+	"name":"📺热播┃多线┃纯净",
+	"type":3,
+	"api":"csp_AppTTGuard",
+	"playerType":2,
+	"searchable":1,
+	"quickSearch":1,
+	"changeable":1,
+	"ext":"uqGL1bNENExT7/hGxpSE5qU=",
+      "jar":"http://我不是.摸鱼儿.com/by/jar/moyu.php"
+  },
+{
+      "key": "文采",
+      "name": "💮文采┃秒播┃纯净",
+      "type": 3,
+      "api": "csp_JpysGuard",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar":"http://我不是.摸鱼儿.com/by/jar/moyu.php"
+    },
+{
+      "key": "三六零弹幕",
+      "name": "🫐三六┃蓝光┃纯净",
+      "type": 3,
+      "api": "csp_Sp360",
+      "jar": "http://我不是.摸鱼儿.xyz/by/jar/moyuer.php"
+    },
+
 
 {
       "key": "金牌影视",
@@ -149,21 +180,7 @@
       "playerType": 2,
       "jar":"http://我不是.摸鱼儿.com/by/jar/moyu.php"
     },
-  {
-	"key":"热播",
-	"name":"📺热播┃多线┃纯净",
-	"type":3,
-	"api":"csp_AppTTGuard",
-	"playerType":2,
-	"searchable":1,
-	"quickSearch":1,
-	"changeable":1,
-	"ext":"uqGL1bNENExT7/hGxpSE5qU=",
-      "jar":"http://我不是.摸鱼儿.com/by/jar/moyu.php"
-  },
-
-
-
+  
 
 
 
