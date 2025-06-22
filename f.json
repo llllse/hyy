@@ -73,6 +73,34 @@
 
 
 {
+            "key": "电影天堂",
+            "name": "电影天堂",
+            "type": 1,
+            "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "天涯采集",
+            "name": "天涯采集",
+            "type": 1,
+            "api": "http://tyyszy.com/api.php/provide/vod",
+            "searchable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+
+
+
+
+
+
+	    
+
+{
 	"key":"热播",
 	"name":"📺热播┃多线┃纯净",
 	"type":3,
