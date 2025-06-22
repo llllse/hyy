@@ -15,7 +15,17 @@
             "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747636545646/douban.json"
         },
 
-
+{
+  "key": "php_madou",
+  "name": "麻豆(T4)",
+  "type": 4,
+  "api": "https://json.doube.eu.org/madou.php",
+  "searchable": 1,
+  "quickSearch": 0,
+  "filterable": 0,
+  "changeable": 0,
+  "style": {"type": "rect", "ratio": 1.5}
+},
 
 {
             "key": "电影天堂",
