@@ -18,7 +18,7 @@
             "name": "油管清单播放",
             "type": 4,
             "api": "http://127.0.0.1:1988/lb?lb=9",
-            "ext": "./json/油管/",
+            "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/lz/json/油管/",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -30,7 +30,7 @@
             "name": "影视清单播放",
             "type": 4,
             "api": "http://127.0.0.1:1988/lb?lb=9",
-            "ext": "./json/影视/",
+            "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/lz/json/影视/",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -54,7 +54,7 @@
             "name": "油管文件播放",
             "type": 4,
             "api": "http://127.0.0.1:1988/lb?lb=8",
-            "ext": "./wj/油管/",
+            "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/lz/wj/油管/",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -66,7 +66,7 @@
             "name": "影视文件播放",
             "type": 4,
             "api": "http://127.0.0.1:1988/lb?lb=8",
-            "ext": "./wj/影视/",
+            "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/lz/wj/影视/",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -90,7 +90,7 @@
             "name": "音乐文件播放",
             "type": 4,
             "api": "http://127.0.0.1:1988/lb?lb=8",
-            "ext": "./wj/音乐/",
+            "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/jingyi251/a/main/lz/wj/音乐/",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
