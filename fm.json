@@ -26,7 +26,7 @@
             "playerType": 2,
             "timeout": 30,
             "changeable": 0,
-            "ext": "https://www.wogg.one/"
+            "ext": "https://www.wogg.com/"
         },
  {
             "key": "csp_Duopan",
@@ -862,3 +862,4 @@
     ]
 
 }
+
