@@ -17,6 +17,17 @@
             "api": "csp_Config",
             "playerType": 2
         },
+		{
+            "key": "csp_Panda_玩偶哥哥",
+            "name": "👲┃玩偶┃影视",
+            "api": "csp_Wogg",
+            "type": 3,
+            "searchable": 1,
+            "playerType": 2,
+            "timeout": 30,
+            "changeable": 0,
+            "ext": "https://www.wogg.one/"
+        },
  {
             "key": "csp_Duopan",
             "name": "🖍︎┃蜡笔┃影视",
@@ -849,4 +860,5 @@
             ]
         }
     ]
+
 }
