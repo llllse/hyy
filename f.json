@@ -18,18 +18,21 @@
 
 
 {
-  "key":"当前版本",
-  "name":"真心20250711-增量包.zip",
-  "zip":"https://tvv.tw/https://raw.githubusercontent.com/fish2018/ZX/main/真心20250711-增量包.zip",
-  "type":3,
-  "api":"csp_TgYunDouBanPan",
-  "TG影视资源群组":"ResourceUniverse原tgsearchers",
-  "searchable":0,
-  "changeable":0,
-  "jar":"https://cnb.cool/fish2018/zx/-/git/raw/master/custom_spider.jar;md5;43989964965deab2a4b6b48251043412",	
-  "ext":{"siteUrl":"https://tgsou.252035.xyz","channelUsername":"ResourceUniverse","commonConfig":"https://cnb.cool/fish2018/zx/-/git/raw/master/json/peizhi.json","filter":"https://cnb.cool/fish2018/zx/-/git/raw/master/json/douban.json"}
-},
-
+            "key": "当前版本",
+            "name": "真心20250813-增量包.zip",
+            "zip": "https://raw.yzuu.cf/fish2018/ZX/main/真心20250813-增量包.zip",
+            "type": 3,
+            "api": "csp_TgYunDouBanPan",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": {
+                "siteUrl": "https://tgsou.252035.xyz",
+                "channelUsername": "tgsearchers3",
+                "commonConfig": "https://cnb.cool/fish2018/zx/-/git/raw/master/json/peizhi.json",
+                "filter": "https://cnb.cool/fish2018/zx/-/git/raw/master/json/douban.json"
+        },
+  "jar":"https://cnb.cool/fish2018/zx/-/git/raw/master/custom_spider.jar;md5;43989964965deab2a4b6b48251043412"
+ },
 
 
 
@@ -1172,6 +1175,7 @@
         }
     ]
 }
+
 
 
 
