@@ -262,9 +262,9 @@
 
 
        
-        {
+         {
             "key": "Wexhanxiaoquan",
-            "name": "💥韩剧┃弹幕💥",
+            "name": "💥韩剧┃秒播💥",
             "type": 3,
             "api": "csp_WexhanxiaoquanGuard",
             "searchable": 1,
@@ -272,7 +272,7 @@
         },
         {
             "key": "Wexrenrenyingshi",
-            "name": "💥人人┃弹幕💥",
+            "name": "💥人人┃秒播💥",
             "type": 3,
             "api": "csp_WexrenrenyingshiGuard",
             "searchable": 1,
@@ -295,10 +295,26 @@
             "changeable": 1
         },
         {
-            "key": "WexquickvodGuard",
-            "name": "🎇美剧┃秒播🎇",
+            "key": "Wexwencai",
+            "name": "🌺文才┃秒播🌺",
             "type": 3,
-            "api": "csp_WexquickvodGuard",
+            "api": "csp_WexwencaiGuard",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Wexxpgtv",
+            "name": "🌺苹果┃秒播🌺",
+            "type": 3,
+            "api": "csp_WexxpgtvGuard",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Wexshandian",
+            "name": "🌺闪电┃秒播🌺",
+            "type": 3,
+            "api": "csp_WexshandianGuard",
             "searchable": 1,
             "changeable": 1
         },
@@ -307,22 +323,6 @@
             "name": "🎇急速┃秒播🎇",
             "type": 3,
             "api": "csp_Wex4KavGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Wexsaohuo",
-            "name": "🎇火火┃秒播🎇",
-            "type": 3,
-            "api": "csp_WexsaohuoGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Wexzxzj",
-            "name": "🎇外剧┃秒播🎇",
-            "type": 3,
-            "api": "csp_WexzxzjGuard",
             "searchable": 1,
             "changeable": 1
         },
@@ -389,14 +389,6 @@
             "api": "csp_WexXb6vGuard",
             "searchable": 1,
             "changeable": 0
-        },
-        {
-            "key": "Wexemby",
-            "name": "🀄️emby┃4K🀄️",
-            "type": 3,
-            "api": "csp_WexembyGuard",
-            "searchable": 1,
-            "changeable": 1
         },
      
         
@@ -1160,6 +1152,7 @@
         }
     ]
 }
+
 
 
 
