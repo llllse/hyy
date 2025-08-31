@@ -10,12 +10,7 @@
             "api": "csp_Douban",
             "searchable": 0
         },
- {
-            "name": "音乐",
-            "type": 0,
-            "url": "http://mytv.3d.tc//i/?T=%E9%9F%B3%E4%B9%90",
-            "playerType": 1
-        },
+
 
 		
                {
@@ -915,6 +910,7 @@
     ]
 
 }
+
 
 
 
