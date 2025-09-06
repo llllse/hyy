@@ -1138,6 +1138,14 @@
         "pv.vipwm.cc"
     ],
     "lives": [
+		 {
+            "name": "网络",
+            "type": 0,
+            "url": "https://git.acwing.com/bang359/ba/-/raw/main/dsj4.16.txt",
+            "playerType": 2,
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://11.112114.xyz/logo/{name}.png"
+        },
         {
             "name": "范明明",
             "type": 0,
@@ -1146,6 +1154,7 @@
         }
     ]
 }
+
 
 
 
