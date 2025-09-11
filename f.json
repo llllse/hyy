@@ -33,7 +33,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/2bdded774db1bfc1/f0821.jpg;md5;bcaa35ff60c87f537cf509da3c40411e"
+      "jar":"https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250910-576013-ea17b2ca8af149f6885ce0a49dd16e2f.jpg;md5;98ca59a872d6d4d89c8c7e2aafb4dae1"
     },
    {
      "key":"苹果",
@@ -44,7 +44,7 @@
      "searchable":1,
      "quickSearch":1,
      "changeable":1,
-     "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/2bdded774db1bfc1/f0821.jpg;md5;bcaa35ff60c87f537cf509da3c40411e"
+     "jar":"https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250910-576013-ea17b2ca8af149f6885ce0a49dd16e2f.jpg;md5;98ca59a872d6d4d89c8c7e2aafb4dae1"
    },
    {
      "key":"糯米",
@@ -55,7 +55,7 @@
      "searchable":1,
      "quickSearch":1,
      "changeable":1,
-     "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/2bdded774db1bfc1/f0821.jpg;md5;bcaa35ff60c87f537cf509da3c40411e"
+     "jar":"https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250910-576013-ea17b2ca8af149f6885ce0a49dd16e2f.jpg;md5;98ca59a872d6d4d89c8c7e2aafb4dae1"
    },
 {
             "key": "文采",
@@ -67,7 +67,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/2bdded774db1bfc1/f0821.jpg;md5;bcaa35ff60c87f537cf509da3c40411e"
+            "jar":"https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250910-576013-ea17b2ca8af149f6885ce0a49dd16e2f.jpg;md5;98ca59a872d6d4d89c8c7e2aafb4dae1"
    },
 
 
@@ -1154,6 +1154,7 @@
         }
     ]
 }
+
 
 
 
