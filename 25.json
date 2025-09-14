@@ -360,76 +360,15 @@
         },
 
 	  
-    {
-      "key": "Wexhanxiaoquan",
-      "name": "💥韩剧┃秒播💥",
-      "type": 3,
-      "api": "csp_WexhanxiaoquanGuard",
-      "searchable": 1,
-      "changeable": 1,   
-   "jar":"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/1357650_773_wex_20250912014740400newMediaFile.png;md5;a62dead336e33e77f2473e98ecfd3466"
-    },
-    {
-      "key": "Wexrenrenyingshi",
-      "name": "💥人人┃秒播💥",
-      "type": 3,
-      "api": "csp_WexrenrenyingshiGuard",
-      "searchable": 1,
-      "changeable": 1,   
-   "jar":"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/1357650_773_wex_20250912014740400newMediaFile.png;md5;a62dead336e33e77f2473e98ecfd3466"
-    },
-    {
-      "key": "賤賤",
-      "name": "💥賤片┃p2p💥",
-      "type": 3,
-      "api": "csp_WexJianpianGuard",
-      "searchable": 1,
-      "changeable": 1,   
-      "jar":"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/1357650_773_wex_20250912014740400newMediaFile.png;md5;a62dead336e33e77f2473e98ecfd3466"
-    },
-    {
-      "key": "WexkuihuatvGuard",
-      "name": "💥葵花┃影视💥",
-      "type": 3,
-      "api": "csp_WexkuihuatvGuard",
-      "searchable": 1,
-      "changeable": 1,   
-      "jar":"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/1357650_773_wex_20250912014740400newMediaFile.png;md5;a62dead336e33e77f2473e98ecfd3466"
-    },
-    //{
-      //"key": "Wexwencai",
-      //"name": "🌺文才┃秒播🌺",
-      //"type": 3,
-      //"api": "csp_WexwencaiGuard",
-      //"searchable": 1,
-      //"changeable": 1,   
-      //"jar":"https://hk.gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar"
-   // },
-    //{
-     // "key": "Wexxpgtv",
-      //"name": "🌺苹果┃秒播🌺",
-      //"type": 3,
-      //"api": "csp_WexxpgtvGuard",
-      //"searchable": 1,
-      //"changeable": 1,   
-      //"jar":"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/1357650_773_wex_20250912014740400newMediaFile.png;md5;a62dead336e33e77f2473e98ecfd3466"
-    //},
-    {
-      "key": "Wexshandian",
-      "name": "🌺闪电┃秒播🌺",
-      "type": 3,
-      "api": "csp_WexshandianGuard",
-      "searchable": 1,
-      "changeable": 1,   
-    "jar":"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/1357650_773_wex_20250912014740400newMediaFile.png;md5;a62dead336e33e77f2473e98ecfd3466"
-    },
+   
     {
       "key": "Wex4Kav",
       "name": "🎇急速┃秒播🎇",
       "type": 3,
       "api": "csp_Wex4KavGuard",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,   
+      "jar":"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/1357650_773_wex_20250912014740400newMediaFile.png;md5;a62dead336e33e77f2473e98ecfd3466"
     },
     {
       "key": "Wexbaozitv",
@@ -437,7 +376,8 @@
       "type": 3,
       "api": "csp_WexbaozitvGuard",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,   
+      "jar":"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/1357650_773_wex_20250912014740400newMediaFile.png;md5;a62dead336e33e77f2473e98ecfd3466"
     },
     {
       "key": "csp_Nmys",
@@ -445,7 +385,8 @@
       "type": 3,
       "api": "csp_WexNmysGuard",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,   
+      "jar":"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/1357650_773_wex_20250912014740400newMediaFile.png;md5;a62dead336e33e77f2473e98ecfd3466"
     },
     {
       "key": "Diduanys",
@@ -453,7 +394,8 @@
       "type": 3,
       "api": "csp_WexDiduanysGuard",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,   
+      "jar":"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/1357650_773_wex_20250912014740400newMediaFile.png;md5;a62dead336e33e77f2473e98ecfd3466"
     },
     {
       "key": "WexBDys",
@@ -461,7 +403,8 @@
       "type": 3,
       "api": "csp_WexBDysGuard",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,   
+      "jar":"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/1357650_773_wex_20250912014740400newMediaFile.png;md5;a62dead336e33e77f2473e98ecfd3466"
     },
     {
       "key": "WexF4kvmGuard",
@@ -469,7 +412,8 @@
       "type": 3,
       "api": "csp_WexF4kvmGuard",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,   
+      "jar":"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/1357650_773_wex_20250912014740400newMediaFile.png;md5;a62dead336e33e77f2473e98ecfd3466"
     },
     {
       "key": "WexbttwoGuard",
@@ -477,7 +421,8 @@
       "type": 3,
       "api": "csp_WexbttwoGuard",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,   
+      "jar":"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/1357650_773_wex_20250912014740400newMediaFile.png;md5;a62dead336e33e77f2473e98ecfd3466"
     },
     {
       "key": "WexikanbotGuard",
@@ -485,7 +430,8 @@
       "type": 3,
       "api": "csp_WexikanbotGuard",
       "searchable": 1,
-      "changeable": 1
+      "changeable": 1,   
+      "jar":"https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/1357650_773_wex_20250912014740400newMediaFile.png;md5;a62dead336e33e77f2473e98ecfd3466"
     },
 
 
