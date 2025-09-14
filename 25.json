@@ -18,9 +18,7 @@
       "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747636545646/douban.json"
     },
 	    {
-      "key": "
-
-csp_woog","name":"🐲玩欧｜4K弹幕","type":3,"changeable":"0","api":"csp_Duopan","filterable":1,"jar":"https://ncstatic.clewm.net/rsrc/2025/0906/15/ef659d0bccd82cea647cab5683ad79f9.jpg;md5;d29b7750dc6fc68cfbd5d40b1503d9d0","ext":{"site_urls":["https://woog.nxog.fun","https://woog.nxog.eu.org",],"url_key":"woog","threadinfo":{"chunksize":228,"threads":16}}},
+      "key": "csp_woog","name":"🐲玩欧｜4K弹幕","type":3,"changeable":"0","api":"csp_Duopan","filterable":1,"jar":"https://ncstatic.clewm.net/rsrc/2025/0906/15/ef659d0bccd82cea647cab5683ad79f9.jpg;md5;d29b7750dc6fc68cfbd5d40b1503d9d0","ext":{"site_urls":["https://woog.nxog.fun","https://woog.nxog.eu.org",],"url_key":"woog","threadinfo":{"chunksize":228,"threads":16}}},
 
 {"key": "config", "name": "🐲配置｜中心","type": 3,"jar":"https://ncstatic.clewm.net/rsrc/2025/0906/15/b32ddff84142af8175d536a6b1e9ae41.jpg;md5;dd19c67b72b708f567d94500d7d9ab4e ","api": "csp_Config","searchable": 0},
 
@@ -38,9 +36,7 @@ csp_woog","name":"🐲玩欧｜4K弹幕","type":3,"changeable":"0","api":"csp_Du
       "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747636545646/douban.json"
     },
     {
-      "key": "
-
-csp_woog","name":"🐲玩欧｜4K弹幕","type":3,"changeable":"0","api":"csp_Duopan","filterable":1,"jar":"https://ncstatic.clewm.net/rsrc/2025/0906/15/ef659d0bccd82cea647cab5683ad79f9.jpg;md5;d29b7750dc6fc68cfbd5d40b1503d9d0","ext":{"site_urls":["https://woog.nxog.fun","https://woog.nxog.eu.org",],"url_key":"woog","threadinfo":{"chunksize":228,"threads":16}}},
+      "key": "csp_woog","name":"🐲玩欧｜4K弹幕","type":3,"changeable":"0","api":"csp_Duopan","filterable":1,"jar":"https://ncstatic.clewm.net/rsrc/2025/0906/15/ef659d0bccd82cea647cab5683ad79f9.jpg;md5;d29b7750dc6fc68cfbd5d40b1503d9d0","ext":{"site_urls":["https://woog.nxog.fun","https://woog.nxog.eu.org",],"url_key":"woog","threadinfo":{"chunksize":228,"threads":16}}},
 
 {"key": "config", "name": "🐲配置｜中心","type": 3,"jar":"https://ncstatic.clewm.net/rsrc/2025/0906/15/b32ddff84142af8175d536a6b1e9ae41.jpg;md5;dd19c67b72b708f567d94500d7d9ab4e ","api": "csp_Config","searchable": 0},
 
